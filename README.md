@@ -1,19 +1,19 @@
-# Acropolis Real Estate — site statique (Cloudflare Pages)
+# Acropolis Real Estate — Cloudflare Worker (assets statiques)
 
-Site exporté depuis Manus, prêt pour Cloudflare Pages. Il n'y a **aucune étape de build** :
-le dossier `public/` est le site final (28 pages EN/FR, images, polices, CSS/JS,
+Site exporté depuis Manus, déployé comme Worker Cloudflare avec assets statiques
+(`wrangler.jsonc`). Il n'y a **aucune étape de build** : le dossier `public/` est le site final (28 pages EN/FR, images, polices, CSS/JS,
 `404.html`, `robots.txt`, `sitemap.xml`, `_headers`).
 
-## Réglages Cloudflare Pages (Connect to Git)
+## Réglages du Worker (Workers Builds, Git)
 
-| Réglage                  | Valeur                       |
-|--------------------------|------------------------------|
-| Framework preset         | `None`                       |
-| Build command            | *(laisser vide)*             |
-| Build output directory   | `public`                     |
-| Root directory           | *(laisser vide)*             |
+| Réglage                | Valeur                |
+|------------------------|-----------------------|
+| Commande de build      | *(vide)*              |
+| Commande de déploiement| `npx wrangler deploy` |
+| Répertoire racine      | `/`                   |
 
-Chaque `git push` sur la branche de production redéploie le site automatiquement.
+Chaque `git push` sur la branche suivie redéploie le site automatiquement.
+`src/worker.js` traite `/api/contact` et laisse tout le reste aux fichiers de `public/`.
 
 ## Contrôles après déploiement
 
@@ -23,9 +23,9 @@ et une URL inexistante (doit afficher la page 404 du site).
 
 ## Formulaire de contact (Resend)
 
-Le formulaire envoie les demandes à `POST /api/contact` (`functions/api/contact.js`),
+Le formulaire envoie les demandes à `POST /api/contact` (`src/contact.js`),
 qui les transmet par e-mail via [Resend](https://resend.com). Variables à définir dans
-**Pages → Settings → Variables and Secrets** (Production) :
+**Worker → Paramètres → Variables et secrets** (Production) :
 
 | Nom              | Type   | Exemple                                                        |
 |------------------|--------|----------------------------------------------------------------|
@@ -34,8 +34,8 @@ qui les transmet par e-mail via [Resend](https://resend.com). Variables à défi
 | `CONTACT_FROM`   | Texte  | `Acropolis Real Estate <contact@acropolis-real-estate.com>`    |
 
 `CONTACT_FROM` doit utiliser un domaine vérifié dans Resend. Le bouton « Répondre » de
-l'e-mail reçu répond directement au visiteur. Après avoir modifié une variable, il faut
-redéployer (Deployments → Retry deployment).
+l'e-mail reçu répond directement au visiteur. `keep_vars` est activé : les variables saisies
+dans le tableau de bord sont conservées à chaque déploiement.
 
 ## À savoir
 

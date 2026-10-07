@@ -1,6 +1,6 @@
-// Cloudflare Pages Function: POST /api/contact
+// POST /api/contact
 // Sends the contact form by email through Resend (https://resend.com).
-// Required environment variables (Pages > Settings > Variables and Secrets):
+// Required environment variables (Worker > Settings > Variables and Secrets):
 //   RESEND_API_KEY  secret, the Resend API key (re_...)
 //   CONTACT_TO      address that receives the requests (comma-separated for several)
 //   CONTACT_FROM    sender on the verified domain, e.g. "Acropolis Real Estate <contact@acropolis-real-estate.com>"
@@ -13,7 +13,7 @@ const escapeHtml = (s) =>
 const json = (body, status = 200) =>
   new Response(JSON.stringify(body), { status, headers: { "Content-Type": "application/json" } });
 
-export async function onRequestPost({ request, env }) {
+export async function handleContact(request, env) {
   if (!env.RESEND_API_KEY || !env.CONTACT_TO || !env.CONTACT_FROM) {
     return json({ ok: false, error: "not_configured" }, 500);
   }
