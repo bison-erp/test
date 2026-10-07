@@ -21,9 +21,23 @@ Chaque `git push` sur la branche de production redéploie le site automatiquemen
 `/manus-storage/acropolis-logo-gold_47dc0308.webp`, `/robots.txt`, `/sitemap.xml`,
 et une URL inexistante (doit afficher la page 404 du site).
 
+## Formulaire de contact (Resend)
+
+Le formulaire envoie les demandes à `POST /api/contact` (`functions/api/contact.js`),
+qui les transmet par e-mail via [Resend](https://resend.com). Variables à définir dans
+**Pages → Settings → Variables and Secrets** (Production) :
+
+| Nom              | Type   | Exemple                                                        |
+|------------------|--------|----------------------------------------------------------------|
+| `RESEND_API_KEY` | Secret | `re_xxxxxxxx`                                                  |
+| `CONTACT_TO`     | Texte  | `contact@acropolis-real-estate.com` (plusieurs : séparés par `,`) |
+| `CONTACT_FROM`   | Texte  | `Acropolis Real Estate <contact@acropolis-real-estate.com>`    |
+
+`CONTACT_FROM` doit utiliser un domaine vérifié dans Resend. Le bouton « Répondre » de
+l'e-mail reçu répond directement au visiteur. Après avoir modifié une variable, il faut
+redéployer (Deployments → Retry deployment).
+
 ## À savoir
 
-- Le formulaire **Contact / Newsletter n'envoie rien** : il affiche un message de succès
-  sans transmettre la demande. À brancher sur un vrai service avant de compter dessus.
 - Les URL canoniques et le sitemap pointent vers `https://acropolis-real-estate.com`
   (sans `www`). `www` doit rediriger vers cette version.
