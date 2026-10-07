@@ -85,7 +85,7 @@ export default function Home() {
                 {t("intro.p1", "As a real estate agency, Acropolis Real Estate has a network that gives you access to the most beautiful apartments in Paris, the Paris region, the French Riviera, and Luxembourg, including off-market properties.")}
               </p>
               <p>
-                {t("intro.p2", "We identify your needs, and a qualified professional will select properties that match your requirements, welcome you, and guide you through the process—all at no extra cost.")}
+                {t("intro.p2", "We identify your needs, and a qualified professional will select properties that match your requirements, welcome you, and guide you through the process, with fees from 2% of the purchase price agreed upfront.")}
               </p>
               <div className="border-l-2 border-accent pl-4 py-1 my-4 space-y-3">
                 <p>
@@ -95,7 +95,7 @@ export default function Home() {
                   <strong>{t("intro.hotelsTitle", "HOTELS:")}</strong> {t("intro.hotelsText", "we can offer you any type of hotel, from a boutique hotel in Paris to 5-star hotels in European capitals or on Greek islands.")}
                 </p>
                 <p>
-                  <strong>{t("intro.addedValueTitle", "OUR ADDED VALUE:")}</strong> {t("intro.addedValueText", "beyond traditional real estate, we are also experts in furnished rental property investment (LMNP - Non-Professional Furnished Rental), with returns of 5% to 7% net of expenses and virtually tax-free. LMNP investment is an excellent way to build supplemental retirement income.")}
+                  <strong>{t("intro.addedValueTitle", "OUR ADDED VALUE:")}</strong> {t("intro.addedValueText", "beyond traditional real estate, we are also experts in furnished rental property investment (LMNP - Non-Professional Furnished Rental), a tax framework that can make rental income highly efficient, depending on your situation. It can be an effective way to build supplemental retirement income.")}
                 </p>
               </div>
             </div>
@@ -277,7 +277,7 @@ export default function Home() {
               </AccordionTrigger>
               <AccordionContent className="font-sans-modern text-sm text-foreground/90 font-semibold leading-relaxed pt-4 border-t border-border mt-2 space-y-3">
                 <p>
-                  {t("faq.q1.a1", "The off-market sector represents transactions that are never advertised publicly or listed on commercial databases. In the ultra-high-net-worth segment, approximately 40% of prime assets in Paris and the French Riviera change hands confidentially.")}
+                  {t("faq.q1.a1", "The off-market sector represents transactions that are never advertised publicly or listed on commercial databases. In the prime segment of Paris and the French Riviera, a significant share of the finest properties changes hands confidentially, although no official statistics exist.")}
                 </p>
                 <p>
                   {t("faq.q1.a2", "Sellers choose this route to protect their privacy, while buyers benefit from reduced competition and exclusive access. Acropolis Real Estate acts as a central node, receiving direct, unlisted opportunities from private family offices, trust attorneys, and local notary networks.")}

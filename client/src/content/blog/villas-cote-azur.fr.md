@@ -8,8 +8,9 @@ category: Côte d'Azur
 date: 2026-09-22
 pillar: riviera
 cover: /blog-images/villas-cote-azur.jpg
-coverAlt: à compléter
+coverAlt: Piscine à débordement d'une villa de luxe avec transats face à la mer Méditerranée au coucher du soleil
 breadcrumb: Villas off-market Côte d'Azur
+coverCredit: Photo : Ahmet Çötür / Pexels
 ---
 Acheter une villa off market sur la Côte d'Azur, c'est accéder à des propriétés que leurs vendeurs ne veulent pas voir sur les portails : domaines pieds dans l'eau, villas Belle Époque sur les caps, propriétés familiales transmises depuis plusieurs générations. Ce guide présente les principaux micro-marchés, les fourchettes de prix observées en 2026, la saisonnalité du marché et les vérifications indispensables avant une acquisition.
 

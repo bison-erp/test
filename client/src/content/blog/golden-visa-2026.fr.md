@@ -8,8 +8,9 @@ category: Grèce
 date: 2026-09-18
 pillar: goldenVisa
 cover: /blog-images/golden-visa-2026.jpg
-coverAlt: à compléter
+coverAlt: L'Acropole d'Athènes et le Parthénon baignés de lumière dorée, au-dessus de l'odéon d'Hérode Atticus
 breadcrumb: Golden Visa 2026 : seuils
+coverCredit: Photo : Pexels
 ---
 Le golden visa Grèce 2026 repose sur un seuil d'investissement qui varie selon la zone : 800 000 € dans les marchés les plus tendus, 400 000 € dans le reste du pays et 250 000 € pour deux cas particuliers de rénovation. Ce permis de séjour de cinq ans, renouvelable, reste l'un des derniers programmes européens de résidence par l'achat immobilier. Mais les règles ont nettement changé depuis 2024 : un seul bien, une surface minimale et l'interdiction de la location courte durée. Voici l'état du droit tel que le décrivent les sources officielles et les cabinets d'avocats grecs à l'automne 2026.
 

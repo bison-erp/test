@@ -196,7 +196,7 @@ export default function ContactNewsletter() {
                 <CheckCircle2 className="h-12 w-12 text-primary mx-auto" />
                 <h3 className="font-serif-classic text-xl tracking-wide">{t("form.successMessage.title", "Inquiry Successfully Transmitted")}</h3>
                 <p className="font-sans-modern text-sm text-foreground/80 font-semibold leading-relaxed">
-                  {t("form.successMessage.description", "Thank you for contacting Acropolis Real Estate. Your investment profile has been logged in our secure database. A dedicated private advisor will review your parameters and initiate contact within the next 12 hours.")}
+                  {t("form.successMessage.description", "Thank you for contacting Acropolis Real Estate. A dedicated private advisor will review your parameters and contact you within one business day.")}
                 </p>
                 <Button
                   onClick={() => setIsSubmitted(false)}

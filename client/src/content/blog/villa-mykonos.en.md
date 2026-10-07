@@ -8,8 +8,9 @@ category: Greece
 date: 2026-09-15
 pillar: goldenVisa
 cover: /blog-images/villa-mykonos.jpg
-coverAlt: to be completed
+coverAlt: Whitewashed Cycladic houses of Mykonos town overlooking the Aegean Sea at sunset
 breadcrumb: Buying a villa in Mykonos
+coverCredit: Photo: Pexels
 ---
 If you plan to buy a villa in Mykonos, you are joining buyers from across Europe, the US and the Middle East drawn by Cycladic light, a very strong tourist season and easy access from Athens. Yet the island is also one of the most tightly regulated markets in Greece, with a freeze on permits outside the town plan, tougher enforcement against illegal construction and specific golden visa rules. This guide covers the areas, prices, the process for foreign buyers and rental potential.
 

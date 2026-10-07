@@ -25,7 +25,7 @@ Before searching, we agree a written brief with you:
 
 ## The search: listed and off-market
 
-Good hotels rarely change hands through a simple listing. Owners, often families, prefer to sell discreetly so as not to unsettle staff, tour operators and guests. We therefore canvass the open market, specialist intermediaries, local lawyers and notaries, and private investor networks. Each opportunity is first reviewed on paper, under a non-disclosure agreement, before any visit.
+Good hotels rarely change hands through a simple listing. Owners, often families, prefer to sell discreetly so as not to unsettle staff, tour operators and guests. We therefore canvass the open market, specialist intermediaries, local lawyers and notaries, and the private investor networks built by [Nicolas Milonas](/about "About Acropolis Real Estate and Nicolas Milonas") over more than twenty-five years of cross-border investment. Each opportunity is first reviewed on paper, under a non-disclosure agreement, before any visit.
 
 ## Due diligence: what must be checked
 

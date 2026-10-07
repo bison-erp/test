@@ -8,8 +8,9 @@ category: Greece
 date: 2026-09-18
 pillar: goldenVisa
 cover: /blog-images/golden-visa-2026.jpg
-coverAlt: to be completed
+coverAlt: The Acropolis of Athens and the Parthenon in golden evening light above the Odeon of Herodes Atticus
 breadcrumb: Golden Visa 2026 thresholds
+coverCredit: Photo: Pexels
 ---
 The Greece golden visa 2026 thresholds now run on three tiers: €800,000 in the most sought-after markets, €400,000 across the rest of the country and €250,000 for two specific renovation routes. The five-year, renewable residence permit remains one of the few European schemes still open to property buyers, but the rules tightened sharply in 2024: one property only, a minimum floor area and no short-term letting. This guide sets out the position as described by official sources and Greek law firms in autumn 2026.
 

@@ -1,6 +1,6 @@
 ---
 title: About Nicolas Milonas and Acropolis Real Estate
-description: Acropolis Real Estate is an independent buyer's agency founded by Nicolas Milonas, with 25+ years of cross-border investment across Europe, Asia and the Middle East.
+description: Independent buyer's agency founded by Nicolas Milonas, Acropolis Real Estate draws on 25+ years of cross-border investment in Europe, Asia and the Middle East.
 h1: Acropolis Real Estate, an independent buyer's agency
 breadcrumb: About us
 linkTitle: About Acropolis Real Estate and Nicolas Milonas

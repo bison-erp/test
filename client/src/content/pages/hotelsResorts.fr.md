@@ -25,7 +25,7 @@ Avant toute recherche, nous formalisons avec vous un cahier des charges :
 
 ## La recherche : marché public et off-market
 
-Les hôtels de qualité changent rarement de mains par simple annonce. Les propriétaires, souvent des familles, préfèrent vendre discrètement pour ne pas inquiéter leurs équipes, leurs tour-opérateurs et leurs clients. Nous interrogeons donc à la fois le marché public, les intermédiaires spécialisés, les avocats et notaires locaux, et les réseaux d'investisseurs privés. Chaque opportunité est d'abord étudiée sur dossier, sous accord de confidentialité, avant toute visite.
+Les hôtels de qualité changent rarement de mains par simple annonce. Les propriétaires, souvent des familles, préfèrent vendre discrètement pour ne pas inquiéter leurs équipes, leurs tour-opérateurs et leurs clients. Nous interrogeons donc à la fois le marché public, les intermédiaires spécialisés, les avocats et notaires locaux, et les réseaux d'investisseurs privés constitués par [Nicolas Milonas](/about "À propos d'Acropolis Real Estate et de Nicolas Milonas") en plus de vingt-cinq ans d'investissement transfrontalier. Chaque opportunité est d'abord étudiée sur dossier, sous accord de confidentialité, avant toute visite.
 
 ## La due diligence : ce qu'il faut vérifier
 

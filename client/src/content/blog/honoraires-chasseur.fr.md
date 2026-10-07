@@ -8,8 +8,9 @@ category: Paris
 date: 2026-09-29
 pillar: paris
 cover: /blog-images/honoraires-chasseur.jpg
-coverAlt: à compléter
+coverAlt: Stylo plume posé sur un carnet ouvert à signet rouge, évoquant la signature d'un mandat
 breadcrumb: Honoraires d'un chasseur
+coverCredit: Photo : Pexels
 ---
 Les honoraires d'un chasseur immobilier de luxe sont souvent la première question d'un acquéreur, et souvent la plus mal comprise. Pourcentage, forfait, frais de dossier, prime de négociation : les modèles varient d'un cabinet à l'autre, et un chiffre isolé ne dit rien de la prestation qui l'accompagne. Ce guide fait le point sur les pratiques de marché observées en France, sur ce que couvrent réellement ces honoraires et sur leur traitement fiscal.
 

@@ -8,8 +8,9 @@ category: Greece
 date: 2026-09-11
 pillar: hotelInvestment
 cover: /blog-images/hotel-grece.jpg
-coverAlt: to be completed
+coverAlt: Whitewashed cliffside hotels with terraces and pools overlooking the Santorini caldera
 breadcrumb: Investing in a Greek hotel
+coverCredit: Photo: Pexels
 ---
 To invest in a hotel in Greece is to buy a building and a trading business at the same time, in a country that set a new tourism record in 2025. The opportunity is genuine, but returns depend above all on location, seasonality, the operating model and the quality of the due diligence carried out before purchase. This guide draws on figures from the Bank of Greece, INSETE and leading industry studies, then walks through structures, licensing and the incentives on offer.
 

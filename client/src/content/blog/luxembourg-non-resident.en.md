@@ -8,8 +8,9 @@ category: Luxembourg
 date: 2026-09-08
 pillar: luxembourg
 cover: /blog-images/luxembourg-non-resident.jpg
-coverAlt: to be completed
+coverAlt: Grund district of Luxembourg City with the Alzette river, Neumünster Abbey and old fortifications
 breadcrumb: Buying in Luxembourg as a non-resident
+coverCredit: Photo: Pexels
 ---
 Buying property in Luxembourg as a non-resident is legally straightforward: as a general rule, the Grand Duchy places no restriction on foreign buyers, whether they live in a neighbouring country or outside Europe. The difficulty lies elsewhere: high transfer duties, tax relief reserved for owner-occupiers, stricter bank lending and a market heavily concentrated around the capital. This guide draws on the rules published by guichet.lu and on data from the Observatoire de l'Habitat and Statec.
 

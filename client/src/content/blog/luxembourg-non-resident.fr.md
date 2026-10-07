@@ -8,8 +8,9 @@ category: Luxembourg
 date: 2026-09-08
 pillar: luxembourg
 cover: /blog-images/luxembourg-non-resident.jpg
-coverAlt: à compléter
+coverAlt: Quartier du Grund à Luxembourg-Ville avec l'Alzette, l'abbaye de Neumünster et les remparts
 breadcrumb: Acheter au Luxembourg en non-résident
+coverCredit: Photo : Pexels
 ---
 Acheter un bien immobilier au Luxembourg en non-résident est juridiquement simple : le Grand-Duché n'impose pas, en règle générale, de restriction à l'acquisition par un étranger. La complexité tient ailleurs : des droits élevés, des avantages fiscaux réservés à ceux qui habitent le bien, un financement plus exigeant et un marché concentré autour de la capitale. Ce guide s'appuie sur guichet.lu, l'Observatoire de l'Habitat et le Statec.
 

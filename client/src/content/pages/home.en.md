@@ -1,6 +1,6 @@
 ---
 title: Luxury Real Estate Buyer's Agent in Europe | Acropolis
-description: Independent buyer's agent for luxury real estate in Europe: off-market acquisitions in Paris, the French Riviera, Luxembourg and Greece for international buyers.
+description: Independent buyer's agent for luxury real estate in Europe: off-market purchases in Paris, the French Riviera, Luxembourg and Greece for international buyers.
 h1: Luxury real estate in Europe, acquired off-market
 breadcrumb: Home
 linkTitle: Acropolis Real Estate, luxury real estate buyer's agent in Europe

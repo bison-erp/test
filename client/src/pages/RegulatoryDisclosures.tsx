@@ -79,7 +79,7 @@ export default function RegulatoryDisclosures() {
                 {t("sections.mediation.p1", "We are committed to delivering the highest standard of professional conduct. In the event of a dispute that cannot be resolved directly with our client relations team, consumers have the right to access an independent mediator:")}
               </p>
               <p className="leading-relaxed mb-4">
-                <strong>{t("sections.mediation.service", "Mediation Service")}:</strong> Association des Médiateurs Européens (AME), located at 11 Place Dauphine, 75001 Paris, France. Website: <a href="https://www.mediationconso-ame.com" target="_blank" rel="noopener noreferrer" className="text-[#005CB8] hover:underline">www.mediationconso-ame.com</a>.
+                <strong>{t("sections.mediation.service", "Mediation Service")}:</strong> Association des Médiateurs Européens (AME), located at 11 Place Dauphine, 75001 Paris, France. Website: <a href="https://www.mediationconso-ame.com" title="Association des Médiateurs Européens (AME)" target="_blank" rel="noopener noreferrer" className="text-[#005CB8] hover:underline">www.mediationconso-ame.com</a>.
               </p>
             </section>
 

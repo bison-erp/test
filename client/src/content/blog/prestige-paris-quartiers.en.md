@@ -8,8 +8,9 @@ category: Paris
 date: 2026-09-25
 pillar: paris
 cover: /blog-images/prestige-paris-quartiers.jpg
-coverAlt: to be completed
+coverAlt: View over Haussmann rooftops and tree-lined avenues of a prestigious Paris district with the Eiffel Tower
 breadcrumb: Paris prime neighbourhoods and prices
+coverCredit: Photo: Pexels
 ---
 Choosing between luxury real estate Paris neighbourhoods is less about the arrondissement average than about the street, the floor, the view and how rare the property is. This guide covers the seven areas most sought after by international buyers, sets out price ranges per square metre for prime homes in 2026 and explains how the market has moved since 2025.
 

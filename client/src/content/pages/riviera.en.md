@@ -14,7 +14,7 @@ ctaText: Tell us in confidence where, when and at what budget you want to buy, a
 ---
 A French Riviera buyer's agent searches for, negotiates and secures a prime property on behalf of the purchaser alone, with no fee or loyalty owed to the seller. Between Saint-Tropez and Menton, the Côte d'Azur holds some of the most expensive residential addresses in Europe, and a meaningful share of its best villas changes hands without ever appearing on a property portal. Acropolis Real Estate guides international buyers through that market, from the first brief to the handover of the keys.
 
-## Why use a buyer's agent on the French Riviera
+## Why hire a French Riviera buyer's agent
 
 Three features of the Riviera's prime market make independent representation worthwhile.
 

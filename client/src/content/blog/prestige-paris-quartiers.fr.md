@@ -8,8 +8,9 @@ category: Paris
 date: 2026-09-25
 pillar: paris
 cover: /blog-images/prestige-paris-quartiers.jpg
-coverAlt: à compléter
+coverAlt: Vue sur les toits haussmanniens et avenues arborées des beaux quartiers de Paris avec la tour Eiffel
 breadcrumb: Prestige à Paris : quartiers et prix
+coverCredit: Photo : Pexels
 ---
 L'immobilier de prestige à Paris ne se résume pas à une adresse ou à un prix moyen par arrondissement : il se joue à l'échelle de la rue, de l'étage, de la vue et de la rareté du bien. Ce guide passe en revue les sept secteurs les plus recherchés par les acquéreurs fortunés, donne des fourchettes de prix au m² pour les biens d'exception en 2026 et explique comment le marché a évolué depuis 2025.
 

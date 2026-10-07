@@ -8,8 +8,9 @@ category: Grèce
 date: 2026-09-11
 pillar: hotelInvestment
 cover: /blog-images/hotel-grece.jpg
-coverAlt: à compléter
+coverAlt: Hôtels blancs en terrasses avec piscines à flanc de falaise surplombant la caldeira de Santorin
 breadcrumb: Investir dans un hôtel
+coverCredit: Photo : Pexels
 ---
 Investir dans un hôtel en Grèce consiste à acheter à la fois des murs et une activité, dans un pays qui a battu en 2025 son record de fréquentation touristique. L'opportunité est réelle, mais la rentabilité dépend surtout de l'emplacement, de la saisonnalité, du mode d'exploitation et de la qualité de l'audit avant achat. Ce guide reprend les chiffres publiés par la Banque de Grèce, l'INSETE et les principaux observatoires, puis détaille les choix de structure, les licences et les aides disponibles.
 

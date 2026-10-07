@@ -44,3 +44,15 @@ confirmés ou corrigés.
 - Mykonos : on ne sait pas si l'île est classée en zone frontalière, ce qui imposerait une autorisation aux acheteurs hors UE. Le texte renvoie à l'avocat ; à faire confirmer par un avocat grec.
 - Mykonos : vérifier que la prolongation du gel des permis de construire jusqu'à fin 2026 a bien été adoptée.
 - Cap d'Antibes, 15 à 33 k€/m² : estimation à partir des prix affichés dans les annonces.
+
+## Articles Luxembourg et Europe 2026
+- Bëllegen Akt : 40 000 € par personne selon guichet.lu ; une source mentionne 45 000 € depuis juillet 2026. Le texte renvoie au notaire.
+- Plafond de financement de 80 % pour un investissement locatif (règlement CSSF 20-08) et apport de 25 à 30 % : à vérifier.
+- Plafonnement des loyers, plus-values et réforme fiscale au Luxembourg : à faire relire par un fiscaliste luxembourgeois.
+- Plafond de 90 jours pour la location courte durée d'une résidence principale à Paris : à vérifier.
+
+## Pages Côte d'Azur et Luxembourg
+- La FAQ indique que l'agence intervient à Monaco avec des professionnels agréés : confirmer que ce service est réellement proposé.
+- Déroulé type d'une mission (visites, coordination avec le notaire et la banque) et accès aux biens confidentiels via les agences et notaires locaux : vérifier que cela correspond à la pratique réelle.
+- Fourchettes de prix sur la Côte d'Azur : tirées en grande partie du rapport Savills 2024, à mettre à jour à la prochaine édition.
+- Le texte ne dit pas qu'Acropolis Real Estate fait partie d'Acropolis Group, faute de source. À préciser si c'est le cas.

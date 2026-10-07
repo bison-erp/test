@@ -7,8 +7,8 @@ excerpt: Buyer's agent vs estate agent in Paris: from a distance the two roles l
 category: Paris
 date: 2026-10-02
 pillar: paris
-cover: /blog-images/chasseur-vs-agence.jpg
-coverAlt: to be completed
+cover: /manus-storage/paris-apartment-elegant_b300e5f3.jpg
+coverAlt: Elegant interior of a prestigious Paris apartment
 breadcrumb: Buyer's agent vs estate agent
 ---
 Buyer's agent vs estate agent in Paris is one of the first choices an international buyer faces when looking for an exceptional apartment. Both professionals hold the same French licence, know the same streets and sometimes view the same homes. Yet they do not work for the same person. Understanding that difference tells you who defends your interests when a price of several million euros is on the table.

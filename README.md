@@ -15,6 +15,19 @@ avec assets statiques. Source d'origine : export Manus, désormais maintenu ici.
 | `worker/` | Worker Cloudflare : `/api/contact` (envoi via Resend) ; tout le reste = fichiers statiques |
 | `docs/` | Plan SEO, profil de Nicolas Milonas, documents originaux du client |
 
+## Contenu et SEO
+
+Chaque page et chaque article existe en Markdown, une fois par langue :
+`client/src/content/pages/<clé>.<fr|en>.md` et `client/src/content/blog/<id>.<fr|en>.md`.
+L'en-tête (title, description, h1, slug, cover…) alimente le `<head>`, le H1, les données
+structurées (FAQPage, BlogPosting, BreadcrumbList, RealEstateAgent), le sitemap avec hreflang
+et l'attribut `title` des liens. Format et règles de rédaction : `docs/brief-redaction.md`.
+
+- Ajouter un article : créer `blog/<id>.fr.md` et `blog/<id>.en.md` (slug propre à chaque langue).
+- `pnpm check:content` vérifie les champs, les longueurs et les liens internes (aussi lancé par `pnpm build`).
+- Couvertures du blog : `media/blog-images/` (crédits dans `credits.json`).
+- Points à faire valider par le client : `docs/a-valider.md`.
+
 ## Commandes
 
 ```bash
@@ -23,6 +36,7 @@ pnpm dev            # développement local (http://localhost:3000)
 pnpm check          # vérification TypeScript
 pnpm build          # génère dist/public (site complet pré-rendu)
 pnpm preview        # build + Worker local (wrangler dev)
+pnpm check:content  # vérification du contenu Markdown
 ```
 
 ## Déploiement

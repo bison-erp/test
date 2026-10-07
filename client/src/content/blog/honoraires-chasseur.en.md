@@ -8,8 +8,9 @@ category: Paris
 date: 2026-09-29
 pillar: paris
 cover: /blog-images/honoraires-chasseur.jpg
-coverAlt: to be completed
+coverAlt: Fountain pen resting on an open notebook with a red ribbon bookmark, evoking contract signing
 breadcrumb: Property finder fees
+coverCredit: Photo: Pexels
 ---
 Property finder fees in France are usually a buyer's first question, and often the least understood. Percentage, flat fee, upfront retainer, negotiation bonus: models vary from one firm to another, and a single number says nothing about the service behind it. This guide sets out market practice in France, what the fee actually covers and how it is treated for tax purposes, particularly for international buyers used to other systems.
 

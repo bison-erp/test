@@ -7,8 +7,8 @@ excerpt: Chasseur immobilier ou agence immobilière de luxe : les deux métiers 
 category: Paris
 date: 2026-10-02
 pillar: paris
-cover: /blog-images/chasseur-vs-agence.jpg
-coverAlt: à compléter
+cover: /manus-storage/paris-apartment-elegant_b300e5f3.jpg
+coverAlt: Intérieur élégant d'un appartement de prestige à Paris
 breadcrumb: Chasseur ou agence de luxe
 ---
 Chasseur immobilier ou agence immobilière de luxe : pour acheter un appartement d'exception à Paris, la question se pose dès les premières recherches. Les deux professionnels sont titulaires de la même carte, connaissent les mêmes rues et visitent parfois les mêmes biens. Pourtant, ils ne travaillent pas pour la même personne. Comprendre cette différence, c'est savoir qui défend vos intérêts au moment de négocier un prix de plusieurs millions d'euros.

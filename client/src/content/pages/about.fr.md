@@ -1,6 +1,6 @@
 ---
 title: À propos : Nicolas Milonas et Acropolis Real Estate
-description: Acropolis Real Estate, chasseur immobilier indépendant fondé par Nicolas Milonas : plus de 25 ans d'investissement transfrontalier entre Europe, Asie et Moyen-Orient.
+description: Acropolis Real Estate, chasseur immobilier indépendant fondé par Nicolas Milonas : 25 ans d'investissement transfrontalier en Europe, Asie et Moyen-Orient.
 h1: Acropolis Real Estate, chasseur immobilier indépendant
 breadcrumb: À propos
 linkTitle: À propos d'Acropolis Real Estate et de Nicolas Milonas

@@ -8,8 +8,9 @@ category: French Riviera
 date: 2026-09-22
 pillar: riviera
 cover: /blog-images/villas-cote-azur.jpg
-coverAlt: to be completed
+coverAlt: Luxury villa infinity pool with sun loungers overlooking the Mediterranean sea and hills at sunset
 breadcrumb: Off-market Riviera villas
+coverCredit: Photo: Ahmet Çötür / Pexels
 ---
 Off-market villas on the French Riviera are properties their owners do not want on the portals: waterfront estates, Belle Époque villas on the capes and family homes passed down through generations. This guide covers the main micro-markets, the price ranges seen in 2026, how the market moves through the year and the checks you need before buying.
 

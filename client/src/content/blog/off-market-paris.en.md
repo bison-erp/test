@@ -8,8 +8,9 @@ category: Paris
 date: 2026-10-06
 pillar: offMarketParis
 cover: /blog-images/off-market-paris.jpg
-coverAlt: to be completed
+coverAlt: Haussmann apartment building in Paris with wrought-iron balconies and a zinc mansard roof
 breadcrumb: Off-market Paris
+coverCredit: Photo: Pexels
 ---
 Off-market property in Paris means homes sold without any public advertising: no portal listing, no shop window, no social media campaign. For demanding buyers, this discreet circuit is often where the rarest apartments, private mansions and whole buildings change hands. The question is how these homes circulate, why their owners avoid publicity and how to reach them without taking unnecessary risks.
 

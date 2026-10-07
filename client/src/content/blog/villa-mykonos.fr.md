@@ -8,8 +8,9 @@ category: Grèce
 date: 2026-09-15
 pillar: goldenVisa
 cover: /blog-images/villa-mykonos.jpg
-coverAlt: à compléter
+coverAlt: Maisons blanches cycladiques de Mykonos face à la mer Égée au coucher du soleil
 breadcrumb: Acheter une villa à Mykonos
+coverCredit: Photo : Pexels
 ---
 Acheter une villa à Mykonos attire chaque année des acquéreurs européens, américains et du Moyen-Orient séduits par la lumière des Cyclades, une saison touristique très forte et la proximité d'Athènes. Mais l'île est aussi l'un des marchés les plus encadrés de Grèce : gel des permis hors plan d'urbanisme, contrôles renforcés contre les constructions illégales, règles spécifiques du Golden Visa. Ce guide fait le point sur les quartiers, les prix, la procédure pour un étranger et le potentiel locatif.
 

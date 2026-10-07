@@ -8,8 +8,9 @@ category: Paris
 date: 2026-10-06
 pillar: offMarketParis
 cover: /blog-images/off-market-paris.jpg
-coverAlt: à compléter
+coverAlt: Façade d'immeuble haussmannien à Paris avec balcons en fer forgé et toit en zinc mansardé
 breadcrumb: Off-market à Paris
+coverCredit: Photo : Pexels
 ---
 Le off market immobilier à Paris désigne les biens vendus sans annonce publique : ni portail, ni vitrine, ni campagne sur les réseaux sociaux. Pour un acquéreur exigeant, c'est souvent là que se trouvent les appartements les plus rares, les hôtels particuliers et les immeubles entiers. Encore faut-il savoir par où passent ces biens, pourquoi leurs propriétaires choisissent la discrétion et comment les approcher sans prendre de risque.
 
