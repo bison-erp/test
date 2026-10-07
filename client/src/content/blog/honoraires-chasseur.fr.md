@@ -15,7 +15,7 @@ Les honoraires d'un chasseur immobilier de luxe sont souvent la première questi
 
 ## Les honoraires d'un chasseur immobilier de luxe : les pratiques du marché
 
-Il n'existe aucun barème réglementaire : chaque professionnel fixe librement sa rémunération, qui doit figurer dans le mandat de recherche signé avec l'acquéreur. Les chiffres ci-dessous proviennent des grilles publiées par des cabinets de chasse immobilière parisiens (notamment Home Select, Mon Chasseur Immo et Immocitiz). Ce sont des ordres de grandeur commerciaux, pas des statistiques officielles.
+Il n'existe aucun barème réglementaire : chaque professionnel fixe librement sa rémunération, qui doit figurer dans le mandat de recherche signé avec l'acquéreur. Les chiffres ci-dessous proviennent des grilles publiées par des cabinets de chasse immobilière parisiens. Ce sont des ordres de grandeur commerciaux, pas des statistiques officielles.
 
 ### Le pourcentage du prix d'acquisition
 

@@ -48,6 +48,8 @@ Il n'existe pas de statistique officielle de prix par quartier à Mykonos : la B
 
 Le prix dépend surtout de la vue, de l'orientation par rapport au meltem, de la distance à une plage, de la qualité de construction et, point essentiel à Mykonos, de la **régularité urbanistique** du bien.
 
+Le calendrier compte aussi. Beaucoup de propriétaires occupent ou louent leur villa l'été : l'automne et l'hiver sont généralement les mois les plus pratiques pour visiter, mener les vérifications et négocier sereinement, avec l'objectif de signer avant la saison suivante. Sur le haut de gamme, les ventes off-market ne sont pas rares, les propriétaires préférant présenter leur bien à quelques acquéreurs qualifiés plutôt que de publier une annonce.
+
 ## Permis de construire et constructions illégales : le point sensible
 
 Mykonos fait l'objet d'une surveillance particulière de l'État grec. Après plusieurs affaires de constructions illégales, le ministère de l'Environnement a suspendu les nouveaux permis de construire hors du plan d'urbanisme approuvé, dans l'attente d'un plan d'urbanisme spécial pour l'île. Le projet de texte soumis à consultation en novembre 2025 prévoyait de prolonger ce gel jusqu'à fin 2026. Les inspections, appuyées par l'imagerie satellite, ont relevé des piscines, annexes et sous-sols non autorisés ; les sanctions vont jusqu'à la démolition.

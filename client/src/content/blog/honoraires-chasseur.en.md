@@ -15,7 +15,7 @@ Property finder fees in France are usually a buyer's first question, and often t
 
 ## Property finder fees in France: current market practice
 
-There is no regulated scale. Each professional sets their own fee, which must appear in the search mandate signed with the buyer. The figures below come from fee schedules published by Paris search firms (including Home Select, Mon Chasseur Immo and Immocitiz). They are commercial orders of magnitude, not official statistics.
+There is no regulated scale. Each professional sets their own fee, which must appear in the search mandate signed with the buyer. The figures below come from fee schedules published by Paris search firms. They are commercial orders of magnitude, not official statistics.
 
 ### A percentage of the purchase price
 

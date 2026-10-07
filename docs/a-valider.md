@@ -33,3 +33,14 @@ confirmés ou corrigés.
 - Frais annexes : notaire 0,8 à 1,5 %, avocat 1 à 2 %, cadastre 0,5 à 0,6 % (fourchettes tirées de guides d'agences).
 - Rendement hôtelier brut de 6 à 10 % : chiffre indicatif, sans référence officielle.
 - Chiffres HVS et enquête des investisseurs à 43 % : repris de la presse, pas des rapports d'origine.
+
+## Articles du cluster Paris
+- Frais d'acquisition à Paris « environ 7 à 8 % » : estimation à faire confirmer par un notaire.
+- Honoraires payables à la signature de l'acte, et absence de mandat de vente : à confirmer.
+- Prise en compte des honoraires du chasseur dans le calcul de la plus-value : la doctrine n'est pas fixée, le texte renvoie vers le notaire.
+
+## Articles Paris (quartiers), Côte d'Azur et Mykonos
+- Colonne « biens d'exception » du tableau parisien (par exemple 18 à 30 k€/m² dans le 6e) : estimations construites à partir des données Barnes et des annonces, présentées comme indicatives.
+- Mykonos : on ne sait pas si l'île est classée en zone frontalière, ce qui imposerait une autorisation aux acheteurs hors UE. Le texte renvoie à l'avocat ; à faire confirmer par un avocat grec.
+- Mykonos : vérifier que la prolongation du gel des permis de construire jusqu'à fin 2026 a bien été adoptée.
+- Cap d'Antibes, 15 à 33 k€/m² : estimation à partir des prix affichés dans les annonces.

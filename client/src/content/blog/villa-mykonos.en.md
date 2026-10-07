@@ -48,6 +48,8 @@ There are no official price statistics by area for Mykonos: the Bank of Greece p
 
 Value is driven above all by the view, shelter from the meltemi, distance to a beach, build quality and, crucially on Mykonos, the **planning compliance** of the property.
 
+Timing matters too. Many owners use their villa or let it through the summer, so autumn and winter are usually the most practical months to view properties, run surveys and negotiate calmly, with the aim of completing before the next season. Off-market sales are not unusual at the top end, where owners prefer to approach a handful of qualified buyers rather than publish a listing.
+
 ## Building permits and illegal construction: the key risk
 
 Mykonos is under close scrutiny from the Greek state. After a series of illegal building cases, the Ministry of Environment suspended new building permits outside the approved town plan, pending a Special Urban Plan for the island. A draft put out for consultation in November 2025 would extend the freeze to the end of 2026. Inspections backed by satellite imagery have identified unauthorised pools, outbuildings and basements, and penalties can go as far as demolition.
