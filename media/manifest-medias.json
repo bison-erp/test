@@ -1,0 +1,150 @@
+{
+  "source": "https://acropolisre-j8jubxs7.manus.space",
+  "count": 24,
+  "assets": [
+    {
+      "name": "PRESTA_5f062c33.jpg",
+      "bytes": 36870,
+      "sha256": "e58723d306dd8257b902a93af3e4e023f687726e91ab56ff4bdada854b1a6c38",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/PRESTA_5f062c33.jpg"
+    },
+    {
+      "name": "acropolis-logo-gold_47dc0308.webp",
+      "bytes": 68704,
+      "sha256": "4a19dbcbe528533fb10062dd85d4608a69ab494d1ab734e5092d7e6bd1bbbf1c",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/acropolis-logo-gold_47dc0308.webp"
+    },
+    {
+      "name": "athens-acropolis_2fd91f17.webp",
+      "bytes": 11816,
+      "sha256": "9156d784cc0937400f38cd3e1acedc86cf2bf31b4be621649362b9fc1ec0644d",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/athens-acropolis_2fd91f17.webp"
+    },
+    {
+      "name": "athens-boutique-hotel_d0de669f.webp",
+      "bytes": 199750,
+      "sha256": "000bced4efe9132c0eabbf105cc46d680b6de4cd8feba64939149058c78607d6",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/athens-boutique-hotel_d0de669f.webp"
+    },
+    {
+      "name": "faubourg-saint-honore_ab5c5ede.jpg",
+      "bytes": 233071,
+      "sha256": "d0aa391b80338cda819ea24c24f9ebb4fba9325340fdfc5490d609ee50177a17",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/faubourg-saint-honore_ab5c5ede.jpg"
+    },
+    {
+      "name": "greece-luxury-villa_4f03bbf7.jpg",
+      "bytes": 828128,
+      "sha256": "00e2f8459e5c383a2c23881b934ae393b6650c893c4369db00b48250c2d0d12b",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/greece-luxury-villa_4f03bbf7.jpg"
+    },
+    {
+      "name": "hero-paris-skyline_a38001bc.jpg",
+      "bytes": 703527,
+      "sha256": "f7ff6dbfd405115e61c69aa48162a91047dcf066b190e449c6ed1ed0aee0843c",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/hero-paris-skyline_a38001bc.jpg"
+    },
+    {
+      "name": "luxembourg-city_c899f4d3.jpg",
+      "bytes": 2746605,
+      "sha256": "62c877010c4320a3831422ac10c3777652ba01e5c08634af8304c6a67a6531cd",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/luxembourg-city_c899f4d3.jpg"
+    },
+    {
+      "name": "luxembourg-skyline_0aa0e17b.jpg",
+      "bytes": 81431,
+      "sha256": "9c35ffa39bd3ac0838c4f15b5c79dbc4e5cb0cb863e93e297dbf5bc9c8b8b087",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/luxembourg-skyline_0aa0e17b.jpg"
+    },
+    {
+      "name": "luxury-office-modern_d05e4198.jpg",
+      "bytes": 464726,
+      "sha256": "cb6adc702018ec87e2f9a1da039931b78ed2a7bd2c88ddff09073ef271cbe829",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/luxury-office-modern_d05e4198.jpg"
+    },
+    {
+      "name": "mykonos-villa-sunset_14223465.jpg",
+      "bytes": 1060464,
+      "sha256": "292de2e5509b989be37e36c866aa44842f5ecee9fde862db44d5f0c3966f5c37",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/mykonos-villa-sunset_14223465.jpg"
+    },
+    {
+      "name": "mykonos-villa_610cfc68.jpg",
+      "bytes": 216182,
+      "sha256": "3430e07755c86d7f09ec12b67b47e68d85b0b3fc6b9f864afcb6f6add085de1d",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/mykonos-villa_610cfc68.jpg"
+    },
+    {
+      "name": "nicolas-portrait_35f972ac.png",
+      "bytes": 5396256,
+      "sha256": "29f418ff6b536404896108af36eb223cd50062a50ffdaa0a064cc280cd211572",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/nicolas-portrait_35f972ac.png"
+    },
+    {
+      "name": "paris-apartment-elegant_b300e5f3.jpg",
+      "bytes": 3360274,
+      "sha256": "573603c3536cfeda576bcfa7e328ef987e223bd49cd52b57a4a4cd85880843e8",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/paris-apartment-elegant_b300e5f3.jpg"
+    },
+    {
+      "name": "paris-haussmann-interior_3267b577.jpg",
+      "bytes": 318102,
+      "sha256": "6587bf2639a8bde80163547fcc9d51d8372309c2876e0dbb4fd62ecf243157be",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/paris-haussmann-interior_3267b577.jpg"
+    },
+    {
+      "name": "paris-luxury-office_7606a8c0.jpg",
+      "bytes": 131201,
+      "sha256": "bf51d91a61f97d4bf9f477c2b74ce815fe80a93efad289106cd2d33bb5472839",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/paris-luxury-office_7606a8c0.jpg"
+    },
+    {
+      "name": "pasted_file_Hs1mMd_image_2cd2c6f6.png",
+      "bytes": 4002,
+      "sha256": "fa3898908dfcd5097bbf352333d0ae8dd86e54f649a7f2fd2ed8e7bdacea0dad",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/pasted_file_Hs1mMd_image_2cd2c6f6.png"
+    },
+    {
+      "name": "riviera-coastline_b9b15ce7.jpg",
+      "bytes": 411589,
+      "sha256": "2f6c1217acd8b7bb51f34d99b9cee91046d2d48593d55952334b6627e21f7b4a",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/riviera-coastline_b9b15ce7.jpg"
+    },
+    {
+      "name": "riviera-villa-pool_e924dd0b.jpg",
+      "bytes": 189895,
+      "sha256": "b7602d14f4454df68725d265b99ca6168e4de2959fedc32a425d98d9093bf280",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/riviera-villa-pool_e924dd0b.jpg"
+    },
+    {
+      "name": "riviera-villa-sea_e8e8445f.jpg",
+      "bytes": 715030,
+      "sha256": "7272b179e1fdecc274e58a23e94ea483b25521d0213f53499a9a17dc6259617d",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/riviera-villa-sea_e8e8445f.jpg"
+    },
+    {
+      "name": "rue-saint-honore_1d8fcfce.jpg",
+      "bytes": 378999,
+      "sha256": "d55b8da413f5574d7710aaf44f0c983383493dbe065769d7dbe49405f86c3c0f",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/rue-saint-honore_1d8fcfce.jpg"
+    },
+    {
+      "name": "santorini-hotel_ad07fe11.jpg",
+      "bytes": 138187,
+      "sha256": "fdbfd0ef44a63fc5d7f820688b557723133902bbc9d21c904d6432e6c0caf5a8",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/santorini-hotel_ad07fe11.jpg"
+    },
+    {
+      "name": "santorini-resort_f7f16956.jpg",
+      "bytes": 130330,
+      "sha256": "9c3949760051af5ec83903e71151024071683d5d52d980ac835c706fbe6b83a6",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/santorini-resort_f7f16956.jpg"
+    },
+    {
+      "name": "team-meeting_9593eda9.jpg",
+      "bytes": 93406,
+      "sha256": "1dcb33da57ac793d616ac85418347b7ec2aa8411a43c981d33d85168101b42e6",
+      "origin": "https://acropolisre-j8jubxs7.manus.space/manus-storage/team-meeting_9593eda9.jpg"
+    }
+  ]
+}

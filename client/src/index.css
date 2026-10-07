@@ -1,0 +1,141 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+:root {
+  /* 
+    Luxe Classique & Intemporel (Style Ritz / Vogue / Leica) :
+    - Fond : Blanc pur et soyeux
+    - Texte : Noir de Jais (#0E0E10) pour un contraste extrême, net et contemporain
+    - Accent : Or Cuivré/Bronze mat (#C5A880) utilisé de manière ultra-minimaliste
+    - Bordures : Lignes ultra-fines et épurées
+  */
+  --primary: oklch(0.462 0.176 253.22); /* Bleu officiel #005CB8 (RGB 0, 92, 184) */
+  --primary-foreground: oklch(1 0 0); /* Blanc Pur */
+  --accent: oklch(0.78 0.11 86); /* Or Impérial raffiné (#D4AF37) */
+  --accent-foreground: oklch(0.462 0.176 253.22);
+  
+  --radius: 0px; /* Angles droits ultra-classes */
+  --background: oklch(1 0 0); /* Blanc Pur */
+  --foreground: oklch(0.141 0.005 285.823); /* Noir de Jais */
+  
+  --card: oklch(0.99 0.001 285.823); /* Blanc cassé très soyeux */
+  --card-foreground: oklch(0.141 0.005 285.823);
+  
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.141 0.005 285.823);
+  
+  --secondary: oklch(0.97 0.002 285.823); /* Gris soie très clair pour asymétrie */
+  --secondary-foreground: oklch(0.141 0.005 285.823);
+  
+  --muted: oklch(0.95 0.002 285.823);
+  --muted-foreground: oklch(0.45 0.005 285.823); /* Gris moyen pour lisibilité */
+  
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.985 0 0);
+  
+  --border: oklch(0.9 0.002 285.823); /* Lignes très fines */
+  --input: oklch(0.9 0.002 285.823);
+  --ring: oklch(0.141 0.005 285.823);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', sans-serif;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+}
+
+/* Déclaration correcte des utilitaires de police pour Tailwind v4 */
+@utility font-serif-classic {
+  font-family: 'Playfair Display', serif;
+}
+
+@utility font-sans-modern {
+  font-family: 'Inter', sans-serif;
+}
+
+@layer components {
+  .container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .flex {
+    min-height: 0;
+    min-width: 0;
+  }
+
+  @media (min-width: 640px) {
+    .container {
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .container {
+      padding-left: 3rem;
+      padding-right: 3rem;
+      max-width: 1440px; /* Plus d'espace pour le style éditorial */
+    }
+  }
+
+  /* Effet de grain de luxe moderne en arrière-plan */
+  .bg-noise {
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+    opacity: 0.015;
+  }
+  
+  /* Animations et transitions de luxe */
+  .transition-luxury {
+    transition: all 400ms cubic-bezier(0.23, 1, 0.32, 1);
+  }
+}

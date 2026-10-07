@@ -1,0 +1,52 @@
+{
+  "seo": {
+    "title": "Portefeuilles Résidentiels & Bureaux | Paris, Côte d'Azur, Luxembourg",
+    "description": "Découvrez notre portefeuille confidentiel et exclusif d'appartements de luxe off-market, de demeures historiques et de bureaux d'entreprise haut de gamme.",
+    "keywords": "immobilier de prestige Paris, investissement hôtelier Europe, Golden Visa Grèce, achat bureau Luxembourg, villas bord de mer Côte d'Azur, agent immobilier off-market Paris, achat maison de luxe France"
+  },
+  "hero": {
+    "subtitle": "Acquisitions Sur Mesure",
+    "title": "Portefeuilles Résidentiels & ",
+    "titleHighlight": "Bureaux",
+    "description": "Sélection d'espaces de vie prestigieux et d'environnements d'entreprise stratégiques dans les lieux les plus prisés et sécurisés d'Europe.",
+    "imageAlt": "Intérieur d'Appartement Haussmannien de Luxe"
+  },
+  "intro": {
+    "title": "Une Exigence de Sélection Inégalée",
+    "description": "Que vous recherchiez une demeure familiale, un penthouse ultra-privé ou un siège social stratégique, notre réseau d'experts locaux vous offre un accès privilégié aux propriétés les plus exceptionnelles, parfaitement adaptées à votre budget. Opérant exclusivement en tant que chasseur immobilier, nous défendons vos intérêts en privilégiant l'excellence et en menant des analyses de marché approfondies pour sécuriser le bien idéal au prix optimal.",
+    "features": {
+      "locations": "Emplacements de Premier Choix",
+      "offMarket": "Accès Off-Market",
+      "dueDiligence": "Due Diligence Sur Mesure"
+    }
+  },
+  "regions": {
+    "subtitle": "Emplacements Stratégiques",
+    "title": "Nos Zones d'Intervention",
+    "items": [
+      {
+        "title": "Paris & Île-de-France",
+        "description": "Appartements haussmanniens d'exception, hôtels particuliers dans les 16e et 7e arrondissements, et bureaux modernes à La Défense. Une concentration sur des actifs premium, historiques et hautement liquides.",
+        "tag": "Historique & Moderne",
+        "button": "Découvrir le Portefeuille Régional"
+      },
+      {
+        "title": "Côte d'Azur",
+        "description": "Villas pieds dans l'eau époustouflantes à Saint-Jean-Cap-Ferrat, Saint-Tropez, Nice et Cannes. Résidences secondaires parfaites et domaines à fort rendement locatif saisonnier offrant des vues panoramiques inégalées sur la mer.",
+        "tag": "Luxe Pieds dans l'Eau",
+        "button": "Découvrir le Portefeuille Régional"
+      },
+      {
+        "title": "Grand-Duché de Luxembourg",
+        "description": "Penthouses modernes ultra-sécurisés, sièges sociaux premium et immeubles de bureaux à forte plus-value dans la ville de Luxembourg (Kirchberg, Belair, Ville-Haute).",
+        "tag": "Entreprise & Patrimoine",
+        "button": "Découvrir le Portefeuille Régional"
+      }
+    ]
+  },
+  "consultation": {
+    "title": "Initiez Votre Recherche Privée",
+    "description": "Les moteurs de recherche immobiliers classiques ne révèlent qu'une fraction de ce qui est véritablement disponible. En vous associant à Acropolis Real Estate, vous mandatez un représentant dédié qui explorera l'intégralité de l'écosystème off-market en votre nom.",
+    "button": "Demander une Consultation Privée"
+  }
+}

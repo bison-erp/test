@@ -1,0 +1,47 @@
+{
+  "seo": {
+    "title": "À Propos de Notre Agence Immobilière de Prestige",
+    "description": "Découvrez Acropolis Real Estate, une agence d'acheteurs d'élite. Spécialisée dans l'acquisition d'immobilier de prestige à Paris et en Europe, l'investissement hôtelier et l'accompagnement Golden Visa Grèce.",
+    "keywords": "à propos Acropolis Real Estate, immobilier de prestige Paris, agent d'acheteurs d'élite Europe, réseau immobilier Paris, investissement hôtelier Europe, Golden Visa Grèce"
+  },
+  "header": {
+    "imageAlt": "Quartier du luxe du Faubourg Saint-Honoré à Paris",
+    "subtitle": "Notre Héritage",
+    "title": "À Propos d'Acropolis",
+    "description": "Acropolis Real Estate est une agence boutique de premier plan opérant depuis le cœur de Paris, dédiée à offrir à une clientèle internationale exigeante des solutions immobilières sans compromis."
+  },
+  "philosophy": {
+    "title": "Un Modèle Unique d'Agent d'Acheteur Fondé sur une",
+    "titleHighlight": "Confiance Absolue",
+    "paragraph1": "Fondée sur les principes du patrimoine architectural classique et de la sophistication financière moderne, Acropolis Real Estate opère selon un modèle d'agent d'acheteur hautement spécialisé. Contrairement aux agences immobilières traditionnelles, notre unique devoir fiduciaire est envers vous, l'acquéreur.",
+    "paragraph2": "Nous coordonnons un réseau de haut vol composé d'experts immobiliers locaux, de conseillers juridiques et d'analystes financiers à travers Paris, la Côte d'Azur, le Luxembourg et la Grèce. Notre objectif est de sécuriser le bien patrimonial parfait pour votre portefeuille, dans la plus stricte confidentialité.",
+    "features": {
+      "fiduciary": {
+        "title": "Devoir Fiduciaire Absolu",
+        "description": "Nous représentons exclusivement les acheteurs, garantissant des conseils totalement impartiaux et des négociations de prix rigoureuses."
+      },
+      "network": {
+        "title": "Réseau d'Élite",
+        "description": "Notre réseau est constitué de professionnels locaux rigoureusement sélectionnés, possédant une connaissance approfondie et privilégiée de leurs marchés."
+      }
+    }
+  },
+  "values": {
+    "subtitle": "Nos Valeurs",
+    "title": "Les Piliers de Notre Excellence",
+    "items": {
+      "heritage": {
+        "title": "Patrimoine & Héritage",
+        "description": "Nous considérons que l'immobilier est bien plus qu'un simple actif financier ; c'est un héritage de beauté architecturale et de patrimoine culturel qu'il convient de préserver."
+      },
+      "standards": {
+        "title": "Exigence Sans Compromis",
+        "description": "De la sélection de nos experts locaux à la profondeur de notre modélisation financière, nous ne nous contentons de rien de moins que la perfection absolue."
+      },
+      "confidentiality": {
+        "title": "Confidentialité Garantie",
+        "description": "Nous opérons selon des protocoles de confidentialité stricts afin de garantir que l'identité personnelle de nos clients et l'historique de leurs transactions demeurent totalement sécurisés."
+      }
+    }
+  }
+}

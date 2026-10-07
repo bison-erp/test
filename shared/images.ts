@@ -1,0 +1,25 @@
+export const IMAGES = {
+  logo: "/manus-storage/acropolis-logo-gold_47dc0308.webp",
+  heroParisSkyline: "/manus-storage/hero-paris-skyline_a38001bc.jpg",
+  parisHaussmannInterior: "/manus-storage/paris-haussmann-interior_3267b577.jpg",
+  parisApartmentElegant: "/manus-storage/paris-apartment-elegant_b300e5f3.jpg",
+  parisLuxuryOffice: "/manus-storage/paris-luxury-office_7606a8c0.jpg",
+  rivieraVillaSea: "/manus-storage/riviera-villa-sea_e8e8445f.jpg",
+  rivieraCoastline: "/manus-storage/riviera-coastline_b9b15ce7.jpg",
+  rivieraVillaPool: "/manus-storage/riviera-villa-pool_e924dd0b.jpg",
+  luxembourgSkyline: "/manus-storage/luxembourg-skyline_0aa0e17b.jpg",
+  luxembourgCity: "/manus-storage/luxembourg-city_c899f4d3.jpg",
+  santoriniHotel: "/manus-storage/santorini-hotel_ad07fe11.jpg",
+  santoriniResort: "/manus-storage/santorini-resort_f7f16956.jpg",
+  athensAcropolis: "/manus-storage/athens-acropolis_2fd91f17.webp",
+  mykonosVilla: "/manus-storage/mykonos-villa_610cfc68.jpg",
+  mykonosVillaSunset: "/manus-storage/mykonos-villa-sunset_14223465.jpg",
+  athensBoutiqueHotel: "/manus-storage/athens-boutique-hotel_d0de669f.webp",
+  teamMeeting: "/manus-storage/team-meeting_9593eda9.jpg",
+  rueSaintHonore: "/manus-storage/rue-saint-honore_1d8fcfce.jpg",
+  faubourgSaintHonore: "/manus-storage/faubourg-saint-honore_ab5c5ede.jpg",
+  greeceLuxuryVilla: "/manus-storage/greece-luxury-villa_4f03bbf7.jpg",
+  luxuryOfficeModern: "/manus-storage/luxury-office-modern_d05e4198.jpg",
+  avatarNicolas: "/manus-storage/nicolas-portrait_35f972ac.png"
+};
+export default IMAGES;

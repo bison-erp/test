@@ -1,0 +1,86 @@
+{
+  "seo": {
+    "title": "Contactez Nos Conseillers Privés & Inscription Newsletter",
+    "description": "Initiez une demande confidentielle auprès de nos conseillers en immobilier de prestige. Inscrivez-vous à notre newsletter off-market exclusive avec vérification sécurisée.",
+    "keywords": "contact Acropolis Real Estate, consultation privée immobilier de prestige Paris, newsletter off-market immobilier, agent immobilier luxe Paris contact, investissement hôtelier Europe, Golden Visa Grèce"
+  },
+  "form": {
+    "errors": {
+      "fullName": "Le nom complet est requis (minimum 2 caractères)",
+      "phone": "Un numéro de téléphone valide est requis",
+      "email": "Une adresse e-mail valide est requise",
+      "confirmEmail": "Veuillez confirmer votre adresse e-mail",
+      "preferredLocation": "Veuillez sélectionner une localisation privilégiée",
+      "message": "Veuillez fournir un message détaillé (minimum 10 caractères)",
+      "emailMismatch": "Les adresses e-mail ne correspondent pas"
+    },
+    "error": {
+      "toast": "L’envoi a échoué. Merci de réessayer dans quelques instants."
+    },
+    "success": {
+      "toast": "Votre demande a été transmise de manière sécurisée. Un conseiller privé vous contactera dans les plus brefs délais."
+    },
+    "labels": {
+      "fullName": "Nom Complet",
+      "phone": "Numéro de Téléphone",
+      "email": "Adresse E-mail",
+      "confirmEmail": "Confirmer l'Adresse E-mail",
+      "preferredLocation": "Localisation Privilégiée",
+      "message": "Paramètres d'Investissement & Message"
+    },
+    "placeholders": {
+      "fullName": "ex. Nicolas Zhang",
+      "phone": "ex. +33 6 12 34 56 78",
+      "email": "ex. jean.dupont@exemple.com",
+      "confirmEmail": "ex. jean.dupont@exemple.com",
+      "message": "Veuillez décrire votre type de bien idéal, votre budget et vos délais..."
+    },
+    "locations": {
+      "paris": "Paris & Île-de-France",
+      "frenchRiviera": "La Côte d'Azur",
+      "luxembourg": "Luxembourg",
+      "greece": "Grèce (Athènes & Îles)"
+    },
+    "buttons": {
+      "submitting": "Transmission Sécurisée...",
+      "submit": "Transmettre la Demande",
+      "sendAnother": "Envoyer une Autre Demande"
+    },
+    "successMessage": {
+      "title": "Demande Transmise avec Succès",
+      "description": "Nous vous remercions d'avoir contacté Acropolis Real Estate. Votre profil d'investissement a été enregistré dans notre base de données sécurisée. Un conseiller privé dédié examinera vos paramètres et prendra contact avec vous dans les 12 prochaines heures."
+    }
+  },
+  "content": {
+    "subtitle": "Consultation Privée",
+    "title": "Échangeons Ensemble",
+    "description": "Que vous cherchiez à acquérir une résidence privée de prestige, à investir dans des portefeuilles hôteliers institutionnels ou à explorer les programmes de Golden Visa en Grèce, notre équipe de conseillers dédiés est à votre entière disposition.",
+    "profile": {
+      "name": "Nicolas Milonas",
+      "role": "Président du Groupe Acropolis",
+      "description1": "Je serai votre interlocuteur direct pour les questions immobilières et les permis de résidence. Basé au Luxembourg, je me déplace régulièrement en France et en Grèce selon les besoins de mes clients.",
+      "description2": "Je communique en français, anglais et grec. Mon équipe communique en français, anglais, mandarin et dialecte de Shanghai."
+    },
+    "offices": {
+      "paris": {
+        "city": "Paris",
+        "address": "231, Rue Saint Honoré, 75001 – Paris"
+      },
+      "luxembourg": {
+        "city": "Luxembourg",
+        "address": "54, rue Charles Darwin, L-1433 – Luxembourg"
+      }
+    },
+    "notice": "⚠️ Les rendez-vous en personne et les entretiens en visioconférence se font exclusivement sur rendez-vous préalable.",
+    "contact": {
+      "phoneTitle": "Ligne Directe",
+      "emailTitle": "E-mail Confidentiel",
+      "emailAlt": "E-mail de Contact Confidentiel"
+    },
+    "newsletter": {
+      "title": "La Newsletter Off-Market",
+      "description": "En soumettant ce formulaire, vous serez également inscrit pour recevoir notre note mensuelle hautement exclusive sur les biens off-market. Notre newsletter présente des actifs de premier ordre dont la diffusion publique est strictement interdite."
+    },
+    "formTitle": "Initier une Demande Sécurisée"
+  }
+}

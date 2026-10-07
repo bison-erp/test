@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://acropolis-real-estate.com/sitemap.xml

@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Acropolis Real Estate | Agence d'Achat Immobilier de Prestige en Europe",
+    "description": "Acquisitions off-market exclusives à Paris, Côte d'Azur, Luxembourg et Grèce. Chasseurs immobiliers d'élite pour investisseurs VIP internationaux.",
+    "keywords": "immobilier de prestige Paris, propriétés off-market France, villa Côte d'Azur, domaine prestigieux Luxembourg, investissement immobilier Golden Visa Grèce, chasseur immobilier d'élite Europe"
+  },
+  "hero": {
+    "subtitle": "Agence d'Achat d'Élite",
+    "title": "L'Art de l'Acquisition",
+    "titleHighlight": "Off-Market",
+    "description": "Nous opérons exclusivement en tant que conseillers à l'achat, dévoilant des portefeuilles immobiliers confidentiels pour les détenteurs de patrimoine mondiaux à Paris, sur la Côte d'Azur, au Luxembourg et en Grèce.",
+    "ctaExplore": "Explorer les Portefeuilles",
+    "ctaConsultation": "Consultation Privée",
+    "imageAlt": "Vue sur la Tour Eiffel et Paris Haussmannien au Coucher du Soleil"
+  },
+  "intro": {
+    "subtitle": "Un Engagement Sans Compromis",
+    "title": "Nous vous représentons,",
+    "titleHighlight": "et vous seul.",
+    "p1": "En tant qu'agence immobilière, Acropolis Real Estate dispose d'un réseau qui vous donne accès aux plus beaux appartements de Paris, de la région parisienne, de la Côte d'Azur et du Luxembourg, y compris des biens off-market.",
+    "p2": "Nous identifions vos besoins, et un professionnel qualifié sélectionnera les propriétés correspondant à vos critères, vous accueillera et vous guidera tout au long du processus, sans aucun frais supplémentaire.",
+    "residentialTitle": "RÉSIDENTIEL :",
+    "residentialText": "nous pouvons vous proposer tout type d'appartement, du deux-pièces à l'hôtel particulier, allant de 500 000 € à 50 millions d'euros, sans coût additionnel par rapport à un agent immobilier local, et en gérant l'intégralité du processus d'acquisition de bout en bout (notaire, avocats, traducteurs).",
+    "hotelsTitle": "HÔTELS :",
+    "hotelsText": "nous pouvons vous proposer tout type d'établissement, du boutique-hôtel parisien aux hôtels 5 étoiles dans les capitales européennes ou sur les îles grecques.",
+    "addedValueTitle": "NOTRE VALEUR AJOUTÉE :",
+    "addedValueText": "au-delà de l'immobilier traditionnel, nous sommes également experts en investissement locatif meublé (LMNP - Loueur en Meublé Non Professionnel), offrant des rendements de 5 % à 7 % nets de charges et virtuellement défiscalisés. L'investissement LMNP constitue un excellent moyen de se constituer un complément de revenus pour la retraite.",
+    "ctaLegacy": "Notre Héritage & Philosophie",
+    "imageAlt": "Intérieur Élégant Européen"
+  },
+  "portfolio": {
+    "subtitle": "Portefeuilles Sélectionnés",
+    "title": "Piliers d'Investissement Stratégiques",
+    "description": "Une structure hautement sélective axée sur les actifs de préservation de patrimoine au sein des marchés les plus stables d'Europe.",
+    "residential": {
+      "tag": "Résidentiel & Bureaux",
+      "title": "Domaines Haussmanniens & Contemporains",
+      "description": "Découvrez des constructions neuves exceptionnelles et des propriétés historiques méticuleusement rénovées. Une sélection concentrée sur les quartiers résidentiels de premier plan et les espaces de bureaux prestigieux à Paris, sur la Côte d'Azur et au Luxembourg.",
+      "cta": "Explorer le Résidentiel",
+      "imageAlt": "Intérieur d'Appartement Haussmannien Prestigieux"
+    },
+    "hotels": {
+      "tag": "Hôtels & Resorts",
+      "title": "Portefeuilles Hôteliers",
+      "description": "Acquérez des actifs hôteliers de premier ordre dans les grandes capitales européennes, les villes françaises à forte croissance et les îles grecques. Conçu pour les investisseurs institutionnels.",
+      "cta": "Explorer l'Hôtellerie",
+      "imageAlt": "Hôtel & Resort en Grèce"
+    },
+    "residency": {
+      "tag": "Résidence & Visas",
+      "title": "Golden Visa & Mobilité",
+      "description": "Sécurisez votre résidence européenne grâce à des investissements immobiliers stratégiques. Naviguez avec succès dans le prestigieux programme du Golden Visa en Grèce, ainsi que d'autres voies de résidence haut de gamme.",
+      "cta": "Explorer la Résidence",
+      "imageAlt": "Investissement Immobilier Golden Visa Grèce"
+    },
+    "chineseClients": {
+      "tag": "Accompagnement Juridique Bilingue",
+      "title": "Accompagnement pour la Clientèle Chinoise",
+      "p1": "Nous offrons un accompagnement sur mesure et hautement spécialisé à nos amis et investisseurs chinois tout au long du processus d'acquisition immobilière ou d'obtention de permis de séjour en Europe. De la sélection confidentielle des biens à la coordination rigoureuse avec des cabinets d'avocats et des notaires expérimentés dans les exigences juridiques, culturelles et de traduction.",
+      "p2": "Nous maîtrisons l'intégralité du processus notarial grâce à notre ami et partenaire franco-chinois basé à Paris et à Shanghai. Depuis 13 ans, notre partenaire accompagne la clientèle chinoise dans l'acquisition de biens neufs et anciens à Paris, en Île-de-France et sur la Côte d'Azur (principalement Cannes et Nice).",
+      "p3": "Nos atouts : la maîtrise des processus, notre réseau immobilier, notre connaissance du marché (30 ans d'expérience) et notre compréhension des critères de sélection spécifiques de la clientèle chinoise (orientation, Feng Shui, etc.).",
+      "cta": "Consultation Privée",
+      "imageAlt": "Réunion d'investisseurs chinois d'élite dans un bureau parisien"
+    }
+  },
+  "faq": {
+    "subtitle": "Informations Essentielles",
+    "title": "Conseil Privé &",
+    "titleHighlight": "Perspectives pour Investisseurs",
+    "description": "Des réponses essentielles concernant les acquisitions off-market, les voies de résidence et les cadres juridiques en Europe.",
+    "q1": {
+      "question": "Comment fonctionne le marché immobilier privé off-market en Europe ?",
+      "a1": "Le secteur off-market représente les transactions qui ne sont jamais annoncées publiquement ni répertoriées sur les bases de données commerciales. Dans le segment des très hauts revenus, environ 40 % des actifs de premier ordre à Paris et sur la Côte d'Azur changent de mains de manière confidentielle.",
+      "a2": "Les vendeurs choisissent cette voie pour protéger leur vie privée, tandis que les acheteurs bénéficient d'une concurrence réduite et d'un accès exclusif. Acropolis Real Estate agit comme un nœud central, recevant des opportunités directes et non listées de la part de family offices privés, d'avocats fiduciaires et de réseaux de notaires locaux."
+    },
+    "q2": {
+      "question": "Y a-t-il des frais cachés ou des coûts supplémentaires pour votre service de chasseur immobilier sur mesure ?",
+      "a1": "Non, nous opérons selon une politique stricte de transparence absolue. Notre commission est établie dès le début de notre engagement et est entièrement intégrée dans les coûts d'acquisition standards.",
+      "a2": "Étant donné que nous agissons uniquement pour le compte de l'acheteur, nos intérêts sont parfaitement alignés avec les vôtres : nous négocions avec détermination pour obtenir le prix d'achat le plus bas possible, ce qui se traduit souvent par des économies dépassant largement nos honoraires de conseil."
+    },
+    "q3": {
+      "question": "Quelles sont les conditions d'investissement et les avantages du programme Golden Visa en Grèce ?",
+      "a1": "Le programme du Golden Visa grec accorde un permis de séjour de 5 ans renouvelable à l'investisseur principal, à son conjoint, à ses enfants de moins de 21 ans et aux parents des deux conjoints. Il requiert un investissement immobilier stratégique en Grèce, avec des seuils variant selon les régions (allant de 250 000 € à 800 000 € selon la municipalité).",
+      "a2": "Les principaux avantages incluent un accès complet à l'espace Schengen, aucune obligation de résider en Grèce, et la possibilité de générer des rendements locatifs de premier ordre à partir de votre propriété acquise. Nous assurons une coordination juridique et administrative complète pour garantir le succès de votre demande."
+    },
+    "q4": {
+      "question": "Comment Acropolis Real Estate accompagne-t-elle les clients VIP internationaux et chinois ?",
+      "a1": "Nous comprenons que les acquisitions transfrontalières impliquent des barrières juridiques, fiscales et culturelles complexes. Pour nos clients internationaux et chinois, nous proposons un service bilingue tout compris.",
+      "a2": "Notre équipe se coordonne avec des avocats fiscalistes internationaux de premier plan, des notaires bilingues et des institutions bancaires privées pour faciliter les transferts de capitaux, structurer les véhicules de propriété (tels que les SCI françaises) et obtenir des financements avantageux. Nous gérons chaque détail, de la recherche initiale à la gestion immobilière."
+    },
+    "q5": {
+      "question": "Pouvez-vous nous assister dans l'immobilier commercial, plus particulièrement pour les hôtels de luxe et les resorts ?",
+      "a1": "Oui, notre division commerciale est spécialisée dans les transactions hôtelières off-market. Nous accompagnons les family offices, les groupes de capital-investissement et les opérateurs de boutique-hôtels dans la recherche et l'acquisition d'hôtels en exploitation, de resorts de charme et de terrains à développer en Grèce, à Paris et dans les destinations européennes à forte croissance.",
+      "a2": "Nos services comprennent l'évaluation des risques, la modélisation financière, la recherche d'opérateurs et la structuration des transactions."
+    },
+    "q6": {
+      "question": "Existe-t-il de meilleures pratiques (financement intelligent) pour financer l'achat d'un bien immobilier sans payer comptant, même si l'on dispose de la totalité de la somme en liquidités ?",
+      "a1": "Oui, il existe des options de financement intelligentes pour acquérir un bien immobilier sans payer comptant, même si vous disposez de la totalité du montant. Ces stratégies peuvent améliorer la rentabilité globale de votre investissement en ne s'appuyant pas uniquement sur l'appréciation de la propriété. C'est un véritable accélérateur de rentabilité."
+    }
+  },
+  "cta": {
+    "subtitle": "Accès Sécurisé",
+    "title": "Accédez à Notre Catalogue Privé",
+    "titleHighlight": "Off-Market",
+    "description": "Les propriétés les plus prestigieuses de Paris, de la Côte d'Azur et du Luxembourg ne sont jamais annoncées publiquement. Contactez nos conseillers privés pour discuter de vos objectifs d'investissement en toute confidentialité.",
+    "button": "Demander une Consultation Privée"
+  }
+}

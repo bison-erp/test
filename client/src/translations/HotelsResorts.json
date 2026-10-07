@@ -1,0 +1,57 @@
+{
+  "seo": {
+    "title": "Investissement Hôtelier de Prestige & Resorts en Europe",
+    "description": "Acquisitions stratégiques d'hôtels et resorts dans les grandes capitales européennes, en France et en Grèce. Spécialiste des transactions hôtelières off-market pour investisseurs institutionnels.",
+    "keywords": "immobilier de prestige Paris, investissement hôtelier Europe, hôtel à vendre Europe, achat resort Grèce, investissement hôtelier France, boutique hôtel à vendre Paris, resort à vendre îles grecques, acquisition hôtel capitales européennes, Golden Visa Grèce"
+  },
+  "hero": {
+    "imageAlt": "Hôtel de luxe à Santorin en Grèce avec vue sur la mer",
+    "subtitle": "Acquisitions Commerciales",
+    "title": "Portefeuille d'Hôtels & ",
+    "titleHighlight": "Resorts",
+    "description": "Accédez à des investissements hôteliers de calibre institutionnel au sein des destinations touristiques les plus prisées d'Europe. Notre expertise se concentre sur les actifs urbains confidentiels et les resorts côtiers d'exception."
+  },
+  "strategy": {
+    "title": "Acquisitions Stratégiques & Gestion ",
+    "titleHighlight": "d'Actifs Hôteliers",
+    "description": "Le marché de l'hôtellerie européenne, hautement concurrentiel, se caractérise par d'importantes barrières à l'entrée. Notre équipe d'experts opère en tant que conseillers stratégiques, créant le lien entre les capitaux internationaux et des propriétés hôtelières exclusives, hors marché. Nous ciblons en priorité les actifs de premier plan en centre-ville et les resorts côtiers.",
+    "boutique": {
+      "title": "Boutique Hôtels",
+      "description": "Propriétés urbaines historiques alliant une forte valeur de marque à une excellence opérationnelle dans les principales métropoles européennes."
+    },
+    "resorts": {
+      "title": "Resorts de Luxe",
+      "description": "Complexes hôteliers en bord de mer ou en montagne situés dans des destinations touristiques de premier plan, conjuguant prestations haut de gamme et taux d'occupation élevés."
+    }
+  },
+  "geography": {
+    "subtitle": "Concentration Géographique",
+    "title": "Pôles Hôteliers",
+    "hubs": {
+      "capitals": {
+        "number": "01 . Capitales",
+        "title": "Capitales Européennes",
+        "description": "Une sélection rigoureuse d'acquisitions hôtelières premium à Paris, Londres et d'autres capitales majeures. Des actifs urbains à forte barrière à l'entrée, soutenus par une demande institutionnelle robuste.",
+        "link": "Portefeuille Parisien"
+      },
+      "france": {
+        "number": "02 . France",
+        "title": "Grandes Métropoles Françaises",
+        "description": "Ciblage de boutique hôtels et de propriétés hôtelières à fort rendement à Lyon, Bordeaux et dans les pôles côtiers stratégiques de la Côte d'Azur.",
+        "link": "Portefeuille Côte d'Azur"
+      },
+      "greece": {
+        "number": "03 . Grèce",
+        "title": "Grèce & Îles",
+        "description": "Opportunités d'investissement exceptionnelles dans des resorts à Athènes, Mykonos, Santorin, Samos, Kos, Rhodes et en Crète. Capitalisez sur l'essor fulgurant du tourisme de luxe en Grèce.",
+        "link": "Portefeuille Hôtelier Grec"
+      }
+    }
+  },
+  "confidentiality": {
+    "title": "Confidentialité Absolue & Discrétion ",
+    "titleHighlight": "Off-Market",
+    "description": "En raison de la nature hautement sensible des transactions hôtelières commerciales, nous ne publions jamais nos offres actives en ligne. Nos mandats sont gérés sous le sceau de stricts Accords de Non-Divulgation (NDA). Pour accéder à notre portefeuille institutionnel, nous vous invitons à contacter notre conseiller commercial principal.",
+    "button": "Initier une Demande Confidentielle"
+  }
+}
