@@ -52,6 +52,18 @@ Acropolis Real Estate a été fondée par Nicolas Milonas, président d'Acropoli
 Le [blog de l'immobilier de prestige](/blog "Blog Acropolis : guides de l'immobilier de prestige en Europe") publie des analyses de marché et des guides pratiques. Pour commencer : [l'immobilier de prestige à Paris, quartiers et prix 2026](/fr/blog/immobilier-de-prestige-paris-quartiers-prix "Immobilier de prestige à Paris : quartiers et prix 2026") et [où investir dans l'immobilier de prestige en Europe en 2026](/fr/blog/ou-investir-immobilier-prestige-europe-2026 "Où investir dans l'immobilier de prestige en Europe en 2026"). Pour parler de votre projet, [demandez une consultation privée](/contact-newsletter "Contacter Acropolis Real Estate pour une consultation privée").
 
 :::faq
+### Comment fonctionne le marché immobilier off-market ?
+Une partie des plus beaux biens se vend sans annonce publique : les vendeurs privilégient la discrétion, et les acheteurs évitent la concurrence d'une mise en vente ouverte. Ces biens circulent par les notaires, les family offices, les gestionnaires de patrimoine et les réseaux d'agences. Aucune statistique officielle ne mesure ce marché. Pour en savoir plus, consultez notre page [achat immobilier off market à Paris](/off-market-paris "Achat immobilier off market à Paris").
+
+### Accompagnez-vous les acheteurs internationaux, notamment asiatiques ?
+Oui. Nicolas Milonas accompagne depuis plus de 25 ans des investisseurs entre l'Europe, l'Asie et le Moyen-Orient. Nous coordonnons les avocats, notaires, fiscalistes et banques nécessaires à une acquisition transfrontalière : transfert des fonds, traduction des documents, choix de la structure de détention.
+
+### Intervenez-vous sur des hôtels et des resorts ?
+Oui, pour des investisseurs privés et des family offices : hôtels de charme, resorts et murs hôteliers, principalement en Grèce. Voir notre page [investissement hôtelier en Grèce](/hotel-investment-greece "Investissement hôtelier en Grèce : hôtels et resorts off-market").
+
+### Faut-il financer son achat à crédit quand on dispose de la somme ?
+Pas forcément, mais c'est souvent pertinent : un crédit peut préserver vos liquidités, améliorer la rentabilité de l'investissement et, selon les pays, avoir un intérêt fiscal. La bonne solution dépend de votre situation patrimoniale et se décide avec votre banque et votre conseiller ; nous vous mettons en relation avec des établissements habitués aux acheteurs non-résidents.
+
 ### Quelle est la différence entre un chasseur immobilier et une agence immobilière ?
 L'agence est mandatée et rémunérée par le vendeur ; le chasseur est mandaté par l'acheteur et défend ses seuls intérêts. Il ne vous présente pas uniquement les biens d'un portefeuille : il interroge tout le marché, y compris les biens non publiés, puis négocie pour vous.
 

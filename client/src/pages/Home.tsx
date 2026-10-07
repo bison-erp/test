@@ -7,7 +7,6 @@ import { IMAGES } from "@shared/images";
 import { Button } from "@/components/ui/button";
 import { Link } from "../components/Link";
 import { ArrowUpRight, Shield, Compass, Landmark, HelpCircle, Check, ArrowRight } from "lucide-react";
-import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { useTranslation } from "../hooks/useTranslation";
 import { useLanguage } from "../contexts/LanguageContext";
 
@@ -254,107 +253,8 @@ export default function Home() {
         </div>
       </section>
 
-      {/* SECTION 4: FAQ INTERACTIVE STYLISÉE (Minimalist & High Contrast Accordions) */}
-      <section className="py-24 bg-background border-b border-border">
-        <div className="container max-w-4xl space-y-16">
-          <div className="text-center space-y-4">
-            <span className="font-sans-modern text-xs tracking-[0.3em] text-accent uppercase block font-bold">
-              {t("faq.subtitle", "Essential Intelligence")}
-            </span>
-            <h2 className="font-serif-classic text-3xl md:text-5xl tracking-wide font-normal text-primary">
-              {t("faq.title", "Private Advisory &")} <span className="text-accent italic">{t("faq.titleHighlight", "Investor Insights")}</span>
-            </h2>
-            <p className="font-sans-modern text-base text-muted-foreground font-medium max-w-xl mx-auto">
-              {t("faq.description", "Essential answers regarding off-market acquisitions, residency pathways, and legal frameworks in Europe.")}
-            </p>
-          </div>
-
-          <Accordion type="single" collapsible className="w-full space-y-4">
-            
-            <AccordionItem value="item-1" className="border border-border bg-card px-6 py-2 shadow-sm">
-              <AccordionTrigger className="font-serif-classic text-lg md:text-xl font-bold text-primary hover:text-accent transition-luxury text-left">
-                {t("faq.q1.question", "How does the private off-market real estate market operate in Europe?")}
-              </AccordionTrigger>
-              <AccordionContent className="font-sans-modern text-sm text-foreground/90 font-semibold leading-relaxed pt-4 border-t border-border mt-2 space-y-3">
-                <p>
-                  {t("faq.q1.a1", "The off-market sector represents transactions that are never advertised publicly or listed on commercial databases. In the prime segment of Paris and the French Riviera, a significant share of the finest properties changes hands confidentially, although no official statistics exist.")}
-                </p>
-                <p>
-                  {t("faq.q1.a2", "Sellers choose this route to protect their privacy, while buyers benefit from reduced competition and exclusive access. Acropolis Real Estate acts as a central node, receiving direct, unlisted opportunities from private family offices, trust attorneys, and local notary networks.")}
-                </p>
-              </AccordionContent>
-            </AccordionItem>
-
-            <AccordionItem value="item-2" className="border border-border bg-card px-6 py-2 shadow-sm">
-              <AccordionTrigger className="font-serif-classic text-lg md:text-xl font-bold text-primary hover:text-accent transition-luxury text-left">
-                {t("faq.q2.question", "Are there any hidden fees or additional costs for your bespoke buyer agent service?")}
-              </AccordionTrigger>
-              <AccordionContent className="font-sans-modern text-sm text-foreground/90 font-semibold leading-relaxed pt-4 border-t border-border mt-2 space-y-3">
-                <p>
-                  {t("faq.q2.a1", "No, we operate under a strict policy of absolute transparency. Our commission is established at the initiation of our engagement and is fully integrated into the standard acquisition costs.")}
-                </p>
-                <p>
-                  {t("faq.q2.a2", "Because we act solely on the buyer's behalf, our interests are perfectly aligned with yours: we negotiate aggressively to secure the lowest possible purchase price, often resulting in savings that far exceed our advisory fee.")}
-                </p>
-              </AccordionContent>
-            </AccordionItem>
-
-            <AccordionItem value="item-3" className="border border-border bg-card px-6 py-2 shadow-sm">
-              <AccordionTrigger className="font-serif-classic text-lg md:text-xl font-bold text-primary hover:text-accent transition-luxury text-left">
-                {t("faq.q3.question", "What are the investment requirements and benefits of the Greek Golden Visa program?")}
-              </AccordionTrigger>
-              <AccordionContent className="font-sans-modern text-sm text-foreground/90 font-semibold leading-relaxed pt-4 border-t border-border mt-2 space-y-3">
-                <p>
-                  {t("faq.q3.a1", "The Greek Golden Visa program grants a 5-year renewable residency permit to the main investor, spouse, children under 21, and parents of both spouses. It requires a strategic real estate investment in Greece, with thresholds varying by region (ranging from €250,000 to €800,000 depending on the municipality).")}
-                </p>
-                <p>
-                  {t("faq.q3.a2", "Key benefits include full access to the Schengen Zone, zero requirement to reside in Greece, and the ability to generate premium rental yields from your acquired property. We provide full legal and administrative coordination to guarantee a successful application.")}
-                </p>
-              </AccordionContent>
-            </AccordionItem>
-
-            <AccordionItem value="item-4" className="border border-border bg-card px-6 py-2 shadow-sm">
-              <AccordionTrigger className="font-serif-classic text-lg md:text-xl font-bold text-primary hover:text-accent transition-luxury text-left">
-                {t("faq.q4.question", "How does Acropolis Real Estate assist international and Chinese VIP clients?")}
-              </AccordionTrigger>
-              <AccordionContent className="font-sans-modern text-sm text-foreground/90 font-semibold leading-relaxed pt-4 border-t border-border mt-2 space-y-3">
-                <p>
-                  {t("faq.q4.a1", "We understand that cross-border acquisitions involve complex legal, tax, and cultural barriers. For our international and Chinese clients, we provide an all-inclusive, bilingual service.")}
-                </p>
-                <p>
-                  {t("faq.q4.a2", "Our team coordinates with top-tier international tax lawyers, bilingual notaries, and private banking institutions to streamline capital transfers, structure ownership vehicles (such as French SCIs), and secure favorable financing. We manage every detail, from initial search to property management.")}
-                </p>
-              </AccordionContent>
-            </AccordionItem>
-
-            <AccordionItem value="item-5" className="border border-border bg-card px-6 py-2 shadow-sm">
-              <AccordionTrigger className="font-serif-classic text-lg md:text-xl font-bold text-primary hover:text-accent transition-luxury text-left">
-                {t("faq.q5.question", "Can you assist with commercial real estate, specifically luxury hotels and resorts?")}
-              </AccordionTrigger>
-              <AccordionContent className="font-sans-modern text-sm text-foreground/90 font-semibold leading-relaxed pt-4 border-t border-border mt-2 space-y-3">
-                <p>
-                  {t("faq.q5.a1", "Yes, our commercial division specializes in off-market hospitality transactions. We assist family offices, private equity groups, and boutique hotel operators in sourcing and acquiring operating hotels, boutique resorts, and development land in Greece, Paris, and high-growth European destinations.")}
-                </p>
-                <p>
-                  {t("faq.q5.a2", "Our services include underwriting, financial modeling, operator search, and transaction structuring.")}
-                </p>
-              </AccordionContent>
-            </AccordionItem>
-
-            <AccordionItem value="item-6" className="border border-border bg-card px-6 py-2 shadow-sm">
-              <AccordionTrigger className="font-serif-classic text-lg md:text-xl font-bold text-primary hover:text-accent transition-luxury text-left">
-                {t("faq.q6.question", "Are there better practices (smart financing) for financing the purchase of real estate without paying cash, even if you have the entire amount in cash?")}
-              </AccordionTrigger>
-              <AccordionContent className="font-sans-modern text-sm text-foreground/90 font-semibold leading-relaxed pt-4 border-t border-border mt-2 space-y-3">
-                <p>
-                  {t("faq.q6.a1", "Yes, there are smart financing options for purchasing real estate without paying cash, even if you have the full amount available. These strategies can improve the overall profitability of your investment by not relying solely on the property's appreciation. It's a profitability accelerator.")}
-                </p>
-              </AccordionContent>
-            </AccordionItem>
-
-          </Accordion>
-        </div>
-      </section>
+      {/* SEO text + single FAQ (content/pages/home.<lang>.md) */}
+      <PageBody pageKey="home" />
 
       {/* SECTION 5: FINAL CTA (Minimalist & High Contrast) */}
       <section className="py-24 text-center bg-secondary/30 relative overflow-hidden border-t border-border">
@@ -378,7 +278,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <PageBody pageKey="home" />
     </Layout>
   );
 }

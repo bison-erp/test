@@ -52,6 +52,18 @@ Acropolis Real Estate was founded by Nicolas Milonas, President of Acropolis Gro
 The [luxury real estate blog](/blog "Acropolis blog: guides to luxury real estate in Europe") publishes market analysis and practical guides. Good places to start: [Paris prime neighbourhoods and prices](/blog/paris-prime-real-estate-neighbourhoods-prices "Luxury real estate in Paris: neighbourhoods and prices 2026") and [where to invest in luxury real estate in Europe in 2026](/blog/where-to-invest-luxury-real-estate-europe-2026 "Where to invest in luxury real estate in Europe in 2026"). To discuss your project, [request a private consultation](/contact-newsletter "Contact Acropolis Real Estate for a private consultation").
 
 :::faq
+### How does the off-market property market work?
+Some of the finest properties sell without any public listing: sellers value discretion, and buyers avoid competing in an open sale. These properties circulate through notaries, family offices, wealth managers and agency networks. No official statistics measure this market. Learn more on our page about [off-market property in Paris](/off-market-paris "Off-market property in Paris").
+
+### Do you work with international buyers, including from Asia?
+Yes. For more than 25 years, Nicolas Milonas has advised investors between Europe, Asia and the Middle East. We coordinate the lawyers, notaries, tax advisers and banks a cross-border purchase requires: transfer of funds, document translation and choice of ownership structure.
+
+### Do you handle hotels and resorts?
+Yes, for private investors and family offices: boutique hotels, resorts and hotel real estate, mainly in Greece. See our page on [hotel investment in Greece](/hotel-investment-greece "Hotel investment in Greece: off-market hotels and resorts").
+
+### Should I take a mortgage if I can pay cash?
+Not necessarily, but it is often worth considering: a loan can preserve your liquidity, improve the return on the investment and, depending on the country, have tax advantages. The right answer depends on your overall wealth position and is decided with your bank and adviser; we can introduce you to lenders used to non-resident buyers.
+
 ### What is the difference between a buyer's agent and an estate agent?
 An estate agent is instructed and paid by the seller; a buyer's agent is instructed by the purchaser and defends only their interests. Rather than showing you one agency's stock, we search the whole market, including unlisted properties, and negotiate on your behalf.
 
