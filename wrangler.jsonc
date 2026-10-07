@@ -8,7 +8,10 @@
     "not_found_handling": "404-page",
     "run_worker_first": ["/api/*"]
   },
-  // Keep variables set in the dashboard (CONTACT_TO, CONTACT_FROM) across deploys.
+  "vars": {
+    "CONTACT_FROM": "Acropolis Real Estate <contact@acropolis-real-estate.com>"
+  },
+  // Keep variables set in the dashboard (CONTACT_TO) across deploys.
   "keep_vars": true,
   "observability": { "enabled": true }
 }
