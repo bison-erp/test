@@ -26,3 +26,10 @@ confirmés ou corrigés.
 - Les pages parlent d'un mandat de recherche écrit conforme à la loi Hoguet : confirmer la carte professionnelle « transaction » et son numéro.
 - Réseau et services annoncés (notaires, gestionnaires de patrimoine, family offices, agences partenaires, accord de confidentialité, mise en relation avec des notaires et des banques) : confirmer que le client peut les assurer.
 - Budget indicatif pour le off-market : « souvent au-delà de 1,5 à 2 M€ ».
+
+## Pages Golden Visa et investissement hôtelier
+- Crète, Rhodes et Corfou : les sources ne disent pas clairement si ces îles relèvent du seuil de 800 k€ ou de 400 k€. La page le signale sans trancher.
+- Frais du permis de séjour (2 000 € par adulte) et part payée par les membres de la famille : les sources divergent.
+- Frais annexes : notaire 0,8 à 1,5 %, avocat 1 à 2 %, cadastre 0,5 à 0,6 % (fourchettes tirées de guides d'agences).
+- Rendement hôtelier brut de 6 à 10 % : chiffre indicatif, sans référence officielle.
+- Chiffres HVS et enquête des investisseurs à 43 % : repris de la presse, pas des rapports d'origine.

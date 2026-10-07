@@ -50,6 +50,8 @@ Dans une agence, le négociateur doit conclure une vente acceptable pour le vend
 
 Le chasseur prépare la négociation pour vous : analyse des ventes comparables publiées par les Notaires du Grand Paris et la base DVF, durée de commercialisation du bien, défauts techniques, travaux de copropriété à venir, motivation du vendeur. Il formule l'offre, choisit le moment et les conditions suspensives, puis coordonne la suite avec votre notaire. Il ne garantit pas de résultat, mais vous savez que chaque argument est utilisé dans votre intérêt.
 
+Pour un acquéreur établi à l'étranger, cette mission couvre aussi des points pratiques que les agences traitent rarement : expliquer l'enchaînement avant-contrat, délai de rétractation et acte authentique, vérifier que le calendrier de signature est compatible avec un virement international, et s'assurer que le notaire dispose à temps des justificatifs d'identité et d'origine des fonds. Ces détails font souvent la différence face à une offre concurrente.
+
 ## Tableau comparatif chasseur / agence de luxe
 
 | Critère | Agence immobilière de luxe | Chasseur immobilier (agent de l'acheteur) |

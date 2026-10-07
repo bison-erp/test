@@ -1,6 +1,6 @@
 ---
 slug: buyers-agent-vs-luxury-estate-agency-paris
-title: Buyer's Agent vs Estate Agent in Paris: Which Should You Use?
+title: Buyer's Agent vs Estate Agent in Paris: Which to Choose?
 description: Buyer's agent vs estate agent in Paris: who represents you, who pays, who negotiates and who sees off-market homes. A clear comparison before you buy in Paris.
 h1: Buyer's agent vs luxury estate agency in Paris: which to choose?
 excerpt: Buyer's agent vs estate agent in Paris: from a distance the two roles look alike, yet they defend opposite interests. Here is how to tell them apart and which one suits your purchase.
@@ -49,6 +49,8 @@ A buyer's agent has no portfolio to protect. They contact every agency, notaries
 At an agency, the negotiator has to close a sale the seller finds acceptable. They pass on your offer and may support it, but they cannot advise you to lower it at their client's expense.
 
 A buyer's agent prepares the negotiation on your behalf: comparable sales from the Paris notaries' data and the public DVF database, time on the market, technical defects, upcoming building works, the seller's motivation. They draft the offer, choose the timing and the conditions precedent, then coordinate with your notary. No outcome is guaranteed, but every argument is used in your interest.
+
+For buyers based abroad, this also covers practical points that agencies rarely handle: explaining the French sequence of preliminary contract, cooling-off period and completion, checking that the signing timetable fits an international transfer of funds, and making sure the notary has everything needed for identity and source-of-funds checks well before the deadline. These details often decide whether an offer is accepted over a competing one.
 
 ## Comparison table: buyer's agent or luxury estate agency
 

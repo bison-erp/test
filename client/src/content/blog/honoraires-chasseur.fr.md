@@ -1,7 +1,7 @@
 ---
 slug: honoraires-chasseur-immobilier-luxe
 title: Honoraires chasseur immobilier luxe : combien ça coûte ?
-description: Honoraires d'un chasseur immobilier de luxe : pourcentage ou forfait, fourchettes du marché, prestations incluses, fiscalité et comparaison avec les frais d'agence.
+description: Honoraires d'un chasseur immobilier de luxe : pourcentage ou forfait, fourchettes du marché, prestations incluses, fiscalité et comparaison avec l'agence.
 h1: Honoraires d'un chasseur immobilier de luxe : combien ça coûte vraiment ?
 excerpt: Les honoraires d'un chasseur immobilier de luxe varient selon le modèle choisi, le prix du bien et l'étendue de la mission. Fourchettes du marché, contenu de la prestation et fiscalité : tout ce qu'il faut savoir avant de signer un mandat.
 category: Paris

@@ -27,7 +27,7 @@ Sur la côte ouest, Aleomandra et Agios Ioannis offrent les couchers de soleil l
 
 ### Houlakia
 
-Au nord-ouest, à proximité de Chora, Houlakia est un secteur plus calme, réputé pour sa plage de galets et ses couchers de soleil. Il est plus exposé au meltem, ce qui pèse sur la jouissance des terrasses certains jours d'été, mais il offre des prix souvent plus accessibles.
+Au nord-ouest, à proximité de Chora, Houlakia est un secteur plus calme, réputé pour sa plage de galets et ses couchers de soleil. Il est plus exposé au meltem, ce qui pèse sur la jouissance des terrasses certains jours d'été, un critère à vérifier lors des visites.
 
 ### Elia et Kalo Livadi
 
