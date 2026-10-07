@@ -57,3 +57,10 @@ chasseur / agence sur la page Paris.
 - H1 sans mot-clé ; metas de 75 à 115 caractères ; 350 à 500 mots par page.
 - Un seul lien sur environ 28 porte un attribut `title` ; les pages légales n'ont aucun lien interne.
 - Points corrects : hreflang FR/EN réciproques et canonicals.
+
+## Décisions validées
+
+- Prix et honoraires : afficher des fourchettes « à partir de », comme les concurrents. Le client tranchera ensuite.
+- E-mail affiché partout : l'adresse du site (contact@acropolis-real-estate.com), jamais l'e-mail personnel de Nicolas.
+- Golden Visa Grèce : palier intermédiaire à 400 k€.
+- Profil de Nicolas Milonas : à reprendre de son LinkedIn (fourni par l'agence).
