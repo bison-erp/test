@@ -1,3 +1,6 @@
+import { useLanguage } from "@/contexts/LanguageContext";
+import { getPage } from "@/content/registry";
+import PageBody from "@/components/PageBody";
 import { SITE_URL } from "@shared/const";
 import Layout from "@/components/Layout";
 import SEOHead from "@/components/SEOHead";
@@ -8,6 +11,7 @@ import { ArrowRight, MapPin, Building2, Key, Shield } from "lucide-react";
 import { useTranslation } from "@/hooks/useTranslation";
 
 export default function ResidentialOffices() {
+  const { language } = useLanguage();
   const { t } = useTranslation("ResidentialOffices");
 
   const regions = [
@@ -36,13 +40,7 @@ export default function ResidentialOffices() {
 
   return (
     <Layout>
-      <SEOHead
-        title={t("seo.title", "Residential & Office Portfolios | Paris, Riviera, Luxembourg")}
-        description={t("seo.description", "Explore our curated, highly confidential portfolio of off-market luxury residential apartments, historical estates, and premium corporate offices.")}
-        keywords={t("seo.keywords", "luxury apartments Paris, buy office space Luxembourg, French Riviera waterfront villas, off-market real estate agent Paris, buy luxury home France")}
-        canonicalUrl={SITE_URL + "/residential-offices"}
-        schemaType="RealEstateAgent"
-      />
+      <SEOHead />
 
       {/* Hero Banner - 100% Opacity with Dark Text Overlay Box */}
       <section className="relative h-[60vh] w-full flex items-center justify-center overflow-hidden">
@@ -60,7 +58,7 @@ export default function ResidentialOffices() {
               {t("hero.subtitle", "Bespoke Acquisitions")}
             </span>
             <h1 className="font-serif-classic text-3xl sm:text-4xl md:text-5xl tracking-wide font-light text-primary">
-              {t("hero.title", "Residential &")} <span className="text-accent italic">{t("hero.titleHighlight", "Office Portfolios")}</span>
+              {getPage("residentialOffices", language).data.h1}
             </h1>
             <p className="font-sans-modern text-sm sm:text-base text-foreground max-w-xl mx-auto font-semibold leading-relaxed">
               {t("hero.description", "Curating prestigious living spaces and strategic corporate environments across Europe's most coveted and secure locations.")}
@@ -177,6 +175,7 @@ export default function ResidentialOffices() {
           </div>
         </div>
       </section>
+      <PageBody pageKey="residentialOffices" />
     </Layout>
   );
 }

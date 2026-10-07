@@ -11,13 +11,15 @@ export const NAVIGATION_LINKS = [
   { label: "Hotels & Resorts", labelFr: "Hôtels & Resorts", href: "/hotels-resorts" },
   { label: "Residency & Visas", labelFr: "Résidence & Visas", href: "/residency-visas" },
   { label: "About Us", labelFr: "À Propos", href: "/about" },
+  { label: "Blog", labelFr: "Blog", href: "/blog" },
   { label: "Contact", labelFr: "Contact", href: "/contact-newsletter" }
 ];
 
 export const SEO_PAGES = [
-  { label: "Real Estate Paris", labelFr: "Immobilier Paris", href: "/real-estate-paris" },
-  { label: "Real Estate French Riviera", labelFr: "Immobilier Côte d'Azur", href: "/real-estate-french-riviera" },
-  { label: "Real Estate Luxembourg", labelFr: "Immobilier Luxembourg", href: "/real-estate-luxembourg" },
+  { label: "Paris Property Finder", labelFr: "Chasseur immobilier Paris", href: "/real-estate-paris" },
+  { label: "Off-Market Paris", labelFr: "Off-market Paris", href: "/off-market-paris" },
+  { label: "French Riviera Buyer's Agent", labelFr: "Chasseur Côte d'Azur", href: "/real-estate-french-riviera" },
+  { label: "Luxembourg Property Finder", labelFr: "Chasseur immobilier Luxembourg", href: "/real-estate-luxembourg" },
   { label: "Golden Visa Greece", labelFr: "Golden Visa Grèce", href: "/golden-visa-greece" },
   { label: "Hotel Investment Greece", labelFr: "Investissement Hôtelier Grèce", href: "/hotel-investment-greece" }
 ];

@@ -6,12 +6,12 @@ import { defineConfig, type Plugin } from "vite";
 
 const MEDIA_DIR = path.resolve(import.meta.dirname, "media");
 
-// In dev, serve /manus-storage and /fonts from media/ (the build copies them into dist/public).
+// In dev, serve /manus-storage, /fonts and /blog-images from media/ (the build copies them into dist/public).
 function serveLocalMedia(): Plugin {
   return {
     name: "serve-local-media",
     configureServer(server) {
-      for (const section of ["manus-storage", "fonts"]) {
+      for (const section of ["manus-storage", "fonts", "blog-images"]) {
         server.middlewares.use(`/${section}`, (req, res, next) => {
           const file = path.join(MEDIA_DIR, section, decodeURIComponent((req.url ?? "").split("?")[0]));
           if (!file.startsWith(path.join(MEDIA_DIR, section)) || !fs.existsSync(file) || fs.statSync(file).isDirectory()) return next();

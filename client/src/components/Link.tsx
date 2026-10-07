@@ -1,35 +1,43 @@
 import React from "react";
 import { Link as WouterLink } from "wouter";
 import { useLanguage } from "../contexts/LanguageContext";
+import { linkTitleFor } from "@/content/registry";
 
-interface LinkProps {
+interface LinkProps extends Omit<React.AnchorHTMLAttributes<HTMLAnchorElement>, "href"> {
   href: string;
   children: React.ReactNode;
-  className?: string;
-  onClick?: (e: React.MouseEvent<HTMLAnchorElement>) => void;
-  [key: string]: any; // Permettre d'autres props
 }
 
-export function Link({ href, children, ...props }: LinkProps) {
+const isExternal = (href: string) => /^(https?:|mailto:|tel:)/.test(href);
+
+/**
+ * Internal links: adds the /fr prefix on French pages and a descriptive
+ * title attribute (the target page's title) unless one is given.
+ */
+export function Link({ href, children, title, ...props }: LinkProps) {
   const { language } = useLanguage();
 
-  let targetHref = href;
+  if (isExternal(href)) {
+    const external = href.startsWith("http");
+    return (
+      <a
+        href={href}
+        title={title}
+        {...(external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+        {...props}
+      >
+        {children}
+      </a>
+    );
+  }
 
-  if (language === "fr" && typeof targetHref === "string") {
-    // Éviter de doubler le préfixe /fr ou d'ajouter /fr aux liens externes ou aux ancres
-    if (
-      !targetHref.startsWith("/fr") &&
-      !targetHref.startsWith("http") &&
-      !targetHref.startsWith("mailto:") &&
-      !targetHref.startsWith("tel:") &&
-      !targetHref.startsWith("#")
-    ) {
-      targetHref = targetHref === "/" ? "/fr" : `/fr${targetHref}`;
-    }
+  let targetHref = href;
+  if (language === "fr" && !targetHref.startsWith("/fr") && !targetHref.startsWith("#")) {
+    targetHref = targetHref === "/" ? "/fr" : `/fr${targetHref}`;
   }
 
   return (
-    <WouterLink href={targetHref} {...props}>
+    <WouterLink href={targetHref} title={title ?? linkTitleFor(targetHref)} {...props}>
       {children}
     </WouterLink>
   );

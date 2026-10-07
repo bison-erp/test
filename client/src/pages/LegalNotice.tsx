@@ -1,3 +1,5 @@
+import Layout from "@/components/Layout";
+import { getPage } from "@/content/registry";
 import { SITE_URL } from "@shared/const";
 import React from "react";
 import SEOHead from "@/components/SEOHead";
@@ -8,21 +10,17 @@ export default function LegalNotice() {
   const { t } = useTranslation("LegalNotice");
   const { language } = useLanguage();
   return (
-    <div className="min-h-screen bg-[#F4F6F8] pt-32 pb-24">
-      <SEOHead
-        title={t("seo.title", "Legal Notice")}
-        description={t("seo.description", "Legal information and terms of use for the Acropolis Real Estate website.")}
-        keywords={t("seo.keywords", "legal notice, terms of use, acropolis real estate legal, publisher information")}
-        canonicalUrl={SITE_URL + "/legal-notice"}
-      />
+    <Layout>
+    <div className="bg-[#F4F6F8] pt-12 pb-24">
+      <SEOHead />
       
       <div className="max-w-4xl mx-auto px-6">
         <span className="text-[#005CB8] font-semibold tracking-widest text-xs uppercase block mb-3">
           {t("content.subtitle", "Regulatory Compliance")}
         </span>
         <h1 className="font-serif text-4xl md:text-5xl text-[#0A1118] mb-8 leading-tight">
-          {t("content.title", "Legal Notice")}
-        </h1>
+              {getPage("legal", language).data.h1}
+            </h1>
         
         <div className="bg-white p-8 md:p-12 rounded-xl shadow-sm border border-[#E5E7EB] prose prose-slate max-w-none text-[#374151]">
           <p className="text-sm text-[#6B7280] mb-8">
@@ -50,7 +48,7 @@ export default function LegalNotice() {
             <p className="leading-relaxed mb-4">
               <strong>{t("sections.hosting.host", "Host")}:</strong> Novatis Agency SAS<br />
               <strong>{t("sections.hosting.registeredOffice", "Registered Office")}:</strong> Paris, France<br />
-              <strong>{t("sections.hosting.website", "Website")}:</strong> <a href="https://novatis.agency" target="_blank" rel="noopener noreferrer" className="text-[#005CB8] hover:underline">https://novatis.agency</a>
+              <strong>{t("sections.hosting.website", "Website")}:</strong> <a href="https://novatis.agency" title="Novatis Agency" target="_blank" rel="noopener noreferrer" className="text-[#005CB8] hover:underline">https://novatis.agency</a>
             </p>
           </section>
 
@@ -86,5 +84,6 @@ export default function LegalNotice() {
         </div>
       </div>
     </div>
+    </Layout>
   );
 }

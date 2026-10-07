@@ -1,3 +1,5 @@
+import { getPage } from "@/content/registry";
+import PageBody from "@/components/PageBody";
 import { SITE_URL } from "@shared/const";
 import Layout from "@/components/Layout";
 import SEOHead from "@/components/SEOHead";
@@ -14,13 +16,7 @@ export default function Home() {
   const { language } = useLanguage();
   return (
     <Layout>
-      <SEOHead
-        title={t("seo.title", "Acropolis Real Estate | Elite European Property Buyer Agency")}
-        description={t("seo.description", "Exclusive off-market real estate acquisitions in Paris, French Riviera, Luxembourg, and Greece. Specialized boutique buyer agents for global VIP investors.")}
-        keywords={t("seo.keywords", "real estate Paris, off-market properties France, French Riviera villa, Luxembourg prestigious estate, Greek Golden Visa property investment, elite buyer agent Europe")}
-        canonicalUrl={SITE_URL}
-        schemaType="RealEstateAgent"
-      />
+      <SEOHead />
 
       {/* SECTION 1: HERO IMMERSIF FULL SCREEN (Fine, Elegant Serif Typography) */}
       <section className="relative h-screen w-full flex items-center justify-start overflow-hidden bg-primary">
@@ -42,17 +38,10 @@ export default function Home() {
               {t("hero.subtitle", "Elite Buyer Agency")}
             </span>
             <h1 className="font-serif-classic text-4xl sm:text-5xl md:text-6xl font-normal tracking-wide leading-[1.2] text-white">
-              {language === "en" ? (
-                <>
-                  The Art of <br />
-                  <span className="text-accent italic font-normal">Off-Market</span> Acquisition
-                </>
-              ) : (
-                <>
-                  {t("hero.title", "L'Art de l'Acquisition")} <br />
-                  <span className="text-accent italic font-normal">{t("hero.titleHighlight", "Off-Market")}</span>
-                </>
-              )}
+              {(() => {
+                const [first, ...rest] = getPage("home", language).data.h1!.split(", ");
+                return rest.length ? (<>{first},<br /><span className="text-accent italic font-normal">{rest.join(", ")}</span></>) : first;
+              })()}
             </h1>
             <p className="font-sans-modern text-sm sm:text-base md:text-lg text-white/90 max-w-xl font-light leading-relaxed">
               {t("hero.description", "We operate exclusively as buy-side advisors, unlocking confidential real estate portfolios for global wealth owners across Paris, the French Riviera, Luxembourg, and Greece.")}
@@ -389,6 +378,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <PageBody pageKey="home" />
     </Layout>
   );
 }

@@ -1,3 +1,4 @@
+import { getPage } from "@/content/registry";
 import { SITE_URL } from "@shared/const";
 import React from "react";
 import SEOHead from "@/components/SEOHead";
@@ -12,20 +13,15 @@ export default function RegulatoryDisclosures() {
   return (
     <Layout>
       <div className="min-h-screen bg-[#F4F6F8] pt-32 pb-24">
-        <SEOHead
-          title={t("seo.title", "Regulatory Disclosures")}
-          description={t("seo.description", "Official regulatory disclosures, anti-money laundering (AML) compliance, and consumer protection information for Acropolis Real Estate.")}
-          keywords={t("seo.keywords", "regulatory disclosures, AML compliance, real estate regulation Europe, consumer protection, real estate broker card")}
-          canonicalUrl={SITE_URL + "/regulatory-disclosures"}
-        />
+        <SEOHead />
         
         <div className="max-w-4xl mx-auto px-6">
           <span className="text-[#005CB8] font-semibold tracking-widest text-xs uppercase block mb-3">
             {t("content.subtitle", "Regulatory Compliance")}
           </span>
           <h1 className="font-serif text-4xl md:text-5xl text-[#0A1118] mb-8 leading-tight">
-            {t("content.title", "Regulatory Disclosures")}
-          </h1>
+              {getPage("regulatory", language).data.h1}
+            </h1>
           
           <div className="bg-white p-8 md:p-12 rounded-xl shadow-sm border border-[#E5E7EB] prose prose-slate max-w-none text-[#374151]">
             <p className="text-sm text-[#6B7280] mb-8">

@@ -1,3 +1,6 @@
+import { useLanguage } from "@/contexts/LanguageContext";
+import { getPage } from "@/content/registry";
+import PageBody from "@/components/PageBody";
 import { SITE_URL } from "@shared/const";
 import Layout from "@/components/Layout";
 import SEOHead from "@/components/SEOHead";
@@ -8,17 +11,12 @@ import { Landmark, ShieldCheck, ArrowRight } from "lucide-react";
 import { useTranslation } from "@/hooks/useTranslation";
 
 export default function ResidencyVisas() {
+  const { language } = useLanguage();
   const { t } = useTranslation("ResidencyVisas");
 
   return (
     <Layout>
-      <SEOHead
-        title={t("seo.title", "European Residency & Golden Visa Programs")}
-        description={t("seo.description", "Secure European residency through strategic real estate investments. Learn about the prestigious Greek Golden Visa, Luxembourg residency, and France options.")}
-        keywords={t("seo.keywords", "golden visa Greece, European residency real estate, Greek residency by investment, buy property Greek Golden Visa, European mobility investment, residency Luxembourg buy property")}
-        canonicalUrl={SITE_URL + "/residency-visas"}
-        schemaType="WebPage"
-      />
+      <SEOHead />
 
       {/* Header Banner - 100% Opacity with Glassmorphism Text Box */}
       <section className="relative h-[60vh] w-full flex items-center justify-center overflow-hidden">
@@ -36,7 +34,7 @@ export default function ResidencyVisas() {
               {t("header.subtitle", "Global Mobility Solutions")}
             </span>
             <h1 className="font-serif-classic text-3xl sm:text-4xl md:text-5xl tracking-wide font-light text-primary">
-              {t("header.title", "Residency &")} <span className="text-accent italic">{t("header.titleHighlight", "Visas")}</span>
+              {getPage("residencyVisas", language).data.h1}
             </h1>
             <p className="font-sans-modern text-sm sm:text-base text-foreground max-w-xl mx-auto font-semibold leading-relaxed">
               {t("header.description", "Securing your global mobility and wealth shelter through strategic real estate acquisitions. Specializing in prestigious European Golden Visa and residency pathways.")}
@@ -139,6 +137,7 @@ export default function ResidencyVisas() {
           </div>
         </div>
       </section>
+      <PageBody pageKey="residencyVisas" />
     </Layout>
   );
 }

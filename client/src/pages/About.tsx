@@ -1,3 +1,6 @@
+import { useLanguage } from "@/contexts/LanguageContext";
+import { getPage } from "@/content/registry";
+import PageBody from "@/components/PageBody";
 import { SITE_URL } from "@shared/const";
 import Layout from "@/components/Layout";
 import SEOHead from "@/components/SEOHead";
@@ -8,17 +11,12 @@ import { useTranslation } from "@/hooks/useTranslation";
 import { Link } from "../components/Link";
 
 export default function About() {
+  const { language } = useLanguage();
   const { t } = useTranslation("About");
 
   return (
     <Layout>
-      <SEOHead
-        title={t("seo.title", "About Our Prestigious Real Estate Agency")}
-        description={t("seo.description", "Learn more about Acropolis Real Estate, an elite buyer agency. Specialized in high-end European property acquisitions.")}
-        keywords={t("seo.keywords", "about Acropolis Real Estate, real estate agent Paris, elite buyer agent Europe, real estate network Paris")}
-        canonicalUrl={SITE_URL + "/about"}
-        schemaType="AboutPage"
-      />
+      <SEOHead />
 
       {/* Header Banner - 100% Opacity with Glassmorphism Text Box */}
       <section className="relative h-[60vh] w-full flex items-center justify-center overflow-hidden">
@@ -36,7 +34,7 @@ export default function About() {
               {t("header.subtitle", "Our Legacy")}
             </span>
             <h1 className="font-serif-classic text-3xl sm:text-4xl md:text-5xl tracking-wide font-light text-primary">
-              {t("header.title", "About Acropolis")}
+              {getPage("about", language).data.h1}
             </h1>
             <p className="font-sans-modern text-sm sm:text-base text-foreground max-w-xl mx-auto font-semibold leading-relaxed">
               {t("header.description", "Acropolis Real Estate is a premier boutique agency operating from the heart of Paris, dedicated to providing discerning global clients with uncompromised real estate solutions.")}
@@ -117,6 +115,7 @@ export default function About() {
           </div>
         </div>
       </section>
+      <PageBody pageKey="about" />
     </Layout>
   );
 }

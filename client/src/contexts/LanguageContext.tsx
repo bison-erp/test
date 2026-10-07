@@ -1,4 +1,5 @@
 import React, { createContext, useContext, useEffect, useState } from "react";
+import { alternatePath } from "@/content/registry";
 
 export type Language = "en" | "fr";
 
@@ -57,20 +58,9 @@ export function LanguageProvider({ children, initialPath }: LanguageProviderProp
     localStorage.setItem("language", lang);
     document.documentElement.lang = lang;
 
-    // Mettre à jour l'URL physique de manière fluide pour ajouter/retirer le préfixe /fr
+    // Aller vers la même page dans l'autre langue (les slugs du blog diffèrent entre FR et EN)
     const pathname = window.location.pathname;
-    let newPathname = pathname;
-
-    if (lang === "fr") {
-      if (!pathname.startsWith("/fr")) {
-        newPathname = pathname === "/" ? "/fr" : `/fr${pathname}`;
-      }
-    } else {
-      if (pathname.startsWith("/fr")) {
-        newPathname = pathname.replace(/^\/fr/, "");
-        if (newPathname === "") newPathname = "/";
-      }
-    }
+    const newPathname = alternatePath(pathname, lang);
 
     if (newPathname !== pathname) {
       window.history.pushState({}, "", window.location.origin + newPathname + window.location.search);

@@ -70,7 +70,7 @@ export default function Footer() {
         {/* Direct Contact Column */}
         <div className="flex flex-col space-y-6">
           <h4 className="font-serif-classic text-sm tracking-wider text-primary uppercase font-bold">
-            Offices
+            {language === "en" ? "Offices" : "Bureaux"}
           </h4>
           <div className="flex flex-col space-y-4">
             <div className="flex items-start space-x-3 text-foreground/80">
@@ -97,6 +97,7 @@ export default function Footer() {
               <Phone className="h-5 w-5 text-primary shrink-0" />
               <a
                 href={`tel:${AGENCY_PHONE.replace(/\s+/g, '')}`}
+                title={language === "en" ? "Call Acropolis Real Estate" : "Appeler Acropolis Real Estate"}
                 className="font-sans-modern text-sm font-semibold hover:text-primary transition-colors"
               >
                 {AGENCY_PHONE}

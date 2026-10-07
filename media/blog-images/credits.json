@@ -1,0 +1,83 @@
+{
+  "off-market-paris": {
+    "source": "https://www.pexels.com/photo/elegant-haussmann-building-in-paris-france-31058041/",
+    "photographer": null,
+    "credit_fr": "Photo : Pexels",
+    "credit_en": "Photo: Pexels",
+    "alt_fr": "Façade d'immeuble haussmannien à Paris avec balcons en fer forgé et toit en zinc mansardé",
+    "alt_en": "Haussmann apartment building in Paris with wrought-iron balconies and a zinc mansard roof"
+  },
+  "chasseur-vs-agence": {
+    "source": "site",
+    "photographer": null,
+    "credit_fr": "",
+    "credit_en": "",
+    "cover": "/manus-storage/paris-apartment-elegant_b300e5f3.jpg",
+    "alt_fr": "Intérieur élégant d'un appartement de prestige à Paris",
+    "alt_en": "Elegant interior of a prestigious Paris apartment"
+  },
+  "honoraires-chasseur": {
+    "source": "https://www.pexels.com/photo/fountain-pen-on-top-of-open-notebook-273015/",
+    "photographer": null,
+    "credit_fr": "Photo : Pexels",
+    "credit_en": "Photo: Pexels",
+    "alt_fr": "Stylo plume posé sur un carnet ouvert à signet rouge, évoquant la signature d'un mandat",
+    "alt_en": "Fountain pen resting on an open notebook with a red ribbon bookmark, evoking contract signing"
+  },
+  "prestige-paris-quartiers": {
+    "source": "https://www.pexels.com/photo/paris-with-eiffel-tower-15452274/",
+    "photographer": null,
+    "credit_fr": "Photo : Pexels",
+    "credit_en": "Photo: Pexels",
+    "alt_fr": "Vue sur les toits haussmanniens et avenues arborées des beaux quartiers de Paris avec la tour Eiffel",
+    "alt_en": "View over Haussmann rooftops and tree-lined avenues of a prestigious Paris district with the Eiffel Tower"
+  },
+  "villas-cote-azur": {
+    "source": "https://www.pexels.com/photo/luxury-villa-with-private-pool-and-sea-view-24807132/",
+    "photographer": "Ahmet Çötür",
+    "credit_fr": "Photo : Ahmet Çötür / Pexels",
+    "credit_en": "Photo: Ahmet Çötür / Pexels",
+    "alt_fr": "Piscine à débordement d'une villa de luxe avec transats face à la mer Méditerranée au coucher du soleil",
+    "alt_en": "Luxury villa infinity pool with sun loungers overlooking the Mediterranean sea and hills at sunset"
+  },
+  "golden-visa-2026": {
+    "source": "https://www.pexels.com/photo/the-acropolis-of-athens-at-greece-6924327/",
+    "photographer": null,
+    "credit_fr": "Photo : Pexels",
+    "credit_en": "Photo: Pexels",
+    "alt_fr": "L'Acropole d'Athènes et le Parthénon baignés de lumière dorée, au-dessus de l'odéon d'Hérode Atticus",
+    "alt_en": "The Acropolis of Athens and the Parthenon in golden evening light above the Odeon of Herodes Atticus"
+  },
+  "villa-mykonos": {
+    "source": "https://www.pexels.com/photo/the-mykonos-town-skyline-during-sunset-15241888/",
+    "photographer": null,
+    "credit_fr": "Photo : Pexels",
+    "credit_en": "Photo: Pexels",
+    "alt_fr": "Maisons blanches cycladiques de Mykonos face à la mer Égée au coucher du soleil",
+    "alt_en": "Whitewashed Cycladic houses of Mykonos town overlooking the Aegean Sea at sunset"
+  },
+  "hotel-grece": {
+    "source": "https://www.pexels.com/photo/santorini-greece-164284/",
+    "photographer": null,
+    "credit_fr": "Photo : Pexels",
+    "credit_en": "Photo: Pexels",
+    "alt_fr": "Hôtels blancs en terrasses avec piscines à flanc de falaise surplombant la caldeira de Santorin",
+    "alt_en": "Whitewashed cliffside hotels with terraces and pools overlooking the Santorini caldera"
+  },
+  "luxembourg-non-resident": {
+    "source": "https://www.pexels.com/photo/scenery-of-luxembourg-17007958/",
+    "photographer": null,
+    "credit_fr": "Photo : Pexels",
+    "credit_en": "Photo: Pexels",
+    "alt_fr": "Quartier du Grund à Luxembourg-Ville avec l'Alzette, l'abbaye de Neumünster et les remparts",
+    "alt_en": "Grund district of Luxembourg City with the Alzette river, Neumünster Abbey and old fortifications"
+  },
+  "europe-2026": {
+    "source": "https://www.pexels.com/photo/monaco-harbor-with-luxury-yachts-and-scenic-views-34712723/",
+    "photographer": null,
+    "credit_fr": "Photo : Pexels",
+    "credit_en": "Photo: Pexels",
+    "alt_fr": "Port Hercule de Monaco rempli de yachts de luxe, avec Monte-Carlo et la Riviera en arrière-plan",
+    "alt_en": "Port Hercule in Monaco filled with luxury yachts, with Monte Carlo and the Riviera coastline behind"
+  }
+}

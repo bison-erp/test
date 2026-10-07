@@ -1,3 +1,5 @@
+import { getPage } from "@/content/registry";
+import PageBody from "@/components/PageBody";
 import { SITE_URL } from "@shared/const";
 import Layout from "@/components/Layout";
 import SEOHead from "@/components/SEOHead";
@@ -83,13 +85,7 @@ export default function ContactNewsletter() {
 
   return (
     <Layout>
-      <SEOHead
-        title={t("seo.title", "Contact Our Private Advisors & Subscribe")}
-        description={t("seo.description", "Initiate a confidential inquiry with our private real estate advisors. Register for our exclusive off-market newsletter with secure double-email verification.")}
-        keywords={t("seo.keywords", "contact Acropolis Real Estate, private consultation luxury real estate, off-market newsletter real estate, luxury real estate agent Paris contact")}
-        canonicalUrl={SITE_URL + "/contact-newsletter"}
-        schemaType="ContactPage"
-      />
+      <SEOHead />
 
       <section className="py-24 bg-background">
         <div className="container max-w-6xl grid grid-cols-1 lg:grid-cols-12 gap-16 items-start">
@@ -101,8 +97,8 @@ export default function ContactNewsletter() {
                 {t("content.subtitle", "Private Consultation")}
               </span>
               <h1 className="font-serif-classic text-3xl md:text-4xl tracking-wide font-light text-primary">
-                {t("content.title", "Connect With Us")}
-              </h1>
+              {getPage("contact", language).data.h1}
+            </h1>
               <p className="font-sans-modern text-base text-foreground font-semibold leading-relaxed">
                 {t("content.description", "Whether you are looking to acquire a prestigious private residence, invest in institutional hospitality portfolios, or explore European Golden Visa programs, our dedicated team of advisors is at your service.")}
               </p>
@@ -340,6 +336,7 @@ export default function ContactNewsletter() {
 
         </div>
       </section>
+      <PageBody pageKey="contact" />
     </Layout>
   );
 }

@@ -1,3 +1,5 @@
+import Layout from "@/components/Layout";
+import { getPage } from "@/content/registry";
 import { SITE_URL } from "@shared/const";
 import React from "react";
 import SEOHead from "@/components/SEOHead";
@@ -8,21 +10,17 @@ export default function PrivacyPolicy() {
   const { t } = useTranslation("PrivacyPolicy");
   const { language } = useLanguage();
   return (
-    <div className="min-h-screen bg-[#F4F6F8] pt-32 pb-24">
-      <SEOHead
-        title={t("seo.title", "Privacy Policy")}
-        description={t("seo.description", "Learn how Acropolis Real Estate collects, uses, and protects your personal data in accordance with GDPR and international privacy standards.")}
-        keywords={t("seo.keywords", "privacy policy, GDPR compliance, data protection, real estate privacy")}
-        canonicalUrl={SITE_URL + "/privacy-policy"}
-      />
+    <Layout>
+    <div className="bg-[#F4F6F8] pt-12 pb-24">
+      <SEOHead />
       
       <div className="max-w-4xl mx-auto px-6">
         <span className="text-[#005CB8] font-semibold tracking-widest text-xs uppercase block mb-3">
           {t("content.subtitle", "Regulatory Compliance")}
         </span>
         <h1 className="font-serif text-4xl md:text-5xl text-[#0A1118] mb-8 leading-tight">
-          {t("content.title", "Privacy Policy")}
-        </h1>
+              {getPage("privacy", language).data.h1}
+            </h1>
         
         <div className="bg-white p-8 md:p-12 rounded-xl shadow-sm border border-[#E5E7EB] prose prose-slate max-w-none text-[#374151]">
           <p className="text-sm text-[#6B7280] mb-8">
@@ -99,5 +97,6 @@ export default function PrivacyPolicy() {
         </div>
       </div>
     </div>
+    </Layout>
   );
 }

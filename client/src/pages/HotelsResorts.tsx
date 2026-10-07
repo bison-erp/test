@@ -1,3 +1,5 @@
+import { getPage } from "@/content/registry";
+import PageBody from "@/components/PageBody";
 import { SITE_URL } from "@shared/const";
 import Layout from "@/components/Layout";
 import SEOHead from "@/components/SEOHead";
@@ -14,13 +16,7 @@ export default function HotelsResorts() {
 
   return (
     <Layout>
-      <SEOHead
-        title={t("seo.title", "Luxury Hotels & Resorts Investments Europe")}
-        description={t("seo.description", "Strategic hospitality acquisitions in major European capitals, France, and Greece. Specialized in off-market hotel transactions for institutional investors.")}
-        keywords={t("seo.keywords", "hotel for sale Europe, buy resort Greece, hotel investment France, boutique hotel for sale Paris, resort for sale Greek islands, hotel acquisition Europe capital cities")}
-        canonicalUrl={SITE_URL + "/hotels-resorts"}
-        schemaType="WebPage"
-      />
+      <SEOHead />
 
       {/* Header Banner - 100% Opacity with Glassmorphism Text Box */}
       <section className="relative h-[60vh] w-full flex items-center justify-center overflow-hidden">
@@ -38,7 +34,7 @@ export default function HotelsResorts() {
               {t("hero.subtitle", "Commercial Acquisitions")}
             </span>
             <h1 className="font-serif-classic text-3xl sm:text-4xl md:text-5xl tracking-wide font-light text-primary">
-              {t("hero.title", "Hotels &")} <span className="text-accent italic">{t("hero.titleHighlight", "Resorts Portfolio")}</span>
+              {getPage("hotelsResorts", language).data.h1}
             </h1>
             <p className="font-sans-modern text-sm sm:text-base text-foreground max-w-xl mx-auto font-semibold leading-relaxed">
               {t("hero.description", "Unlocking institutional-grade hospitality investments across Europe's prime tourist destinations. Specialized in confidential hotels, urban assets, and beachfront resorts.")}
@@ -182,6 +178,7 @@ export default function HotelsResorts() {
           </div>
         </div>
       </section>
+      <PageBody pageKey="hotelsResorts" />
     </Layout>
   );
 }

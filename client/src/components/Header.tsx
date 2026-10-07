@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Menu, X } from "lucide-react";
 import { useState, useEffect } from "react";
 import { useLanguage } from "../contexts/LanguageContext";
+import { alternatePath } from "@/content/registry";
 
 export default function Header() {
   const [location] = useLocation();
@@ -72,31 +73,35 @@ export default function Header() {
         {/* Desktop Language Switcher & Call To Action - visible from md and up */}
         <div className="hidden md:flex items-center space-x-4 shrink-0">
           <div className="flex items-center space-x-2.5 border-r border-border/60 pr-4">
-            <button
-              onClick={() => setLanguage("en")}
+            <a
+              href={alternatePath(location, "en")}
+              hrefLang="en"
+              onClick={(e) => { e.preventDefault(); setLanguage("en"); }}
               className={`flex items-center space-x-1 font-sans-modern text-[10px] tracking-widest uppercase transition-all duration-200 cursor-pointer ${
                 language === "en"
                   ? "text-accent font-bold scale-105"
                   : "text-primary/60 hover:text-accent font-medium"
               }`}
-              title="English"
+              title="English version"
             >
               <span className="text-xs">🇬🇧</span>
               <span>EN</span>
-            </button>
+            </a>
             <span className="text-primary/30 text-[10px]">|</span>
-            <button
-              onClick={() => setLanguage("fr")}
+            <a
+              href={alternatePath(location, "fr")}
+              hrefLang="fr"
+              onClick={(e) => { e.preventDefault(); setLanguage("fr"); }}
               className={`flex items-center space-x-1 font-sans-modern text-[10px] tracking-widest uppercase transition-all duration-200 cursor-pointer ${
                 language === "fr"
                   ? "text-accent font-bold scale-105"
                   : "text-primary/60 hover:text-accent font-medium"
               }`}
-              title="Français"
+              title="Version française"
             >
               <span className="text-xs">🇫🇷</span>
               <span>FR</span>
-            </button>
+            </a>
           </div>
           <Link href="/contact-newsletter">
             <Button
@@ -139,8 +144,12 @@ export default function Header() {
             })}
             {/* Mobile Language Switcher */}
             <div className="flex items-center justify-center space-x-6 py-4 border-t border-b border-border/40">
-              <button
-                onClick={() => {
+              <a
+                href={alternatePath(location, "en")}
+                hrefLang="en"
+                title="English version"
+                onClick={(e) => {
+                  e.preventDefault();
                   setLanguage("en");
                   setIsOpen(false);
                 }}
@@ -150,10 +159,14 @@ export default function Header() {
               >
                 <span className="text-sm">🇬🇧</span>
                 <span>English</span>
-              </button>
+              </a>
               <span className="text-primary/30">|</span>
-              <button
-                onClick={() => {
+              <a
+                href={alternatePath(location, "fr")}
+                hrefLang="fr"
+                title="Version française"
+                onClick={(e) => {
+                  e.preventDefault();
                   setLanguage("fr");
                   setIsOpen(false);
                 }}
@@ -163,7 +176,7 @@ export default function Header() {
               >
                 <span className="text-sm">🇫🇷</span>
                 <span>Français</span>
-              </button>
+              </a>
             </div>
             <Link href="/contact-newsletter" onClick={() => setIsOpen(false)}>
               <Button
