@@ -64,11 +64,11 @@ For agency fees, scales displayed by the large French networks commonly range fr
 
 Using a property finder does not remove the seller's agency fee, which stays built into the price. The useful question is whether being represented helps you buy better, choose better and avoid a costly mistake. For a fuller comparison of the two roles, read our guide to a [buyer's agent vs a luxury estate agency in Paris](/blog/buyers-agent-vs-luxury-estate-agency-paris "Buyer's agent vs luxury estate agency in Paris: which to choose?").
 
-## Our fees at Acropolis Real Estate
+## At Acropolis Real Estate: no additional cost compared with a local agency
 
-Our fees start **from 2% of the purchase price (VAT included)**, with a minimum flat fee quoted on request depending on the type of assignment (residence, offices, hotel) and the country. They are set out in the search mandate and become payable on signature of the deed of sale, in line with the Hoguet Act.
+The ranges above describe market practice, not our terms. At Acropolis Real Estate, we represent you, and only you, and our service is provided **at no additional cost compared with using a local real estate agency**. The usual costs of any purchase, such as notary fees and transfer duties, remain payable as for any acquisition.
 
-We act solely for buyers: we hold no sales mandates, so we are never on both sides of the same transaction. Our approach to a [luxury property search in Paris](/real-estate-paris "Luxury property search in Paris with Acropolis Real Estate") is set out on our dedicated page, and our professional details are available in our [regulatory disclosures](/regulatory-disclosures "Acropolis Real Estate regulatory disclosures").
+Our approach to a [luxury property search in Paris](/real-estate-paris "Luxury property search in Paris with Acropolis Real Estate") is set out on our dedicated page, and our professional details are available in our [regulatory disclosures](/regulatory-disclosures "Acropolis Real Estate regulatory disclosures").
 
 ## Tax treatment: the essentials
 
@@ -99,9 +99,11 @@ Before signing, check:
 - the written list of **included services** and of those billed separately;
 - the professional licence number, financial guarantee and insurance.
 
-To see what your budget buys by area, read our guide to [Paris prime real estate by neighbourhood](/blog/paris-prime-real-estate-neighbourhoods-prices "Paris prime real estate: neighbourhoods and prices 2026"). For a quote tailored to your plans, [get in touch with our team](/contact-newsletter "Request a quote from Acropolis Real Estate") or call +33 7 68 39 96 13.
+To see what your budget buys by area, read our guide to [Paris prime real estate by neighbourhood](/blog/paris-prime-real-estate-neighbourhoods-prices "Paris prime real estate: neighbourhoods and prices 2026"). To be supported at no additional cost compared with using a local real estate agency, [get in touch with our team](/contact-newsletter "Contact Acropolis Real Estate") or call +33 7 68 39 96 13.
 
 :::faq
+### Does your service cost more than a local agency?
+No. Acropolis Real Estate supports you at no additional cost compared with using a local real estate agency. The usual costs of any purchase, such as notary fees and transfer duties, remain payable as for any acquisition.
 ### Are property finder fees negotiable in France?
 Each professional sets their own fees, which can be adjusted to the budget, the complexity of the search and its geographical scope. What matters is that they are clearly written into the mandate before the search begins.
 ### When do you pay a buyer's agent in France?

@@ -34,9 +34,11 @@ Some agencies also accept search mandates. This is lawful, but it can create a c
 The two models are paid in different ways.
 
 - **The estate agency**: its fee is set in the sales mandate. It is usually payable by the seller and built into the advertised price, or sometimes payable by the buyer, in which case the listing must show the net price and the fee separately. Published scales commonly range from about 4% to 8% including VAT, decreasing as prices rise; in Paris, a study by the iad network found an average of around 5.4% including VAT on a €450,000 apartment.
-- **The buyer's agent**: their fee is paid by the buyer, on top of the price. Market practice in Paris generally ranges from 2% to 5% of the purchase price including VAT, or takes the form of a flat fee. At Acropolis Real Estate, fees start **from 2% of the purchase price (VAT included)**, with a minimum flat fee quoted on request.
+- **The buyer's agent**: in common market practice, their fee is paid by the buyer, on top of the price. Market practice in Paris generally ranges from 2% to 5% of the purchase price including VAT, or takes the form of a flat fee.
 
-Paying a buyer's agent on top of the agency's fee can look expensive. In practice, what matters is the final price: a better-run negotiation, a better choice of home or a defect spotted in time is often worth more. Our guide to [property finder fees in France](/blog/luxury-property-finder-fees-france "How much does a luxury property finder cost in France?") explains these mechanisms and their tax treatment.
+These figures describe the market, not our terms: at Acropolis Real Estate, our service is provided **at no additional cost compared with using a local real estate agency**.
+
+Under the usual model, paying a buyer's agent on top of the agency's fee can look expensive. In practice, what matters is the final price: a better-run negotiation, a better choice of home or a defect spotted in time is often worth more. Our guide to [property finder fees in France](/blog/luxury-property-finder-fees-france "How much does a luxury property finder cost in France?") explains these mechanisms and their tax treatment.
 
 ## Access to homes, including off-market listings
 
@@ -54,7 +56,7 @@ For buyers based abroad, this also covers practical points that agencies rarely 
 
 ## Comparison table: buyer's agent or luxury estate agency
 
-| Criterion | Luxury estate agency | Buyer's agent |
+| Criterion | Luxury estate agency | Buyer's agent (common practice) |
 |---|---|---|
 | Client | The seller | The buyer |
 | Mandate | Sales mandate | Search mandate |
@@ -64,6 +66,8 @@ For buyers based abroad, this also covers practical points that agencies rarely 
 | Price analysis | Sales pitch | Critical review of market evidence |
 | Remote purchase | Varies | Core of the service (video viewings, coordination of advisers) |
 | When the fee is due | On completion | On completion |
+
+This table describes common market practice. At Acropolis Real Estate, our commitment is simple: support at no additional cost compared with using a local real estate agency.
 
 ## Which one is right for your purchase?
 
@@ -93,11 +97,11 @@ If you decide to be represented, check a few simple points:
 4. **Method**: number of preliminary viewings, content of the reports, support through to completion.
 5. **International experience**: languages spoken, familiarity with non-resident buyers, coordination with your advisers.
 
-Acropolis Real Estate acts solely for buyers and holds no sales mandates. Our approach is described on our [Paris luxury property finder](/real-estate-paris "Paris luxury property finder: our buyer representation service") page, and our founder's background on the [About Acropolis Real Estate](/about "About Acropolis Real Estate and founder Nicolas Milonas") page. To discuss your plans, [tell us about your Paris purchase](/contact-newsletter "Contact Acropolis Real Estate") or call +33 7 68 39 96 13.
+At Acropolis Real Estate, we represent you, and only you, at no additional cost compared with using a local real estate agency. Our approach is described on our [Paris luxury property finder](/real-estate-paris "Paris luxury property finder: our buyer representation service") page, and our founder's background on the [About Acropolis Real Estate](/about "About Acropolis Real Estate and founder Nicolas Milonas") page. To discuss your plans, [tell us about your Paris purchase](/contact-newsletter "Contact Acropolis Real Estate") or call +33 7 68 39 96 13.
 
 :::faq
-### Is a buyer's agent more expensive than an estate agency?
-They are not the same fee. Agency fees are usually included in the price and paid by the seller, while a buyer's agent's fee is paid by the buyer on top of the price. The right comparison is the total cost of acquisition after negotiation.
+### Does your service cost more than a local agency?
+No. Acropolis Real Estate supports you at no additional cost compared with using a local real estate agency. The usual costs of any purchase, such as notary fees and transfer duties, remain payable as for any acquisition.
 ### Can a buyer's agent help with a home already listed by an agency?
 Yes. The buyer's agent can arrange the viewing, analyse the property and negotiate on your behalf with the agency holding the sales mandate. It is best to appoint them before your first viewing.
 ### Does a buyer's agent see the same homes as estate agencies?

@@ -64,11 +64,11 @@ Pour les frais d'agence, les barèmes affichés par les grands réseaux tournent
 
 Recourir à un chasseur n'efface pas les honoraires de l'agence du vendeur, qui restent intégrés au prix. La question utile est donc : la représentation de l'acquéreur permet-elle d'acheter mieux, de choisir mieux et d'éviter une erreur coûteuse ? Pour approfondir la différence entre les deux métiers, lisez notre comparatif [chasseur immobilier ou agence de luxe](/fr/blog/chasseur-immobilier-ou-agence-de-luxe-paris "Chasseur immobilier ou agence de luxe : qui choisir pour acheter à Paris ?").
 
-## Nos honoraires chez Acropolis Real Estate
+## Chez Acropolis Real Estate : sans frais supplémentaire par rapport à une agence locale
 
-Nos honoraires sont fixés **à partir de 2 % TTC du prix d'acquisition**, avec un forfait minimum sur devis selon la nature de la mission (résidence, bureaux, hôtel) et le pays concerné. Ils figurent dans le mandat de recherche et sont exigibles à la signature de l'acte authentique, conformément à la loi Hoguet.
+Les fourchettes ci-dessus décrivent les pratiques du marché, pas nos conditions. Chez Acropolis Real Estate, nous vous représentons, et vous seul, et notre accompagnement vous est proposé **sans aucun frais supplémentaire par rapport à une agence immobilière locale**. Les frais habituels de toute acquisition, comme les frais de notaire et les droits de mutation, restent dus comme pour tout achat.
 
-Nous intervenons exclusivement pour l'acquéreur : nous ne détenons aucun mandat de vente et ne sommes donc jamais des deux côtés d'une même transaction. Le détail de notre mission de [recherche de propriété de luxe à Paris](/real-estate-paris "Recherche de propriété de luxe à Paris avec Acropolis Real Estate") est présenté sur notre page dédiée, et nos informations professionnelles figurent dans les [informations réglementaires](/regulatory-disclosures "Informations réglementaires d'Acropolis Real Estate").
+Le détail de notre mission de [recherche de propriété de luxe à Paris](/real-estate-paris "Recherche de propriété de luxe à Paris avec Acropolis Real Estate") est présenté sur notre page dédiée, et nos informations professionnelles figurent dans les [informations réglementaires](/regulatory-disclosures "Informations réglementaires d'Acropolis Real Estate").
 
 ## Fiscalité : ce qu'il faut savoir
 
@@ -99,9 +99,11 @@ Avant de signer, vérifiez :
 - la liste écrite des **prestations incluses** et de celles facturées à part ;
 - le numéro de carte professionnelle, la garantie financière et l'assurance du professionnel.
 
-Pour mesurer ce que représente votre budget selon les quartiers, consultez notre guide [immobilier de prestige à Paris : quartiers et prix](/fr/blog/immobilier-de-prestige-paris-quartiers-prix "Immobilier de prestige à Paris : quartiers et prix 2026"). Et pour obtenir un devis adapté à votre projet, [contactez-nous](/contact-newsletter "Demander un devis à Acropolis Real Estate") ou appelez le +33 7 68 39 96 13.
+Pour mesurer ce que représente votre budget selon les quartiers, consultez notre guide [immobilier de prestige à Paris : quartiers et prix](/fr/blog/immobilier-de-prestige-paris-quartiers-prix "Immobilier de prestige à Paris : quartiers et prix 2026"). Et pour être accompagné sans aucun frais supplémentaire par rapport à une agence immobilière locale, [contactez-nous](/contact-newsletter "Contacter Acropolis Real Estate") ou appelez le +33 7 68 39 96 13.
 
 :::faq
+### Votre accompagnement coûte-t-il plus cher qu'une agence immobilière ?
+Non. Acropolis Real Estate vous accompagne sans aucun frais supplémentaire par rapport à une agence immobilière locale. Les frais habituels de toute acquisition, comme les frais de notaire et les droits de mutation, restent dus comme pour tout achat.
 ### Les honoraires d'un chasseur immobilier sont-ils négociables ?
 Ils sont librement fixés par chaque professionnel et peuvent s'ajuster selon le budget, la complexité de la mission et son périmètre géographique. L'essentiel est qu'ils soient écrits clairement dans le mandat avant le début de la recherche.
 ### Quand paie-t-on un chasseur immobilier ?

@@ -34,9 +34,11 @@ Certaines agences proposent aussi des mandats de recherche. C'est légal, mais c
 Les deux modèles ne se rémunèrent pas de la même façon.
 
 - **L'agence** : ses honoraires sont fixés dans le mandat de vente. Ils sont le plus souvent à la charge du vendeur et intégrés au prix affiché, ou parfois à la charge de l'acquéreur, auquel cas l'annonce doit distinguer le prix net vendeur et les honoraires. Les barèmes publiés tournent souvent entre 4 % et 8 % TTC, avec une dégressivité pour les prix élevés ; à Paris, une étude du réseau iad relevait une moyenne d'environ 5,4 % TTC pour un appartement de 450 000 €.
-- **Le chasseur** : ses honoraires sont payés par l'acquéreur, en plus du prix. Les pratiques de marché observées à Paris vont généralement de 2 % à 5 % TTC du prix d'acquisition, ou prennent la forme d'un forfait. Chez Acropolis Real Estate, ils sont fixés **à partir de 2 % TTC du prix d'acquisition**, avec un forfait minimum sur devis.
+- **Le chasseur** : dans la pratique courante du marché, ses honoraires sont payés par l'acquéreur, en plus du prix. Les pratiques observées à Paris vont généralement de 2 % à 5 % TTC du prix d'acquisition, ou prennent la forme d'un forfait.
 
-Payer un chasseur en plus des honoraires d'agence peut sembler coûteux. Dans les faits, le calcul se fait sur le prix final : une négociation mieux conduite, un bien mieux choisi ou un vice évité représentent souvent un enjeu supérieur. Notre article sur les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe : combien ça coûte vraiment ?") détaille ces mécanismes et leur traitement fiscal.
+Ces chiffres décrivent le marché, pas nos conditions : chez Acropolis Real Estate, notre accompagnement vous est proposé **sans aucun frais supplémentaire par rapport à une agence immobilière locale**.
+
+Dans le modèle courant, payer un chasseur en plus des honoraires d'agence peut sembler coûteux. Dans les faits, le calcul se fait sur le prix final : une négociation mieux conduite, un bien mieux choisi ou un vice évité représentent souvent un enjeu supérieur. Notre article sur les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe : combien ça coûte vraiment ?") détaille ces mécanismes et leur traitement fiscal.
 
 ## L'accès aux biens, y compris off-market
 
@@ -54,7 +56,7 @@ Pour un acquéreur établi à l'étranger, cette mission couvre aussi des points
 
 ## Tableau comparatif chasseur / agence de luxe
 
-| Critère | Agence immobilière de luxe | Chasseur immobilier (agent de l'acheteur) |
+| Critère | Agence immobilière de luxe | Chasseur immobilier (agent de l'acheteur, pratique courante) |
 |---|---|---|
 | Mandant | Le vendeur | L'acquéreur |
 | Type de mandat | Mandat de vente | Mandat de recherche |
@@ -64,6 +66,8 @@ Pour un acquéreur établi à l'étranger, cette mission couvre aussi des points
 | Analyse du prix | Argumentaire de vente | Analyse critique des références de marché |
 | Gestion à distance | Variable | Au cœur de la mission (visites vidéo, coordination des conseils) |
 | Moment du paiement | À la signature de l'acte | À la signature de l'acte |
+
+Ce tableau décrit les pratiques courantes du marché. Chez Acropolis Real Estate, notre engagement est simple : un accompagnement sans aucun frais supplémentaire par rapport à une agence immobilière locale.
 
 ## Quand choisir l'un ou l'autre ?
 
@@ -93,11 +97,11 @@ Si vous optez pour un agent de l'acheteur, vérifiez quelques points simples :
 4. **La méthode** : nombre de visites préalables, contenu des comptes rendus, accompagnement jusqu'à l'acte.
 5. **La disponibilité internationale** : langues parlées, habitude des acquéreurs non-résidents, coordination avec vos conseils.
 
-Acropolis Real Estate intervient exclusivement pour l'acquéreur, sans mandat de vente. Notre méthode est présentée sur la page [chasseur immobilier de luxe à Paris](/real-estate-paris "Chasseur immobilier de luxe à Paris : notre accompagnement"), et le parcours de notre fondateur sur la page [à propos d'Acropolis Real Estate](/about "Acropolis Real Estate et son fondateur Nicolas Milonas"). Pour en parler concrètement, [présentez-nous votre projet d'achat](/contact-newsletter "Contacter Acropolis Real Estate") ou appelez le +33 7 68 39 96 13.
+Chez Acropolis Real Estate, nous vous représentons, et vous seul, sans aucun frais supplémentaire par rapport à une agence immobilière locale. Notre méthode est présentée sur la page [chasseur immobilier de luxe à Paris](/real-estate-paris "Chasseur immobilier de luxe à Paris : notre accompagnement"), et le parcours de notre fondateur sur la page [à propos d'Acropolis Real Estate](/about "Acropolis Real Estate et son fondateur Nicolas Milonas"). Pour en parler concrètement, [présentez-nous votre projet d'achat](/contact-newsletter "Contacter Acropolis Real Estate") ou appelez le +33 7 68 39 96 13.
 
 :::faq
-### Un chasseur immobilier coûte-t-il plus cher qu'une agence ?
-Ce ne sont pas les mêmes honoraires. Les frais d'agence sont généralement inclus dans le prix et payés par le vendeur ; ceux du chasseur sont payés par l'acquéreur en plus du prix. Le bon calcul compare le coût total d'acquisition, après négociation.
+### Votre accompagnement coûte-t-il plus cher qu'une agence immobilière ?
+Non. Acropolis Real Estate vous accompagne sans aucun frais supplémentaire par rapport à une agence immobilière locale. Les frais habituels de toute acquisition, comme les frais de notaire et les droits de mutation, restent dus comme pour tout achat.
 ### Peut-on passer par un chasseur pour un bien affiché en agence ?
 Oui. Le chasseur peut organiser la visite, analyser le bien et négocier pour vous avec l'agence qui détient le mandat de vente. Il est préférable de le mandater avant votre première visite du bien.
 ### Le chasseur a-t-il accès aux mêmes biens que les agences ?
