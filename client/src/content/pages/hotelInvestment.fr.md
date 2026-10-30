@@ -12,7 +12,7 @@ related: /hotels-resorts, /golden-visa-greece, /residential-offices, /blog
 ctaTitle: Étudier votre projet d'investissement hôtelier
 ctaText: Présentez-nous votre budget, votre horizon et le type d'actif recherché : nous revenons vers vous avec une première lecture du marché et des cibles possibles.
 ---
-L'investissement hôtelier en Grèce est devenu l'un des segments les plus suivis par les investisseurs européens et internationaux : fréquentation record, montée en gamme de l'offre et transactions en hausse. Mais un hôtel n'est pas un appartement. Sa valeur dépend de son exploitation, de ses licences, de sa saison et de son droit à construire. Acropolis Real Estate agit comme chasseur indépendant, **pour le compte de l'acquéreur** : nous cherchons, analysons et sécurisons l'achat, sans mandat vendeur.
+L'investissement hôtelier en Grèce est devenu l'un des segments les plus suivis par les investisseurs européens et internationaux : fréquentation record, montée en gamme de l'offre et transactions en hausse. Mais un hôtel n'est pas un appartement. Sa valeur dépend de son exploitation, de ses licences, de sa saison et de son droit à construire. Acropolis Real Estate agit comme chasseur indépendant, **pour le compte de l'acquéreur** : nous cherchons, analysons et sécurisons l'achat.
 
 Cette page présente le marché, les actifs, les points juridiques et notre méthode. Pour une approche pas à pas, lisez aussi notre article [investir dans un hôtel en Grèce](/fr/blog/investir-hotel-grece "Investir dans un hôtel en Grèce : étapes, budget et pièges à éviter").
 
@@ -111,7 +111,7 @@ Un déroulé type de mission, présenté comme tel :
 5. **Coordination de la due diligence** avec vos avocats, ingénieurs et experts-comptables.
 6. **Signature et transition** vers l'exploitant retenu.
 
-L'équipe s'appuie sur le parcours de [Nicolas Milonas](/about "Nicolas Milonas et l'équipe d'Acropolis Real Estate"), plus de 25 ans d'investissement transfrontalier. Nos honoraires sont à partir de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis. Si vous combinez un projet hôtelier et une résidence familiale, voyez aussi notre page [Golden Visa Grèce](/golden-visa-greece "Golden Visa Grèce : résidence par l'achat d'un bien immobilier") et, pour une vision plus large, l'[investissement immobilier de prestige en Europe](/residential-offices "Investissement immobilier de prestige en Europe : résidences et bureaux"). Pour en parler, [contactez notre équipe](/contact-newsletter "Contacter Acropolis Real Estate") ou appelez le +33 7 68 39 96 13.
+L'équipe s'appuie sur le parcours de [Nicolas Milonas](/about "Nicolas Milonas et l'équipe d'Acropolis Real Estate"), plus de 25 ans d'investissement transfrontalier. Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale. Si vous combinez un projet hôtelier et une résidence familiale, voyez aussi notre page [Golden Visa Grèce](/golden-visa-greece "Golden Visa Grèce : résidence par l'achat d'un bien immobilier") et, pour une vision plus large, l'[investissement immobilier de prestige en Europe](/residential-offices "Investissement immobilier de prestige en Europe : résidences et bureaux"). Pour en parler, [contactez notre équipe](/contact-newsletter "Contacter Acropolis Real Estate") ou appelez le +33 7 68 39 96 13.
 
 :::faq
 ### Est-ce le bon moment pour un investissement hôtelier en Grèce ?
@@ -132,6 +132,6 @@ C'est de plus en plus difficile : gels de permis et nouvelles règles pour les �
 La loi de développement 4887/2022 prévoit un régime d'aide aux investissements touristiques (exonérations, subventions, crédit-bail). L'éligibilité dépend du projet et des appels ouverts.
 ### Faut-il exploiter l'hôtel soi-même ?
 Non. Un contrat de gestion avec un opérateur ou un bail à un exploitant permet d'investir sans gérer au quotidien.
-### Combien coûte votre accompagnement ?
-Nos honoraires sont à partir de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis, payés par l'acquéreur.
+### Votre accompagnement coûte-t-il plus cher qu'une agence immobilière ?
+Non. Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale. Les frais habituels de toute acquisition (frais de notaire, droits de mutation) restent dus, comme pour tout achat.
 :::

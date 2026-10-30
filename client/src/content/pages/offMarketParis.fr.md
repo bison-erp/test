@@ -59,7 +59,7 @@ Le réseau international de notre fondateur, Nicolas Milonas, construit au fil d
 
 ## Le cadre juridique : loi Hoguet et vérifications
 
-Off market ne veut pas dire hors cadre. En France, la loi Hoguet du 2 janvier 1970 encadre toute entremise immobilière : le professionnel doit détenir une carte professionnelle et un mandat écrit avant d'intervenir. Côté vendeur, le bien fait l'objet d'un mandat de vente, souvent assorti d'une clause de confidentialité. Côté acheteur, nous intervenons sous un mandat de recherche qui fixe la mission et les honoraires.
+Off market ne veut pas dire hors cadre. En France, la loi Hoguet du 2 janvier 1970 encadre toute entremise immobilière : le professionnel doit détenir une carte professionnelle et un mandat écrit avant d'intervenir. Côté vendeur, le bien fait l'objet d'un mandat de vente, souvent assorti d'une clause de confidentialité. Côté acheteur, nous vous représentons, et vous seul.
 
 Les obligations d'information restent les mêmes que pour une vente classique. Avant votre engagement, nous contrôlons notamment :
 
@@ -75,7 +75,7 @@ Une vente discrète va parfois vite. C'est justement le moment où ces contrôle
 Voici, à titre d'illustration, comment se déroule généralement une mission. Ce n'est pas le récit d'une transaction réelle.
 
 1. **Cadrage** : un acquéreur basé à l'étranger recherche un appartement familial de quatre chambres dans le 7e, avec vue et ascenseur, et souhaite que son nom ne circule pas.
-2. **Mandat et diffusion anonyme** : la recherche est décrite au réseau sans identité, avec la preuve de financement en appui.
+2. **Diffusion anonyme** : la recherche est décrite au réseau sans identité, avec la preuve de financement en appui.
 3. **Remontée des biens** : plusieurs propositions arrivent, dont certaines ne correspondent pas ; nous en visitons quelques-unes et en retenons deux.
 4. **Visite et analyse** : l'acquéreur vient à Paris pour une journée ; nous lui remettons un dossier complet sur chaque bien.
 5. **Négociation** : l'offre s'appuie sur les ventes comparables et sur les travaux à prévoir dans la copropriété.
@@ -85,7 +85,7 @@ La durée réelle dépend du marché et des critères. Nous ne garantissons pas 
 
 ## Honoraires, confidentialité et acquéreurs internationaux
 
-Nos honoraires s'élèvent **à partir de 2 % TTC du prix d'acquisition**, avec un forfait minimum sur devis, et ne sont dus qu'en cas d'achat. Nous ne facturons jamais l'accès à une liste de biens. Notre article sur les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe en France") explique les pratiques du marché.
+Notre accompagnement se fait **sans aucun frais supplémentaire par rapport à une agence immobilière locale**. Notre article sur les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe en France") explique les pratiques du marché.
 
 Pour les acquéreurs non-résidents, nous coordonnons le financement (les banques françaises demandent généralement un apport plus élevé), la structuration avec vos conseils et la signature à distance. Si votre projet dépasse Paris, la même méthode s'applique aux [villas off-market sur la Côte d'Azur](/fr/blog/villas-off-market-cote-d-azur "Villas off-market sur la Côte d'Azur") et aux [résidences et bureaux de prestige en Europe](/residential-offices "Résidences et bureaux de prestige en Europe").
 
@@ -104,8 +104,8 @@ Pas nécessairement. L'absence de surenchère publique peut faciliter la négoci
 ### Quelle part des ventes de prestige se fait off market à Paris ?
 Il n'existe pas de statistique officielle. Les professionnels l'estiment généralement entre 15 et 25 % dans les arrondissements les plus recherchés, et davantage pour les biens au-delà de 2 millions d'euros.
 
-### Faut-il payer pour accéder à une liste de biens off market ?
-Non. Nous ne vendons pas de listes. Nos honoraires, à partir de 2 % TTC du prix d'acquisition, ne sont dus qu'en cas d'achat effectif.
+### Votre accompagnement coûte-t-il plus cher qu'une agence immobilière ?
+Non. Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale. Les frais habituels de toute acquisition (frais de notaire, droits de mutation) restent dus, comme pour tout achat.
 
 ### Quel budget faut-il pour accéder au off market ?
 Il n'y a pas de seuil fixe, mais le marché discret concerne surtout les biens de prestige, souvent au-delà de 1,5 à 2 millions d'euros. Un financement établi est indispensable pour être pris au sérieux.

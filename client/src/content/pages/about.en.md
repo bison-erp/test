@@ -54,7 +54,7 @@ To explore our markets, see our pages on our work as a [Paris luxury property fi
 Nicolas Milonas is the founder of Acropolis Real Estate and has been President of Acropolis Group since 1999. Based in Luxembourg, he specialises in cross-border investment and M&A between Europe, China, Africa and the Middle East. He was an elected board member of the French Chamber of Commerce and Industry in China from 2019 to 2024.
 
 ### Is Acropolis Real Estate an estate agency?
-We are a buyer's agency: we act for the purchaser under a written search agreement. We do not market properties on behalf of sellers.
+Yes. As a real estate agency, Acropolis Real Estate has a network that gives you access to the finest properties, including off-market ones. We represent you, and only you, at no additional cost compared with using a local real estate agency.
 
 ### Who will I be working with?
 Nicolas Milonas is clients' direct point of contact for acquisitions and residency questions. He works with a team and with notaries, lawyers and local experts chosen for each market.

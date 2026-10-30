@@ -54,9 +54,9 @@ La signature n'est pas la fin du projet. Le transfert des licences et des contra
 
 ## Un déroulé type de mission
 
-À titre d'illustration : cadrage et mandat de recherche ; présélection de dossiers sous confidentialité ; visites ciblées hors saison ; lettre d'intention ; due diligence de quelques semaines ; négociation finale ; signature devant notaire ; préparation de la saison. La durée dépend fortement de la complexité de l'établissement et ne peut être garantie.
+À titre d'illustration : cadrage ; présélection de dossiers sous confidentialité ; visites ciblées hors saison ; lettre d'intention ; due diligence de quelques semaines ; négociation finale ; signature devant notaire ; préparation de la saison. La durée dépend fortement de la complexité de l'établissement et ne peut être garantie.
 
-Nos honoraires sont fixés à partir de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis. Pour approfondir, lisez notre guide [investir dans un hôtel en Grèce](/fr/blog/investir-hotel-grece "Investir dans un hôtel en Grèce : guide pratique"), découvrez notre approche de l'[investissement immobilier de prestige en Europe](/residential-offices "Investissement immobilier de prestige en Europe") ou [présentez-nous votre projet hôtelier](/contact-newsletter "Contacter Acropolis Real Estate pour une consultation privée").
+Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale. Pour approfondir, lisez notre guide [investir dans un hôtel en Grèce](/fr/blog/investir-hotel-grece "Investir dans un hôtel en Grèce : guide pratique"), découvrez notre approche de l'[investissement immobilier de prestige en Europe](/residential-offices "Investissement immobilier de prestige en Europe") ou [présentez-nous votre projet hôtelier](/contact-newsletter "Contacter Acropolis Real Estate pour une consultation privée").
 
 :::faq
 ### Un étranger peut-il acheter un hôtel en Grèce ?

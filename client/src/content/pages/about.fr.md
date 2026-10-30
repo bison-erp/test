@@ -54,7 +54,7 @@ Pour découvrir nos marchés, voyez nos pages [chasseur immobilier luxe Paris](/
 Nicolas Milonas est le fondateur d'Acropolis Real Estate et le président d'Acropolis Group depuis 1999. Basé au Luxembourg, il est spécialisé dans l'investissement transfrontalier et le M&A entre l'Europe, la Chine, l'Afrique et le Moyen-Orient. Il a été membre élu du conseil d'administration de la CCI France Chine de 2019 à 2024.
 
 ### Acropolis Real Estate est-elle une agence immobilière ?
-Nous sommes un chasseur immobilier : nous agissons pour l'acquéreur, dans le cadre d'un mandat de recherche écrit. Nous ne commercialisons pas de biens pour le compte de vendeurs.
+Oui. En tant qu'agence immobilière, Acropolis Real Estate dispose d'un réseau qui vous donne accès aux plus beaux biens, y compris off-market. Nous vous représentons, et vous seul, sans aucun frais supplémentaire par rapport à une agence immobilière locale.
 
 ### Avec qui vais-je travailler ?
 Nicolas Milonas est l'interlocuteur direct des clients pour les acquisitions et les questions de résidence. Il s'appuie sur une équipe et sur des notaires, avocats et experts locaux choisis pour chaque marché.

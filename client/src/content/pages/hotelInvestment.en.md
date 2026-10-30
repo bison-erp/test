@@ -12,7 +12,7 @@ related: /hotels-resorts, /golden-visa-greece, /residential-offices, /blog
 ctaTitle: Discuss your hotel investment project
 ctaText: Share your budget, time horizon and target asset, and we will come back with an initial market reading and possible targets.
 ---
-Hotel investment in Greece has become one of the most closely watched segments for European and international investors: record visitor numbers, an upgrading hotel stock and rising transaction volumes. But a hotel is not an apartment. Its value depends on how it is operated, on its licences, its season and its building rights. Acropolis Real Estate acts as an independent buyer's agent, **on behalf of the purchaser**: we search, analyse and secure the acquisition, with no seller mandate.
+Hotel investment in Greece has become one of the most closely watched segments for European and international investors: record visitor numbers, an upgrading hotel stock and rising transaction volumes. But a hotel is not an apartment. Its value depends on how it is operated, on its licences, its season and its building rights. Acropolis Real Estate acts as an independent buyer's agent, **on behalf of the purchaser**: we search, analyse and secure the acquisition.
 
 This page covers the market, the assets, the legal points and our method. For a step-by-step approach, read our article on [investing in a hotel in Greece](/blog/investing-hotel-greece "Investing in a hotel in Greece: steps, budget and pitfalls").
 
@@ -111,7 +111,7 @@ A typical engagement, presented as such:
 5. **Due diligence coordination** with your lawyers, engineers and accountants.
 6. **Signing and handover** to the chosen operator.
 
-The team draws on the background of [Nicolas Milonas](/about "Nicolas Milonas and the Acropolis Real Estate team"), with more than 25 years of cross-border investment. Our fees start from 2% of the purchase price (VAT included), with a minimum fixed fee on quotation. If you are combining a hotel project with a family residence, see also our page on [Greece Golden Visa real estate](/golden-visa-greece "Greece Golden Visa real estate: residency through property purchase") and, for a wider view, [luxury property investment in Europe](/residential-offices "Luxury property investment in Europe: residences and offices"). To discuss your project, [contact our team](/contact-newsletter "Contact Acropolis Real Estate") or call +33 7 68 39 96 13.
+The team draws on the background of [Nicolas Milonas](/about "Nicolas Milonas and the Acropolis Real Estate team"), with more than 25 years of cross-border investment. Our service comes at no additional cost compared with using a local real estate agency. If you are combining a hotel project with a family residence, see also our page on [Greece Golden Visa real estate](/golden-visa-greece "Greece Golden Visa real estate: residency through property purchase") and, for a wider view, [luxury property investment in Europe](/residential-offices "Luxury property investment in Europe: residences and offices"). To discuss your project, [contact our team](/contact-newsletter "Contact Acropolis Real Estate") or call +33 7 68 39 96 13.
 
 :::faq
 ### Is now a good time for hotel investment in Greece?
@@ -132,6 +132,6 @@ It is increasingly difficult, with permit freezes and new rules for saturated is
 Development Law 4887/2022 includes an aid scheme for tourism investments (tax exemptions, grants, leasing subsidies). Eligibility depends on the project and on open calls.
 ### Do I have to run the hotel myself?
 No. A management contract with an operator or a lease to a tenant-operator lets you invest without day-to-day management.
-### What do your services cost?
-Our fees start from 2% of the purchase price (VAT included), with a minimum fixed fee on quotation, paid by the buyer.
+### Does your service cost more than a local agency?
+No. Our service comes at no additional cost compared with using a local real estate agency. The usual costs of any purchase (notary fees, transfer duties) still apply, as they would for any acquisition.
 :::

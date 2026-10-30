@@ -12,7 +12,7 @@ related: /off-market-paris, /real-estate-french-riviera, /real-estate-luxembourg
 ctaTitle: Parlons de votre projet parisien
 ctaText: Un premier échange confidentiel suffit pour définir votre cahier des charges, votre budget et le calendrier réaliste de votre recherche.
 ---
-Un chasseur immobilier de luxe à Paris travaille pour une seule personne : l'acquéreur. Il ne vend aucun bien, n'a aucun stock à écouler et n'est rémunéré que si l'achat se conclut dans les conditions que vous avez fixées. Chez Acropolis Real Estate, cette règle structure tout le reste : la recherche, la négociation, les vérifications et l'accompagnement jusqu'à la signature chez le notaire.
+Un chasseur immobilier de luxe à Paris travaille pour une seule personne : l'acquéreur. Chez Acropolis Real Estate, cette règle structure tout le reste : la recherche, la négociation, les vérifications et l'accompagnement jusqu'à la signature chez le notaire.
 
 Notre clientèle est majoritairement internationale. Beaucoup de nos clients achètent à Paris en même temps qu'ils regardent la Côte d'Azur, le Luxembourg ou la Grèce, et ils attendent un interlocuteur unique, capable de comparer ces marchés avec la même exigence.
 
@@ -30,7 +30,7 @@ Notre démarche de recherche de propriété de luxe à Paris couvre les appartem
 
 ## Chasseur ou agence immobilière de luxe à Paris : quelle différence ?
 
-La question revient souvent, et la réponse tient en un mot : le mandat. Une agence immobilière de luxe à Paris détient en général un **mandat de vente** : elle est mandatée et rémunérée par le vendeur pour obtenir le meilleur prix. Un chasseur détient un **mandat de recherche** signé avec l'acheteur : son travail consiste à obtenir le bon bien au juste prix.
+La question revient souvent, et la réponse tient en une question : qui est représenté ? Une agence immobilière de luxe à Paris travaille en général pour le **vendeur**, avec pour mission d'obtenir le meilleur prix. Notre rôle est inverse : nous vous représentons, **vous et vous seul**, pour obtenir le bon bien au juste prix.
 
 | Critère | Agence immobilière de luxe | Chasseur immobilier (Acropolis) |
 |---|---|---|
@@ -38,7 +38,7 @@ La question revient souvent, et la réponse tient en un mot : le mandat. Une age
 | Biens proposés | Son portefeuille de mandats | Tout le marché, publié ou non |
 | Négociation | Vise le prix le plus haut | Vise le prix juste pour l'acheteur |
 | Vérifications | Dossier fourni par le vendeur | Analyse critique pour l'acheteur |
-| Rémunération | Payée sur le prix de vente | Honoraires de l'acheteur, au succès |
+| Rémunération | Payée sur le prix de vente | Sans aucun frais supplémentaire par rapport à une agence immobilière locale |
 
 Les deux métiers sont complémentaires : nous travaillons avec les agences de prestige parisiennes et consultons leurs biens au même titre que le reste du marché. Pour une analyse détaillée, lisez notre article [chasseur immobilier ou agence de luxe à Paris](/fr/blog/chasseur-immobilier-ou-agence-de-luxe-paris "Chasseur immobilier ou agence immobilière de luxe à Paris : comparatif").
 
@@ -64,16 +64,15 @@ Une partie importante des transactions haut de gamme se fait sans annonce : un v
 
 C'est l'un des premiers apports d'un chasseur. Nous présentons votre recherche de manière anonyme à notre réseau, nous qualifions les biens qui remontent et nous organisons les visites en toute discrétion. Pour comprendre le fonctionnement de ce marché parallèle, consultez notre page dédiée à l'[achat immobilier off market à Paris](/off-market-paris "Achat immobilier off market à Paris : méthode et accès").
 
-## Notre méthode en six étapes
+## Notre méthode en cinq étapes
 
 Voici le déroulé type d'une mission. Chaque projet a ses particularités, et nous ajustons le rythme au vôtre.
 
 1. **Entretien de cadrage** : usage du bien (résidence principale, pied-à-terre, investissement locatif, bureaux), budget global, quartiers, critères impératifs et calendrier.
-2. **Mandat de recherche** : un mandat écrit précise la mission et les honoraires, conformément à la loi Hoguet qui encadre les métiers de l'intermédiation immobilière.
-3. **Recherche et présélection** : veille du marché publié, sollicitation du réseau off-market, premières visites par nos soins, comptes rendus avec photos, plans et analyse du prix.
-4. **Visites accompagnées** : nous organisons vos visites sur un temps court, sur place ou en vidéo si vous êtes à l'étranger.
-5. **Négociation et offre** : argumentaire de prix fondé sur les ventes comparables, conditions suspensives adaptées, rédaction de l'offre.
-6. **Sécurisation jusqu'à l'acte** : analyse des diagnostics et des documents de copropriété, coordination avec votre notaire, votre banque et vos conseils, présence à la signature.
+2. **Recherche et présélection** : veille du marché publié, sollicitation du réseau off-market, premières visites par nos soins, comptes rendus avec photos, plans et analyse du prix.
+3. **Visites accompagnées** : nous organisons vos visites sur un temps court, sur place ou en vidéo si vous êtes à l'étranger.
+4. **Négociation et offre** : argumentaire de prix fondé sur les ventes comparables, conditions suspensives adaptées, rédaction de l'offre.
+5. **Sécurisation jusqu'à l'acte** : analyse des diagnostics et des documents de copropriété, coordination avec votre notaire, votre banque et vos conseils, présence à la signature.
 
 ## Vérifications : ce que nous contrôlons avant votre engagement
 
@@ -99,13 +98,13 @@ Pour en savoir plus sur notre parcours, rendez-vous sur la page [à propos d'Acr
 
 ## Honoraires et confidentialité
 
-Nos honoraires s'élèvent **à partir de 2 % TTC du prix d'acquisition**, avec un forfait minimum sur devis. Ils sont fixés dans le mandat de recherche et dus uniquement si l'achat se réalise. Le détail des pratiques du marché est présenté dans notre article sur les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe : comment ils sont calculés").
+Notre accompagnement se fait **sans aucun frais supplémentaire par rapport à une agence immobilière locale**. Le détail des pratiques du marché est présenté dans notre article sur les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe : comment ils sont calculés").
 
 La confidentialité fait partie de la mission. Votre identité n'est communiquée à un vendeur qu'avec votre accord, et les informations sur vos actifs et votre financement restent entre vous, nous et les professionnels strictement nécessaires à la transaction.
 
 :::faq
-### Combien coûte un chasseur immobilier de luxe à Paris ?
-Nos honoraires sont à partir de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis. Ils sont prévus dans le mandat de recherche et ne sont dus qu'en cas d'achat effectif.
+### Votre accompagnement coûte-t-il plus cher qu'une agence immobilière ?
+Non. Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale. Les frais habituels de toute acquisition (frais de notaire, droits de mutation) restent dus, comme pour tout achat.
 
 ### Combien de temps dure une recherche ?
 Cela dépend de la rareté du bien recherché et de la souplesse des critères. Une fois le bien trouvé, il faut généralement compter deux à trois mois entre l'avant-contrat et l'acte authentique. Nous ne promettons pas de délai, mais nous vous donnons un calendrier réaliste dès le premier entretien.
@@ -123,7 +122,7 @@ En grande partie, oui. Nous réalisons les premières visites, vous transmettons
 Oui, sous conditions. Les banques demandent en général un apport plus important et un dossier patrimonial solide. Nous vous orientons vers des établissements habitués à cette clientèle.
 
 ### Quels frais prévoir en plus du prix ?
-Dans l'ancien, les frais d'acquisition (droits de mutation, émoluments et débours du notaire) représentent généralement 7 à 8 % du prix. S'y ajoutent nos honoraires et, le cas échéant, les frais bancaires et de garantie.
+Dans l'ancien, les frais d'acquisition (droits de mutation, émoluments et débours du notaire) représentent généralement 7 à 8 % du prix. S'y ajoutent, le cas échéant, les frais bancaires et de garantie.
 
 ### Recherchez-vous aussi des bureaux ou des immeubles ?
 Oui. Nous accompagnons les entreprises et les investisseurs pour des bureaux prime, des sièges sociaux et des immeubles entiers, à Paris comme dans les autres pays où nous intervenons.

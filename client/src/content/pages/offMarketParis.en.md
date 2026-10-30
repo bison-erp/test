@@ -59,7 +59,7 @@ The international network of our founder, Nicolas Milonas, built over more than 
 
 ## The legal framework: the Hoguet law and due diligence
 
-Off-market does not mean outside the rules. In France, the Hoguet law of 2 January 1970 governs all property intermediation: a professional must hold a licence and a written mandate before acting. On the seller's side, the property is covered by a sale mandate, often with a confidentiality clause. On the buyer's side, we act under a search mandate that defines the assignment and the fees.
+Off-market does not mean outside the rules. In France, the Hoguet law of 2 January 1970 governs all property intermediation: a professional must hold a licence and a written mandate before acting. On the seller's side, the property is covered by a sale mandate, often with a confidentiality clause. On the buyer's side, we represent you, and only you.
 
 Disclosure obligations are the same as for any sale. Before you commit, we check in particular:
 
@@ -75,7 +75,7 @@ A discreet sale can move fast. That is exactly when these checks protect the buy
 The following illustrates how an assignment usually unfolds. It is not an account of a real transaction.
 
 1. **Brief**: a buyer based abroad wants a four-bedroom family apartment in the 7th, with a view and a lift, and does not want their name to circulate.
-2. **Mandate and anonymous outreach**: the search is described to the network without identity, backed by proof of funds.
+2. **Anonymous outreach**: the search is described to the network without identity, backed by proof of funds.
 3. **Leads arrive**: several proposals come in, some off-brief; we view a few and keep two.
 4. **Viewing and analysis**: the buyer spends one day in Paris, with a full file on each property.
 5. **Negotiation**: the offer rests on comparable sales and on the works the building will need.
@@ -85,7 +85,7 @@ Actual timing depends on the market and the brief. We do not guarantee timelines
 
 ## Fees, confidentiality and international buyers
 
-Our fees start **from 2% of the purchase price (VAT included)**, with a minimum fixed fee quoted on request, and are payable only if you buy. We never charge for access to a list of properties. Our article on [property finder fees in France](/blog/luxury-property-finder-fees-france "Luxury property finder fees in France") explains market practice.
+Our service comes **at no additional cost compared with using a local real estate agency**. Our article on [property finder fees in France](/blog/luxury-property-finder-fees-france "Luxury property finder fees in France") explains market practice.
 
 For non-resident buyers, we coordinate financing (French lenders typically ask for a larger deposit), structuring with your advisers and remote signing. If your plans reach beyond Paris, the same method applies to [off-market villas on the French Riviera](/blog/off-market-villas-french-riviera "Off-market villas on the French Riviera") and to [prime residences and offices across Europe](/residential-offices "Luxury property investment in Europe").
 
@@ -104,8 +104,8 @@ Not necessarily. The absence of public bidding can ease negotiation, but some se
 ### What share of prime sales in Paris is off-market?
 There is no official figure. Professionals generally estimate 15% to 25% in the most sought-after arrondissements, and more for properties above €2 million.
 
-### Do I have to pay to see a list of off-market properties?
-No. We do not sell lists. Our fees, from 2% of the purchase price (VAT included), are payable only if you complete a purchase.
+### Does your service cost more than a local agency?
+No. Our service comes at no additional cost compared with using a local real estate agency. The usual costs of any purchase (notary fees, transfer duties) still apply, as they would for any acquisition.
 
 ### What budget do I need to access the off-market?
 There is no fixed threshold, but the discreet market mainly concerns prime homes, often above €1.5 to €2 million. Proven funding is essential to be taken seriously.

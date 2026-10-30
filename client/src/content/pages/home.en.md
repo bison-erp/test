@@ -9,7 +9,7 @@ As a **luxury real estate buyer's agent in Europe**, Acropolis Real Estate works
 
 ## What a luxury real estate buyer's agent does
 
-A traditional estate agency is instructed by the seller. Its job is to sell the properties on its books, at the best price for its client. A buyer's agent does the opposite. We sign a search agreement with you, define a precise brief (location, size, aspect, intended use, total budget, timing) and then canvass the whole market: public listings, partner agencies, notaries, wealth managers and owners who would rather not advertise.
+A traditional estate agency is instructed by the seller. Its job is to sell the properties on its books, at the best price for its client. A buyer's agent does the opposite. We work for you, define a precise brief (location, size, aspect, intended use, total budget, timing) and then canvass the whole market: public listings, partner agencies, notaries, wealth managers and owners who would rather not advertise.
 
 In practice, we screen properties before you travel, view them on your behalf when it saves you time, benchmark every asking price against recent comparable sales and lead the negotiation. Our article on [buyer's agents versus luxury estate agencies in Paris](/blog/buyers-agent-vs-luxury-estate-agency-paris "Buyer's agent vs luxury estate agency in Paris: which to choose?") explains the difference in detail.
 
@@ -39,9 +39,9 @@ Athens, Mykonos, Santorini and Crete combine second homes, rental income and a r
 4. **Negotiation and offer**: pricing strategy, conditions precedent, signing timetable.
 5. **Through to completion**: coordination with the notary, lawyer, bank and translators where needed, until the keys are handed over.
 
-## Fees: from 2% of the purchase price
+## Fees: no additional cost
 
-Our fees start **from 2% of the purchase price (VAT included)**, with a minimum flat fee quoted according to the complexity of the search. They are set out in the search agreement before any work begins. Our guide to [property finder fees in France](/blog/luxury-property-finder-fees-france "Luxury property finder fees in France: what is included") explains what they cover.
+Our service comes **at no additional cost compared with using a local real estate agency**. Our guide to [property finder fees in France](/blog/luxury-property-finder-fees-france "Luxury property finder fees in France: what is included") explains market practice.
 
 ## Why Acropolis Real Estate
 
@@ -76,11 +76,8 @@ It depends on the market, the rarity of what you are looking for and how flexibl
 ### Can you search in several countries at once?
 Yes. Many clients compare, for instance, a Paris apartment with a villa in Greece, or a Luxembourg residence with a house on the Riviera. We then build a single comparison grid: price, acquisition costs, tax to be confirmed by your advisers, liquidity and intended use.
 
-### When are your fees payable?
-Our fees, from 2% of the purchase price (VAT included) with a minimum flat fee on quotation, are defined in the search agreement signed at the outset. Payment terms are set out there before any work begins.
-
-### Can you sell my property?
-No. We represent buyers only, which avoids any conflict of interest when we negotiate a price. We can, however, point you towards sales professionals if you need them.
+### Does your service cost more than a local agency?
+No. Our service comes at no additional cost compared with using a local real estate agency. The usual costs of any purchase (notary fees, transfer duties) still apply, as they would for any acquisition.
 
 ### Which languages do you work in?
 Nicolas Milonas works in French, English and Greek. The team works in French, English and Mandarin, which makes dealings with notaries, lawyers and international families smoother.

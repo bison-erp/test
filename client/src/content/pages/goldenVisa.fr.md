@@ -68,9 +68,9 @@ Le prix du bien n'est pas le seul budget. Voici les ordres de grandeur général
 | Avocat | environ 1 % à 2 % | Selon l'étendue de la mission, plus TVA |
 | Ingénieur (légalité urbanistique) | sur devis | Indispensable avant la promesse |
 | Titre de séjour | environ 2 000 € par adulte, plus 16 € de carte | Montants à confirmer auprès du ministère |
-| Honoraires Acropolis | à partir de 2 % TTC du prix d'acquisition | Forfait minimum sur devis |
+| Accompagnement Acropolis | sans aucun frais supplémentaire par rapport à une agence immobilière locale | – |
 
-Comptez en pratique environ 5 % à 7 % du prix en frais annexes hors honoraires de recherche, selon le bien et le montage.
+Comptez en pratique environ 5 % à 7 % du prix en frais annexes, selon le bien et le montage.
 
 ## Les étapes et le calendrier
 
@@ -98,7 +98,7 @@ Nous partons de l'usage réel du bien, pas seulement du seuil.
 
 ## Pourquoi passer par un chasseur immobilier
 
-Un agent qui détient le mandat du vendeur est rémunéré par la vente. Nous sommes mandatés et rémunérés par l'acheteur, ce qui change trois choses : la recherche porte sur tout le marché, y compris les biens hors marché ; la négociation se fait dans votre intérêt ; et les vérifications sont faites avant que vous ne soyez engagé.
+Un agent qui détient le mandat du vendeur est rémunéré par la vente. Nous représentons l'acquéreur, ce qui change trois choses : la recherche porte sur tout le marché, y compris les biens hors marché ; la négociation se fait dans votre intérêt ; et les vérifications sont faites avant que vous ne soyez engagé.
 
 Acropolis Real Estate s'appuie sur le parcours de son fondateur, [Nicolas Milonas](/about "Nicolas Milonas et l'équipe d'Acropolis Real Estate"), plus de 25 ans d'investissement transfrontalier pour des clients d'Europe, d'Asie et du Moyen-Orient. Nous travaillons en coordination avec votre avocat, votre notaire et votre banque, et nous pouvons aussi vous accompagner sur un actif hôtelier : voir [hôtels et resorts à vendre en Grèce](/hotels-resorts "Hôtels de charme et resorts à vendre en Grèce et en Europe"). Pour démarrer, [contactez notre équipe](/contact-newsletter "Contacter Acropolis Real Estate") ou appelez le +33 7 68 39 96 13.
 
@@ -119,8 +119,8 @@ Non. Un bien acquis pour le Golden Visa ne peut pas être loué en courte durée
 Non, pas automatiquement. La résidence fiscale dépend notamment du nombre de jours passés en Grèce et du centre de vos intérêts. Demandez l'avis d'un fiscaliste.
 ### Combien de temps dure la procédure ?
 Comptez quelques semaines à quelques mois pour trouver et acheter le bien, puis de quelques mois à près d'un an pour la délivrance de la carte, selon le service instructeur. Aucun délai n'est garanti.
-### Combien coûte l'accompagnement d'Acropolis ?
-Nos honoraires sont à partir de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis. Payés par l'acheteur, ils garantissent notre indépendance.
+### Votre accompagnement coûte-t-il plus cher qu'une agence immobilière ?
+Non. Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale. Les frais habituels de toute acquisition (frais de notaire, droits de mutation) restent dus, comme pour tout achat.
 ### Les règles peuvent-elles encore changer ?
 Oui. Le cadre a été modifié en 2024 et de nouvelles catégories sont à l'étude. Faites confirmer les règles applicables par un avocat grec à la date de votre achat.
 :::

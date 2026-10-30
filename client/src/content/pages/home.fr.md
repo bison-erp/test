@@ -9,7 +9,7 @@ Acheter un bien d'**immobilier de prestige** en Europe depuis l'étranger, c'est
 
 ## L'immobilier de prestige vu du côté de l'acheteur
 
-Une agence immobilière classique est mandatée par le vendeur : sa mission est de vendre le bien qu'elle a en portefeuille, au meilleur prix pour son client. Un chasseur immobilier de prestige fait l'inverse. Il signe un mandat de recherche avec l'acquéreur, construit avec lui un cahier des charges précis (quartier, surface, exposition, usage, budget, calendrier), puis interroge l'ensemble du marché : annonces publiques, agences partenaires, notaires, gestionnaires de patrimoine et vendeurs qui préfèrent ne pas publier leur bien.
+Une agence immobilière classique est mandatée par le vendeur : sa mission est de vendre le bien qu'elle a en portefeuille, au meilleur prix pour son client. Un chasseur immobilier de prestige fait l'inverse. Il travaille pour l'acquéreur, construit avec lui un cahier des charges précis (quartier, surface, exposition, usage, budget, calendrier), puis interroge l'ensemble du marché : annonces publiques, agences partenaires, notaires, gestionnaires de patrimoine et vendeurs qui préfèrent ne pas publier leur bien.
 
 Concrètement, nous filtrons les biens avant que vous ne vous déplaciez, nous visitons pour vous lorsque c'est utile, nous comparons chaque prix aux références de transaction du secteur et nous menons la négociation. Pour mieux comprendre la différence entre les deux métiers, lisez notre analyse [chasseur immobilier ou agence de luxe à Paris](/fr/blog/chasseur-immobilier-ou-agence-de-luxe-paris "Chasseur immobilier ou agence de luxe à Paris : que choisir ?").
 
@@ -39,9 +39,9 @@ Athènes, Mykonos, Santorin et la Crète combinent résidence secondaire, rendem
 4. **Négociation et offre** : stratégie de prix, conditions suspensives, calendrier de signature.
 5. **Sécurisation jusqu'à l'acte** : coordination avec le notaire, l'avocat, la banque et, si besoin, les traducteurs, jusqu'à la remise des clés.
 
-## Honoraires : à partir de 2 % TTC
+## Honoraires : aucun frais supplémentaire
 
-Nos honoraires sont fixés **à partir de 2 % TTC du prix d'acquisition**, avec un forfait minimum établi sur devis selon la complexité de la mission. Ils sont prévus dans le mandat de recherche, avant tout engagement. Notre guide sur les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe : ce qui est inclus") explique ce qu'ils couvrent.
+Notre accompagnement se fait **sans aucun frais supplémentaire par rapport à une agence immobilière locale**. Notre guide sur les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe : ce qui est inclus") présente les pratiques du marché.
 
 ## Pourquoi Acropolis Real Estate
 
@@ -76,11 +76,8 @@ Cela dépend du marché, de la rareté du bien recherché et de la souplesse du 
 ### Pouvez-vous chercher dans plusieurs pays en même temps ?
 Oui. Beaucoup de nos clients comparent par exemple un appartement à Paris et une villa en Grèce, ou une résidence au Luxembourg et une maison sur la Côte d'Azur. Nous établissons alors une grille de comparaison commune : prix, frais d'acquisition, fiscalité à faire valider par vos conseils, liquidité et usage.
 
-### Quand les honoraires sont-ils dus ?
-Les honoraires, à partir de 2 % TTC du prix d'acquisition avec un forfait minimum sur devis, sont définis dans le mandat de recherche signé au démarrage. Leurs modalités de paiement y sont précisées avant toute démarche.
-
-### Pouvez-vous vendre mon bien ?
-Non. Nous représentons uniquement des acheteurs, ce qui évite tout conflit d'intérêts lorsque nous négocions un prix. Nous pouvons en revanche vous orienter vers des professionnels de la vente si vous en avez besoin.
+### Votre accompagnement coûte-t-il plus cher qu'une agence immobilière ?
+Non. Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale. Les frais habituels de toute acquisition (frais de notaire, droits de mutation) restent dus, comme pour tout achat.
 
 ### Dans quelles langues travaillez-vous ?
 Nicolas Milonas échange en français, en anglais et en grec. L'équipe travaille en français, en anglais et en mandarin, ce qui facilite les échanges avec les notaires, les avocats et les familles internationales.

@@ -69,9 +69,9 @@ The purchase price is only part of the budget. The figures below are typical ran
 | Lawyer | about 1% to 2% | Depending on scope, plus VAT |
 | Engineer (planning compliance) | on quotation | Essential before signing a preliminary agreement |
 | Residence permit | about €2,000 per adult, plus €16 for the card | To be confirmed with the Ministry |
-| Acropolis fees | from 2% of the purchase price (VAT included) | Minimum fixed fee on quotation |
+| Acropolis service | at no additional cost compared with using a local real estate agency | – |
 
-In practice, allow roughly 5% to 7% of the price for ancillary costs, excluding search fees, depending on the property and structure.
+In practice, allow roughly 5% to 7% of the price for ancillary costs, depending on the property and structure.
 
 ## Steps and timeline
 
@@ -99,7 +99,7 @@ Elsewhere in Europe, some countries have closed the property route (Portugal rem
 
 ## Why use a buyer's agent
 
-An agent holding the seller's mandate is paid when the sale completes. We are instructed and paid by the buyer, which changes three things: the search covers the whole market, including off-market homes; negotiation is conducted in your interest; and the checks are done before you are committed.
+An agent holding the seller's mandate is paid when the sale completes. We represent the buyer, which changes three things: the search covers the whole market, including off-market homes; negotiation is conducted in your interest; and the checks are done before you are committed.
 
 Acropolis Real Estate draws on the background of its founder, [Nicolas Milonas](/about "Nicolas Milonas and the Acropolis Real Estate team"): more than 25 years of cross-border investment for clients from Europe, Asia and the Middle East. We coordinate with your lawyer, notary and bank, and can also advise on hospitality assets: see [boutique hotels and resorts for sale in Greece](/hotels-resorts "Boutique hotels and resorts for sale in Greece and Europe"). To begin, [contact our team](/contact-newsletter "Contact Acropolis Real Estate") or call +33 7 68 39 96 13.
 
@@ -120,8 +120,8 @@ No. A property acquired for the Golden Visa cannot be let short-term or sublet; 
 Not automatically. Tax residence depends on factors such as days spent in Greece and your centre of interests. Take advice from a tax adviser.
 ### How long does the process take?
 Allow a few weeks to a few months to find and buy the property, then from a few months to close to a year for the card, depending on the processing office. No timeline is guaranteed.
-### How much does Acropolis charge?
-Our fees start from 2% of the purchase price (VAT included), with a minimum fixed fee on quotation. They are paid by the buyer, which keeps us independent of sellers.
+### Does your service cost more than a local agency?
+No. Our service comes at no additional cost compared with using a local real estate agency. The usual costs of any purchase (notary fees, transfer duties) still apply, as they would for any acquisition.
 ### Could the rules change again?
 Yes. The framework changed in 2024 and new categories are under discussion. Have a Greek lawyer confirm the rules that apply on the date of your purchase.
 :::

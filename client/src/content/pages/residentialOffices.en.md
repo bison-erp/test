@@ -57,13 +57,13 @@ At the top end, part of the market changes hands without advertising, because ow
 
 By way of illustration, this is how a typical residential investment engagement unfolds:
 
-1. **Week 1**: briefing, signature of the search agreement, discussion with your advisers.
+1. **Week 1**: briefing, discussion with your advisers.
 2. **Weeks 2 to 6**: search, screening viewings, comparison files.
 3. **Viewing trip**: you visit the shortlisted properties over one or two days.
 4. **Offer and negotiation**: price, conditions precedent, timetable.
 5. **Preliminary contract and completion**: coordination with the notary, bank and translators where needed.
 
-This timetable is indicative only: it depends on the market and the rarity of what you are looking for. Our fees start from 2% of the purchase price (VAT included), with a minimum flat fee on quotation.
+This timetable is indicative only: it depends on the market and the rarity of what you are looking for. Our service comes at no additional cost compared with using a local real estate agency.
 
 To discuss your project, [request a private consultation](/contact-newsletter "Contact Acropolis Real Estate for a private consultation") or return to our overview as a [luxury real estate buyer's agent in Europe](/ "Acropolis Real Estate, luxury real estate buyer's agent in Europe").
 
@@ -83,8 +83,8 @@ That depends on your country of tax residence, your family situation and how the
 ### Are rental returns guaranteed?
 No. No return is guaranteed. We present prudent assumptions based on observed rents, voids and charges, and we flag the points that need attention.
 
-### How much does your service cost?
-Our fees start from 2% of the purchase price (VAT included), with a minimum flat fee quoted according to the complexity of the search. They are set out in the search agreement signed before any work begins.
+### Does your service cost more than a local agency?
+No. Our service comes at no additional cost compared with using a local real estate agency. The usual costs of any purchase (notary fees, transfer duties) still apply, as they would for any acquisition.
 
 ### Do you also advise on hotels?
 Yes, but that is a separate process involving an operating analysis. See our page on [boutique hotels for sale in Greece](/hotels-resorts "Boutique hotels and resorts for sale in Greece and Europe") and elsewhere in Europe.

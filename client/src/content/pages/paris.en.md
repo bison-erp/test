@@ -12,7 +12,7 @@ related: /off-market-paris, /real-estate-french-riviera, /real-estate-luxembourg
 ctaTitle: Tell us about your Paris search
 ctaText: A first confidential conversation is enough to define your brief, your budget and a realistic timeline for your purchase.
 ---
-A Paris luxury property finder works for one party only: the buyer. We sell nothing, carry no stock and are paid only if you complete a purchase on the terms you set. At Acropolis Real Estate, that principle shapes everything else: the search, the negotiation, the checks and the support we give you until the deed is signed before the notary.
+A Paris luxury property finder works for one party only: the buyer. At Acropolis Real Estate, that principle shapes everything else: the search, the negotiation, the checks and the support we give you until the deed is signed before the notary.
 
 Most of our clients live outside France. Many are weighing Paris against the French Riviera, Luxembourg or Greece at the same time, and they want a single adviser who can compare those markets with the same rigour.
 
@@ -30,7 +30,7 @@ We handle family apartments, pieds-à-terre, private mansions, whole buildings a
 
 ## Buyer's agent or luxury estate agency: what is the difference?
 
-It comes down to the mandate. A luxury estate agency in Paris usually holds a **sale mandate**: it is instructed and paid by the seller to achieve the highest price. A buyer's agent holds a **search mandate** signed with the buyer: the job is to secure the right property at the right price.
+It comes down to one question: who is being represented? A luxury estate agency in Paris usually works for the **seller**, with the aim of achieving the highest price. Our role is the opposite: we represent **you, and only you**, to secure the right property at the right price.
 
 | | Luxury estate agency | Buyer's agent (Acropolis) |
 |---|---|---|
@@ -38,7 +38,7 @@ It comes down to the mandate. A luxury estate agency in Paris usually holds a **
 | Properties offered | Its own listings | The whole market, listed or not |
 | Negotiation | Aims for the highest price | Aims for a fair price for the buyer |
 | Due diligence | File supplied by the seller | Critical review on the buyer's behalf |
-| Fees | Paid out of the sale price | Paid by the buyer, on success only |
+| Fees | Paid out of the sale price | At no additional cost compared with using a local real estate agency |
 
 The two roles are complementary: we work with the established Paris agencies and review their stock alongside the rest of the market. For a fuller comparison, read our article on [buyer's agents versus luxury estate agencies in Paris](/blog/buyers-agent-vs-luxury-estate-agency-paris "Buyer's agent vs luxury estate agency in Paris").
 
@@ -64,16 +64,15 @@ A significant share of high-end transactions happens without a listing: an owner
 
 This is one of the first things a finder brings. We present your search anonymously to our network, qualify what comes back and arrange viewings discreetly. To see how this parallel market works, visit our page on [off-market property in Paris](/off-market-paris "Off-market property in Paris: how buyers gain access").
 
-## Our six-step process
+## Our five-step process
 
 This is how a typical engagement runs. Every project is different, and we adapt the pace to yours.
 
 1. **Briefing**: intended use (main home, pied-à-terre, rental investment, offices), total budget, areas, must-haves and timing.
-2. **Search mandate**: a written mandate sets out the scope and the fees, as required by the Hoguet law, which governs property intermediaries in France.
-3. **Search and shortlist**: monitoring of listed stock, off-market sourcing through our network, first viewings by us, reports with photos, floor plans and a price analysis.
-4. **Accompanied viewings**: grouped over a short visit, or by video call if you are abroad.
-5. **Negotiation and offer**: a price case built on comparable sales, appropriate conditions precedent, and a drafted offer.
-6. **Through to completion**: review of surveys and building documents, coordination with your notary, lender and advisers, and attendance at signing.
+2. **Search and shortlist**: monitoring of listed stock, off-market sourcing through our network, first viewings by us, reports with photos, floor plans and a price analysis.
+3. **Accompanied viewings**: grouped over a short visit, or by video call if you are abroad.
+4. **Negotiation and offer**: a price case built on comparable sales, appropriate conditions precedent, and a drafted offer.
+5. **Through to completion**: review of surveys and building documents, coordination with your notary, lender and advisers, and attendance at signing.
 
 ## Due diligence: what we check before you commit
 
@@ -99,13 +98,13 @@ You can read more about our background on the [about Acropolis Real Estate](/abo
 
 ## Fees and confidentiality
 
-Our fees start **from 2% of the purchase price (VAT included)**, with a minimum fixed fee quoted on request. They are set out in the search mandate and payable only if the purchase completes. Our article on [luxury property finder fees in France](/blog/luxury-property-finder-fees-france "Property finder fees in France explained") explains market practice in detail.
+Our service comes **at no additional cost compared with using a local real estate agency**. Our article on [luxury property finder fees in France](/blog/luxury-property-finder-fees-france "Property finder fees in France explained") explains market practice in detail.
 
 Confidentiality is part of the brief. Your identity is disclosed to a seller only with your consent, and information about your assets and financing stays between you, us and the professionals strictly needed for the transaction.
 
 :::faq
-### How much does a Paris property finder cost?
-Our fees start from 2% of the purchase price (VAT included), with a minimum fixed fee quoted on request. They are written into the search mandate and payable only on completion.
+### Does your service cost more than a local agency?
+No. Our service comes at no additional cost compared with using a local real estate agency. The usual costs of any purchase (notary fees, transfer duties) still apply, as they would for any acquisition.
 
 ### How long does a search take?
 It depends on how rare the property is and how flexible the brief. Once a property is secured, allow two to three months between the preliminary contract and the final deed. We do not promise timelines, but we give you a realistic one at the first meeting.
@@ -123,7 +122,7 @@ Largely, yes. We carry out first viewings, send you videos and reports, and both
 Yes, subject to conditions. Banks generally ask for a larger deposit and a solid wealth profile. We point you to lenders used to international clients.
 
 ### What costs should I budget on top of the price?
-For existing property, acquisition costs (transfer duties and notary fees and disbursements) are generally 7% to 8% of the price. Add our fees and, where relevant, bank and security costs.
+For existing property, acquisition costs (transfer duties and notary fees and disbursements) are generally 7% to 8% of the price. Add, where relevant, bank and security costs.
 
 ### Do you also search for offices or whole buildings?
 Yes. We support companies and investors looking for prime offices, headquarters and entire buildings, in Paris and in the other countries where we work.

@@ -9,7 +9,7 @@ linkTitle: Contact Acropolis Real Estate for a private consultation
 
 Every enquiry is read personally. We reply **within 24 working hours** to arrange an initial conversation, by telephone or video call, at a time that suits you. This no-obligation discussion is about understanding your project: type of property, target market, intended use, overall budget and timing.
 
-If we can help, we send you a proposed search agreement setting out the scope of the engagement and our fees, from 2% of the purchase price (VAT included) with a minimum flat fee on quotation. Nothing is binding until you sign.
+If we can help, we propose support tailored to your project, at no additional cost compared with using a local real estate agency. Nothing is binding without your agreement.
 
 ## Confidentiality
 
@@ -26,7 +26,7 @@ Before we speak, you may wish to read about our work as a [Paris luxury property
 We reply within 24 working hours to every enquiry received through the form or by telephone.
 
 ### Is the first consultation charged?
-No. The first conversation is free and without obligation. Fees apply only if you sign a search agreement.
+No. The first conversation is free and without obligation. Our service then comes at no additional cost compared with using a local real estate agency.
 
 ### Can I remain anonymous at first?
 Yes. You can describe your project without detailing your personal situation. Your identity is disclosed to a seller only with your consent.

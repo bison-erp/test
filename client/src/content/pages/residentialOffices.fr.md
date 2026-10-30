@@ -57,13 +57,13 @@ Dans le haut de gamme, une partie des biens se négocie sans publicité, parce q
 
 À titre d'illustration, voici le déroulé type d'une mission d'investissement résidentiel :
 
-1. **Semaine 1** : entretien de cadrage, signature du mandat de recherche, échange avec vos conseils.
+1. **Semaine 1** : entretien de cadrage, échange avec vos conseils.
 2. **Semaines 2 à 6** : recherche, visites de filtrage, envoi de dossiers comparatifs.
 3. **Visite groupée** : vous visitez en une ou deux journées les biens retenus.
 4. **Offre et négociation** : prix, conditions suspensives, calendrier.
 5. **Avant-contrat puis acte** : coordination avec le notaire, la banque et, si besoin, les traducteurs.
 
-Ce calendrier est indicatif : il dépend du marché et de la rareté du bien recherché. Nos honoraires sont fixés à partir de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis.
+Ce calendrier est indicatif : il dépend du marché et de la rareté du bien recherché. Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale.
 
 Pour échanger sur votre projet, [demandez une consultation privée](/contact-newsletter "Contacter Acropolis Real Estate pour une consultation privée") ou revenez à notre présentation de l'[immobilier de prestige](/ "Acropolis Real Estate, chasseur d'immobilier de prestige en Europe").
 
@@ -83,8 +83,8 @@ Cela dépend de votre pays de résidence fiscale, de votre situation familiale e
 ### Le rendement locatif est-il garanti ?
 Non. Aucun rendement n'est garanti. Nous présentons des hypothèses prudentes fondées sur les loyers constatés, la vacance et les charges, et nous signalons les points de vigilance.
 
-### Combien coûte votre accompagnement ?
-Nos honoraires sont fixés à partir de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis selon la complexité de la mission. Ils sont prévus dans le mandat de recherche signé avant toute démarche.
+### Votre accompagnement coûte-t-il plus cher qu'une agence immobilière ?
+Non. Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale. Les frais habituels de toute acquisition (frais de notaire, droits de mutation) restent dus, comme pour tout achat.
 
 ### Intervenez-vous aussi pour des hôtels ?
 Oui, mais il s'agit d'une démarche distincte, avec une analyse d'exploitation. Notre page dédiée explique comment [acheter un hôtel en Grèce](/hotels-resorts "Acheter un hôtel ou un resort en Grèce et en Europe") ou ailleurs en Europe.

@@ -12,7 +12,7 @@ related: /real-estate-paris, /residential-offices, /residency-visas, /blog
 ctaTitle: Discuss your Riviera villa search
 ctaText: Tell us in confidence where, when and at what budget you want to buy, and we will give you a candid view of what the market can offer.
 ---
-A French Riviera buyer's agent searches for, negotiates and secures a prime property on behalf of the purchaser alone, with no fee or loyalty owed to the seller. Between Saint-Tropez and Menton, the Côte d'Azur holds some of the most expensive residential addresses in Europe, and a meaningful share of its best villas changes hands without ever appearing on a property portal. Acropolis Real Estate guides international buyers through that market, from the first brief to the handover of the keys.
+A French Riviera buyer's agent searches for, negotiates and secures a prime property on behalf of the purchaser alone, with no conflict of interest with the seller. Between Saint-Tropez and Menton, the Côte d'Azur holds some of the most expensive residential addresses in Europe, and a meaningful share of its best villas changes hands without ever appearing on a property portal. Acropolis Real Estate guides international buyers through that market, from the first brief to the handover of the keys.
 
 ## Why hire a French Riviera buyer's agent
 
@@ -101,7 +101,7 @@ Plan ahead for proof of source of funds, required by notaries and banks; financi
 4. **Negotiation** of price and conditions.
 5. **Coordination** with the notary, lawyer and bank through to completion.
 
-Our fees start from 2% of the purchase price (VAT included), with a minimum fee quoted on request; see our article on [property finder fees in France](/blog/luxury-property-finder-fees-france "Luxury property finder fees in France").
+Our service comes at no additional cost compared with using a local real estate agency; for market practice, see our article on [property finder fees in France](/blog/luxury-property-finder-fees-france "Luxury property finder fees in France").
 
 Acropolis Real Estate was founded by Nicolas Milonas, chairman of Acropolis Group since 1999 and a specialist in cross-border investment: learn more [about our approach](/about "About Acropolis Real Estate and Nicolas Milonas"). We also act as a [Paris luxury property finder](/real-estate-paris "Paris luxury property finder and buyer's agent"). For a confidential first conversation, [contact our team](/contact-newsletter "Contact Acropolis Real Estate").
 
@@ -109,8 +109,8 @@ Acropolis Real Estate was founded by Nicolas Milonas, chairman of Acropolis Grou
 ### What does a buyer's agent do on the French Riviera?
 They search for, shortlist, negotiate and secure a purchase on behalf of the buyer only, never the seller. On the Riviera, the role also covers access to off-market villas and coastal-specific legal checks.
 
-### How much does a French Riviera buyer's agent cost?
-Our fees start from 2% of the purchase price (VAT included), with a minimum fee quoted on request, agreed in writing before the search begins.
+### Does your service cost more than a local agency?
+No. Our service comes at no additional cost compared with using a local real estate agency. The usual costs of any purchase (notary fees, transfer duties) still apply, as they would for any acquisition.
 
 ### What budget do I need for a sea-view villa?
 It depends heavily on the area. Savills considers €15 million unlikely to secure a sea view on Cap Ferrat, whereas the hinterland behind Cannes offers family estates at far lower levels.

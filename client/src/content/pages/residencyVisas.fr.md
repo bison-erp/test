@@ -61,7 +61,7 @@ Notre métier est l'acquisition immobilière ; la demande de titre de séjour es
 4. **Acquisition** : négociation, signature et paiement selon les modalités exigées par le dispositif.
 5. **Dépôt du dossier** par l'avocat, avec les pièces immobilières que nous rassemblons.
 
-Nos honoraires d'acquisition sont fixés à partir de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis ; les honoraires de l'avocat sont distincts. Pour étudier votre situation, [demandez une consultation privée](/contact-newsletter "Contacter Acropolis Real Estate pour une consultation privée") ou découvrez notre approche de l'[investissement immobilier de prestige en Europe](/residential-offices "Investissement immobilier de prestige en Europe").
+Notre accompagnement à l'acquisition se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale ; les honoraires de l'avocat sont distincts. Pour étudier votre situation, [demandez une consultation privée](/contact-newsletter "Contacter Acropolis Real Estate pour une consultation privée") ou découvrez notre approche de l'[investissement immobilier de prestige en Europe](/residential-offices "Investissement immobilier de prestige en Europe").
 
 :::faq
 ### Quel pays européen accorde encore un visa de résidence par l'investissement immobilier ?

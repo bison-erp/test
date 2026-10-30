@@ -101,7 +101,7 @@ La France n'impose aucune restriction aux acquéreurs étrangers. Le déroulé :
 4. **Négociation** du prix et des conditions.
 5. **Coordination** avec le notaire, l'avocat et la banque jusqu'à l'acte.
 
-Nos honoraires partent de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis (voir notre article sur les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe")).
+Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale (pour les pratiques du marché, voir notre article sur les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe")).
 
 Acropolis Real Estate a été fondée par Nicolas Milonas, président d'Acropolis Group depuis 1999 et spécialiste de l'investissement transfrontalier : découvrez [notre approche](/about "À propos d'Acropolis Real Estate et de Nicolas Milonas"). Nous intervenons aussi comme [chasseur immobilier luxe à Paris](/real-estate-paris "Chasseur immobilier luxe Paris : recherche et négociation pour l'acheteur"). Pour un premier échange confidentiel, [contactez notre équipe](/contact-newsletter "Contacter Acropolis Real Estate").
 
@@ -109,8 +109,8 @@ Acropolis Real Estate a été fondée par Nicolas Milonas, président d'Acropoli
 ### Que fait un chasseur immobilier sur la Côte d'Azur ?
 Il recherche, sélectionne, négocie et sécurise l'achat pour le compte de l'acquéreur, sans représenter le vendeur. Sur la Côte d'Azur, il ouvre aussi l'accès aux biens off market et coordonne les vérifications propres au littoral.
 
-### Combien coûte un chasseur immobilier de prestige ?
-Nos honoraires partent de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis, fixés par écrit avant le début de la mission.
+### Votre accompagnement coûte-t-il plus cher qu'une agence immobilière ?
+Non. Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale. Les frais habituels de toute acquisition (frais de notaire, droits de mutation) restent dus, comme pour tout achat.
 
 ### Quel budget prévoir pour une villa avec vue mer ?
 Tout dépend du secteur. Selon Savills, 15 millions d'euros suffisent rarement pour une vue mer au Cap Ferrat, alors que l'arrière-pays cannois offre des propriétés familiales à des niveaux bien inférieurs.

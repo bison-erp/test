@@ -54,9 +54,9 @@ Signing is not the end of the project. Licences and contracts (suppliers, bookin
 
 ## A typical engagement
 
-By way of illustration: briefing and search agreement; shortlist of files under confidentiality; targeted out-of-season visits; letter of intent; due diligence lasting a few weeks; final negotiation; signing before a notary; preparation for the season. The duration depends heavily on the complexity of the property and cannot be guaranteed.
+By way of illustration: briefing; shortlist of files under confidentiality; targeted out-of-season visits; letter of intent; due diligence lasting a few weeks; final negotiation; signing before a notary; preparation for the season. The duration depends heavily on the complexity of the property and cannot be guaranteed.
 
-Our fees start from 2% of the purchase price (VAT included), with a minimum flat fee on quotation. To go further, read our guide on [investing in a hotel in Greece](/blog/investing-hotel-greece "Investing in a hotel in Greece: a practical guide"), explore our approach to [luxury property investment in Europe](/residential-offices "Luxury property investment in Europe") or [tell us about your hotel project](/contact-newsletter "Contact Acropolis Real Estate for a private consultation").
+Our service comes at no additional cost compared with using a local real estate agency. To go further, read our guide on [investing in a hotel in Greece](/blog/investing-hotel-greece "Investing in a hotel in Greece: a practical guide"), explore our approach to [luxury property investment in Europe](/residential-offices "Luxury property investment in Europe") or [tell us about your hotel project](/contact-newsletter "Contact Acropolis Real Estate for a private consultation").
 
 :::faq
 ### Can a foreigner buy a hotel in Greece?

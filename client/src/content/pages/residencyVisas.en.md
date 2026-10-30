@@ -61,7 +61,7 @@ Our business is property acquisition; the residence application is handled by a 
 4. **Acquisition**: negotiation, signing and payment in the form the scheme requires.
 5. **Application** filed by the lawyer, with the property documents we assemble.
 
-Our acquisition fees start from 2% of the purchase price (VAT included), with a minimum flat fee on quotation; the lawyer's fees are separate. To review your situation, [request a private consultation](/contact-newsletter "Contact Acropolis Real Estate for a private consultation") or explore our approach to [luxury property investment in Europe](/residential-offices "Luxury property investment in Europe").
+Our acquisition service comes at no additional cost compared with using a local real estate agency; the lawyer's fees are separate. To review your situation, [request a private consultation](/contact-newsletter "Contact Acropolis Real Estate for a private consultation") or explore our approach to [luxury property investment in Europe](/residential-offices "Luxury property investment in Europe").
 
 :::faq
 ### Which European country still offers residency through property investment?

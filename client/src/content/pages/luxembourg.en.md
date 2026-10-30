@@ -88,7 +88,7 @@ For an office building, we review the tenancy schedule, leases, energy performan
 
 ## Our method and fees
 
-A typical mission: defining the brief (use, districts, budget, timing), studying listed and confidential supply, shortlisting and viewings, reviewing documents (co-ownership rules, service charges, energy performance), negotiating, then coordinating the preliminary contract and the deed. Our fees start from 2% of the purchase price (VAT included), with a minimum fee quoted on request; our article on [luxury property finder fees](/blog/luxury-property-finder-fees-france "Luxury property finder fees explained") explains how fees work.
+A typical mission: defining the brief (use, districts, budget, timing), studying listed and confidential supply, shortlisting and viewings, reviewing documents (co-ownership rules, service charges, energy performance), negotiating, then coordinating the preliminary contract and the deed. Our service comes at no additional cost compared with using a local real estate agency; our article on [luxury property finder fees](/blog/luxury-property-finder-fees-france "Luxury property finder fees explained") explains how fees work.
 
 Comparing several markets? We also act as a [French Riviera buyer's agent](/real-estate-french-riviera "French Riviera buyer's agent for prime and off-market villas") and in Paris, and our analysis of [where to invest in luxury real estate in Europe in 2026](/blog/where-to-invest-luxury-real-estate-europe-2026 "Where to invest in luxury real estate in Europe in 2026") compares the main markets. To get started, [book a meeting with our team](/contact-newsletter "Contact Acropolis Real Estate in Luxembourg").
 
@@ -120,6 +120,6 @@ No timeline can be guaranteed. Once the property is found, the time between the 
 ### Do you help with office acquisitions?
 Yes, for private investors and for companies buying their own premises, from a single floor to an entire building.
 
-### What are your fees?
-From 2% of the purchase price (VAT included), with a minimum fee quoted on request, agreed in writing before the mission starts.
+### Does your service cost more than a local agency?
+No. Our service comes at no additional cost compared with using a local real estate agency. The usual costs of any purchase (notary fees, registration duties) still apply, as they would for any acquisition.
 :::

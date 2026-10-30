@@ -9,7 +9,7 @@ linkTitle: Contacter Acropolis Real Estate pour une consultation privée
 
 Chaque demande est lue personnellement. Nous vous répondons **sous 24 h ouvrées** pour convenir d'un premier entretien, par téléphone ou en visioconférence, à l'horaire qui vous convient. Cet échange, sans engagement, sert à comprendre votre projet : type de bien, marché visé, usage, budget global et calendrier.
 
-Si nous pouvons vous aider, nous vous adressons une proposition de mandat de recherche précisant la mission et nos honoraires, à partir de 2 % TTC du prix d'acquisition avec un forfait minimum sur devis. Rien n'est engagé avant votre signature.
+Si nous pouvons vous aider, nous vous proposons un accompagnement adapté à votre projet, sans aucun frais supplémentaire par rapport à une agence immobilière locale. Rien n'est engagé sans votre accord.
 
 ## Confidentialité
 
@@ -26,7 +26,7 @@ Avant notre échange, vous pouvez parcourir nos pages [chasseur immobilier luxe 
 Nous répondons sous 24 h ouvrées à toute demande reçue via le formulaire ou par téléphone.
 
 ### Le premier entretien est-il payant ?
-Non. Le premier échange est gratuit et sans engagement. Les honoraires ne s'appliquent que si vous signez un mandat de recherche.
+Non. Le premier échange est gratuit et sans engagement. Notre accompagnement se fait ensuite sans aucun frais supplémentaire par rapport à une agence immobilière locale.
 
 ### Puis-je rester anonyme au début ?
 Oui. Vous pouvez nous décrire votre projet sans détailler votre situation personnelle. Votre identité n'est communiquée à un vendeur qu'avec votre accord.

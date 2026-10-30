@@ -88,7 +88,7 @@ Pour un immeuble de bureaux, nous vérifions l'état locatif, les baux, la perfo
 
 ## Notre méthode et nos honoraires
 
-Déroulé type d'une mission : cadrage du projet (usage, quartiers, budget, calendrier), étude du marché publié et confidentiel, présélection et visites, analyse des documents (règlement de copropriété, charges, performance énergétique), négociation, puis coordination du compromis et de l'acte. Nos honoraires partent de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis ; les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe : ce qu'il faut savoir") sont expliqués dans notre blog.
+Déroulé type d'une mission : cadrage du projet (usage, quartiers, budget, calendrier), étude du marché publié et confidentiel, présélection et visites, analyse des documents (règlement de copropriété, charges, performance énergétique), négociation, puis coordination du compromis et de l'acte. Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale ; les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe : ce qu'il faut savoir") sont expliqués dans notre blog.
 
 Vous comparez plusieurs marchés ? Nous intervenons aussi comme [chasseur immobilier Côte d'Azur](/real-estate-french-riviera "Chasseur immobilier Côte d'Azur : villas de prestige et off market") et à Paris, et notre analyse [où investir dans l'immobilier de prestige en Europe en 2026](/fr/blog/ou-investir-immobilier-prestige-europe-2026 "Où investir dans l'immobilier de prestige en Europe en 2026") compare les grandes places. Pour démarrer, [prenez rendez-vous avec notre équipe](/contact-newsletter "Contacter Acropolis Real Estate à Luxembourg").
 
@@ -120,6 +120,6 @@ Aucun délai n'est garanti. Une fois le bien trouvé, la période entre le compr
 ### Accompagnez-vous les achats de bureaux ?
 Oui, pour des investisseurs privés comme pour des entreprises qui souhaitent acquérir leurs locaux, du plateau de bureaux à l'immeuble entier.
 
-### Quels sont vos honoraires ?
-À partir de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis, fixés par écrit avant le début de la mission.
+### Votre accompagnement coûte-t-il plus cher qu'une agence immobilière ?
+Non. Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale. Les frais habituels de toute acquisition (frais de notaire, droits d'enregistrement) restent dus, comme pour tout achat.
 :::
