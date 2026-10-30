@@ -86,7 +86,7 @@ Outside the golden visa route, a villa on Mykonos can generate significant seaso
 
 For investors thinking in portfolio terms, Mykonos can sit alongside other assets: see our approach to [luxury property investment in Europe](/residential-offices "Luxury property investment in Europe: residences and prime offices") or our guide to [investing in a hotel in Greece](/blog/investing-hotel-greece "Investing in a hotel in Greece: a buyer's guide").
 
-Acropolis Real Estate fees start from 2% of the purchase price (VAT included), with a minimum fee quoted on request. To begin a search on the island, [contact our team](/contact-newsletter "Contact Acropolis Real Estate").
+Acropolis Real Estate works at no additional cost compared with using a local real estate agency. To begin a search on the island, [contact our team](/contact-newsletter "Contact Acropolis Real Estate").
 
 :::faq
 ### How much does a villa in Mykonos cost?

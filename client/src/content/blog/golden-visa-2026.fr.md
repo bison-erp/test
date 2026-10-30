@@ -84,7 +84,7 @@ Au-delà du prix du bien, il faut budgéter, à titre indicatif :
 - **frais de dossier** : environ 2 000 € pour le demandeur principal et 150 € par membre de la famille, plus le coût de la carte de séjour ;
 - **assurance santé** couvrant chaque bénéficiaire.
 
-À cela s'ajoutent nos honoraires de recherche et de négociation, à partir de 2 % TTC du prix d'acquisition avec un forfait minimum sur devis.
+Notre accompagnement de recherche et de négociation se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale.
 
 ## Calendrier type d'un dossier
 

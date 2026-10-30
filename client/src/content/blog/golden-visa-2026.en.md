@@ -84,7 +84,7 @@ On top of the purchase price, plan for the following indicative items:
 - **government fees**: around €2,000 for the main applicant and €150 per family member, plus the residence card;
 - **health insurance** for every beneficiary.
 
-Our own search and negotiation fees start from 2% of the purchase price (VAT included), with a minimum fixed fee quoted on request.
+Our search and negotiation service comes at no additional cost compared with using a local real estate agency.
 
 ## A typical timeline, step by step
 

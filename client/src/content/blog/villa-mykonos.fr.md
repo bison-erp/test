@@ -86,7 +86,7 @@ Hors Golden Visa, une villa à Mykonos peut générer des revenus saisonniers im
 
 Pour un investisseur qui raisonne en portefeuille, Mykonos peut compléter d'autres actifs : voir notre approche de l'[investissement immobilier de prestige en Europe](/residential-offices "Investissement immobilier de prestige en Europe : résidences et bureaux prime") ou notre guide pour [investir dans un hôtel en Grèce](/fr/blog/investir-hotel-grece "Investir dans un hôtel en Grèce : le guide").
 
-Les honoraires d'Acropolis Real Estate démarrent à partir de 2 % TTC du prix d'acquisition, avec un forfait minimum sur devis. Pour une recherche à Mykonos, [contactez notre équipe](/contact-newsletter "Contacter Acropolis Real Estate").
+L'accompagnement d'Acropolis Real Estate se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale. Pour une recherche à Mykonos, [contactez notre équipe](/contact-newsletter "Contacter Acropolis Real Estate").
 
 :::faq
 ### Combien coûte une villa à Mykonos ?

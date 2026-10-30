@@ -86,7 +86,7 @@ Notre page [chasseur immobilier Luxembourg](/real-estate-luxembourg "Chasseur im
 5. **Lever les conditions** : prêt, vérifications du notaire.
 6. **Signer l'acte notarié** : le notaire perçoit les droits et, le cas échéant, applique le Bëllegen Akt. Le transfert de propriété est publié à la Publicité Foncière.
 
-Un déroulé type de mission d'un chasseur suit ces étapes, avec une sélection en amont et une négociation conduite pour l'acheteur. Nos honoraires partent de 2 % TTC du prix d'acquisition ; l'article sur les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe : barèmes et prestations") explique comment ils se calculent.
+Un déroulé type de mission d'un chasseur suit ces étapes, avec une sélection en amont et une négociation conduite pour l'acheteur. Notre accompagnement se fait sans aucun frais supplémentaire par rapport à une agence immobilière locale ; l'article sur les [honoraires d'un chasseur immobilier de luxe](/fr/blog/honoraires-chasseur-immobilier-luxe "Honoraires d'un chasseur immobilier de luxe : barèmes et prestations") présente les pratiques habituelles du marché.
 
 ## Location et fiscalité : les bases pour un non-résident
 

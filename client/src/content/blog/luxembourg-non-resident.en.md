@@ -84,7 +84,7 @@ Our [Luxembourg property finder](/real-estate-luxembourg "Luxembourg property fi
 5. **Satisfy the conditions**: loan offer and the notary's checks.
 6. **Sign the notarial deed**: the notary collects the duties and applies the Bëllegen Akt where relevant. The transfer is then recorded at the land registry (Publicité Foncière).
 
-A typical buyer's agent assignment follows the same steps, with shortlisting upstream and negotiation conducted solely for the buyer. Our fees start from 2% of the purchase price (VAT included); our article on [property finder fees](/blog/luxury-property-finder-fees-france "Property finder fees explained: rates and services") explains how they are calculated.
+A typical buyer's agent assignment follows the same steps, with shortlisting upstream and negotiation conducted solely for the buyer. Our service comes at no additional cost compared with using a local real estate agency; our article on [property finder fees](/blog/luxury-property-finder-fees-france "Property finder fees explained: rates and services") outlines usual market practice.
 
 ## Letting and tax: the essentials for non-residents
 
