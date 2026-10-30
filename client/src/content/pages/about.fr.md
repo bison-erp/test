@@ -35,7 +35,7 @@ Un achat immobilier de prestige à l'étranger mobilise bien plus qu'un agent : 
 
 ## Nos engagements
 
-**Nous représentons uniquement l'acheteur.** Nous ne détenons aucun mandat de vente : nos intérêts sont ceux de l'acquéreur, et de lui seul. Nos honoraires, à partir de 2 % TTC du prix d'acquisition avec un forfait minimum sur devis, sont fixés dans le mandat de recherche avant toute démarche.
+**Nous vous représentons, et vous seul.** Nos intérêts sont ceux de l'acquéreur. Un professionnel qualifié vous accueille et vous guide tout au long du processus, sans aucun frais supplémentaire par rapport à une agence immobilière locale.
 
 **La confidentialité est la règle.** Votre identité, votre budget et vos critères ne sont communiqués qu'aux interlocuteurs qui en ont besoin, et seulement avec votre accord. Les dossiers off-market sont échangés sous accord de confidentialité lorsque le vendeur le demande.
 

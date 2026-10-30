@@ -84,7 +84,7 @@ export default function Home() {
                 {t("intro.p1", "As a real estate agency, Acropolis Real Estate has a network that gives you access to the most beautiful apartments in Paris, the Paris region, the French Riviera, and Luxembourg, including off-market properties.")}
               </p>
               <p>
-                {t("intro.p2", "We identify your needs, and a qualified professional will select properties that match your requirements, welcome you, and guide you through the process, with fees from 2% of the purchase price agreed upfront.")}
+                {t("intro.p2", "We identify your needs, and a qualified professional will select properties that match your requirements, welcome you, and guide you throughout the entire process, at no additional cost compared with using a local real estate agency.")}
               </p>
               <div className="border-l-2 border-accent pl-4 py-1 my-4 space-y-3">
                 <p>

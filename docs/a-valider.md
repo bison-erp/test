@@ -4,7 +4,7 @@ Ces points sont repris de la rédaction. Ils ne bloquent pas la mise en ligne, m
 confirmés ou corrigés.
 
 ## Décisions commerciales
-- Honoraires affichés : « à partir de 2 % TTC du prix d'acquisition », avec un forfait minimum sur devis.
+- ✅ Tranché par le client le 30/10/2026 : pas d'honoraires chiffrés. Promesse : « sans aucun frais supplémentaire par rapport à une agence immobilière locale ».
 
 ## Golden Visa Grèce (à faire relire par un avocat grec)
 - Interdiction de la location courte durée : la durée exacte (moins de 60 jours ?) et la loi qui fixe l'amende de 50 000 € varient selon les sources (loi 5100/2024 ou loi 5275/2026).

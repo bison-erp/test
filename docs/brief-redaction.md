@@ -16,8 +16,10 @@ négocie et sécurise l'achat **pour le compte de l'acquéreur**.
 
 ## Décisions validées (à respecter partout)
 
-- **Honoraires** : « à partir de 2 % TTC du prix d'acquisition », avec un forfait minimum sur devis.
-  En anglais : « from 2% of the purchase price (VAT included) ». Ne donne pas d'autre chiffre d'honoraires.
+- **Rémunération** (validée par le client le 30/10/2026, voir `docs/correction-honoraires.md`) :
+  uniquement « sans aucun frais supplémentaire par rapport à une agence immobilière locale »
+  (EN : « at no additional cost compared with using a local real estate agency »). Aucun pourcentage,
+  aucun forfait, aucune explication du mode de rémunération.
 - **Golden Visa Grèce** : seuils de 800 000 € (Attique, Thessalonique, Mykonos, Santorin et îles de plus
   de 3 100 habitants), **400 000 €** dans le reste du pays, et 250 000 € pour la conversion de locaux
   commerciaux en logements ou la restauration de bâtiments classés. Un seul bien d'au moins 120 m²

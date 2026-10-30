@@ -35,7 +35,7 @@ Buying a prime property abroad involves far more than an agent: a notary, a lawy
 
 ## Our commitments
 
-**We represent the buyer only.** We hold no sales instructions: our interests are those of the purchaser, and the purchaser alone. Our fees, from 2% of the purchase price (VAT included) with a minimum flat fee on quotation, are set out in the search agreement before any work begins.
+**We represent you, and only you.** Our interests are those of the purchaser. A qualified real estate professional welcomes you and guides you throughout the entire process, at no additional cost compared with using a local real estate agency.
 
 **Confidentiality is the rule.** Your identity, budget and criteria are shared only with the people who need them, and only with your consent. Off-market files are exchanged under a non-disclosure agreement whenever the seller requires it.
 
