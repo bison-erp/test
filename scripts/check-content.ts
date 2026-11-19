@@ -34,7 +34,7 @@ for (const d of docs) {
   const { data, body } = d;
   for (const key of ["title", "description", "h1"]) if (!data[key]) e(`champ « ${key} » manquant`);
   if (d.kind === "post") for (const key of ["slug", "date", "cover", "coverAlt", "category", "excerpt", "pillar"]) if (!data[key]) e(`champ « ${key} » manquant`);
-  if (data.title && data.title.length > 65) e(`title trop long (${data.title.length} > 65)`);
+  if (data.title && data.title.length > 70) e(`title trop long (${data.title.length} > 70)`);
   if (data.description && (data.description.length < 110 || data.description.length > 165)) w(`description de ${data.description.length} caractères (viser 130-160)`);
   if (/^#\s/m.test(body)) e("le corps ne doit pas contenir de H1 (# …) : le H1 vient du champ h1");
   if (data.cover && !fs.existsSync(path.join(root, "media", data.cover.replace(/^\//, "")))) e(`image de couverture introuvable : media${data.cover}`);

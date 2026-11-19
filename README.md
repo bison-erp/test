@@ -37,6 +37,7 @@ pnpm check          # vérification TypeScript
 pnpm build          # génère dist/public (site complet pré-rendu)
 pnpm preview        # build + Worker local (wrangler dev)
 pnpm check:content  # vérification du contenu Markdown
+python3 scripts/audit-site.py dist/public  # audit SEO du site construit
 ```
 
 ## Déploiement
